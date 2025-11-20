@@ -1,0 +1,235 @@
+================================================================================
+GUÍA DE LUGARES DE IMPRESIÓN - NOMBRES LATINOS Y MODERNOS
+Catálogo de Libros Antiguos (1400-1800)
+================================================================================
+
+Esta guía correlaciona los nombres latinos y variantes encontrados en el
+catálogo con sus nombres modernos y ubicaciones geográficas.
+
+================================================================================
+LUGARES MÁS FRECUENTES (con normalizaciones aplicadas)
+================================================================================
+
+Madrid / Matriti / mad. / Matrit
+  → Madrid, España (919 obras)
+  → Capital de España desde 1561
+
+Paris / Parisiis / Lutetis Parisiorum
+  → París, Francia (402 obras)
+  → Capital de Francia
+
+Lugduni / Lugdun
+  → Lyon, Francia (158 obras)
+  → Segunda ciudad de Francia, importante centro editorial
+
+Salamanca / Salmanticae / Salmant.
+  → Salamanca, España (156 obras)
+  → Universidad fundada en 1218, importante centro académico
+
+Roma / Romae
+  → Roma, Italia (132 obras)
+  → Capital de los Estados Pontificios, centro editorial religioso
+
+Venecia / Venetiis
+  → Venecia, Italia (126 obras)
+  → República de Venecia, gran centro editorial del Renacimiento
+
+Amberes / Antuerpiæ / Antuerpiae / Anverpie / Antwerp
+  → Amberes, Bélgica (117 obras)
+  → Principal centro editorial de los Países Bajos españoles
+
+Valencia / Valentiae
+  → Valencia, España (114 obras)
+  → Reino de Valencia, importante centro impresor
+
+Sevilla / Hispali
+  → Sevilla, España (97 obras)
+  → Centro editorial con monopolio del comercio americano
+
+Barcelona / Barcinone
+  → Barcelona, España (71 obras)
+  → Principado de Cataluña
+
+Lisboa / Olisipone
+  → Lisboa, Portugal (66 obras)
+  → Capital de Portugal
+
+Coloniae / Colonia / Coloniae Allobrogum
+  → Coloniae = Colonia, Alemania (66 obras)
+  → Coloniae Allobrogum = Ginebra, Suiza
+  → IMPORTANTE: Diferenciar por contexto
+
+Amsterdam / Hemsterdamii
+  → Ámsterdam, Países Bajos (63 obras)
+  → Centro editorial de la República Holandesa
+
+Granada / Granata
+  → Granada, España (60 obras)
+  → Reino de Granada
+
+Alcalá / Compluti / Alcalá de Henares
+  → Alcalá de Henares, España (99 obras total)
+  → Universidad fundada en 1499, famosa por la Biblia Políglota
+
+Estrasburgo / Argentorati / Argentinae
+  → Estrasburgo, Francia/Alemania (39 obras)
+  → Ciudad libre del Sacro Imperio
+
+Basilea / Basileæ
+  → Basilea, Suiza (13 obras)
+  → Importante centro humanista y editorial
+
+London / Londres / Londini
+  → Londres, Inglaterra (9 obras)
+
+================================================================================
+LUGARES DUDOSOS O CON ERRORES OCR
+================================================================================
+
+ibid / Ibid (264 obras total)
+  → "ibidem" = "en el mismo lugar"
+  → Referencia al lugar de edición anterior
+  → NO es un lugar real
+  → RECOMENDACIÓN: Verificar entrada anterior para determinar el lugar
+
+Hispani (8 obras)
+  → Variante de "in Hispania" = "en España"
+  → Posibles lugares: Salamanca, Alcalá, Madrid
+  → RECOMENDACIÓN: Revisar transcripción completa para identificar ciudad
+
+Fudel (1 obra)
+  → Error OCR probable
+  → Posibles lecturas: "Tudel" (Tudela, España)
+  → RECOMENDACIÓN: Revisar imagen original
+
+Smeting (1 obra)
+  → Error OCR o transcripción poco común
+  → Posible: Ciudad alemana o flamenca
+  → RECOMENDACIÓN: Consultar contexto y fecha
+
+Antucap (1 obra)
+  → Error OCR evidente
+  → Probable: "Antuerpiæ" (Amberes)
+  → RECOMENDACIÓN: Verificar imagen original
+
+Gramatae (1 obra)
+  → Posible error por "Granatae" = Granada
+  → RECOMENDACIÓN: Verificar contexto
+
+Salmanitae (1 obra)
+  → Variante de "Salmanticae" = Salamanca
+  → CONFIRMADO: Salamanca, España
+
+Soetingae (1 obra)
+  → Error OCR de "Goettingae" = Gotinga, Alemania
+  → Universidad fundada en 1734
+  → CONFIRMADO: Göttingen, Alemania
+
+Lugdun (frecuente)
+  → Abreviatura de "Lugduni" = Lyon, Francia
+  → CONFIRMADO: Lyon
+
+Turino (2 obras)
+  → Forma italiana de "Turin" = Turín, Italia
+  → CONFIRMADO: Turín, Italia
+
+Paut. (1 obra)
+  → Error OCR probable
+  → Posible: "Parisii" (París) o abreviatura no identificada
+  → RECOMENDACIÓN: Revisar imagen
+
+Rost. (1 obra)
+  → Abreviatura de "Rostochii" = Rostock, Alemania
+  → Universidad fundada en 1419
+  → CONFIRMADO: Rostock, Alemania
+
+================================================================================
+LUGARES MENOS COMUNES PERO CORRECTOS
+================================================================================
+
+Burgos / Burgi
+  → Burgos, España (21 obras)
+  → Reino de Castilla
+
+Cádiz / Gades
+  → Cádiz, España (9 obras)
+  → Puerto principal del comercio americano desde s. XVIII
+
+Pamplona / Pampilonae
+  → Pamplona, España (38 obras)
+  → Reino de Navarra
+
+Malta / in Malta
+  → Malta (4 obras)
+  → Orden de Malta
+
+Lugo
+  → Lugo, España (6 obras)
+  → Galicia
+
+Lecce
+  → Lecce, Italia (frecuente en análisis)
+  → Reino de Nápoles
+
+Leiden / Lugduni Batavorum / Lugd. Batav.
+  → Leiden, Países Bajos
+  → Universidad fundada en 1575
+
+Firenze / Florentia
+  → Florencia, Italia
+  → República de Florencia, centro renacentista
+
+================================================================================
+RECOMENDACIONES PARA LUGARES DUDOSOS
+================================================================================
+
+1. "ibid" → SIEMPRE verificar entrada anterior del mismo autor
+
+2. Errores OCR comunes:
+   - "rn" ↔ "m"
+   - "cl" ↔ "d"
+   - "ii" ↔ "u"
+   - "nn" ↔ "m"
+   - "l" ↔ "I" (i mayúscula)
+
+3. Abreviaturas comunes:
+   - "Lugd." = Lugduni (Lyon)
+   - "Compl." = Compluti (Alcalá)
+   - "Hispal." = Hispali (Sevilla)
+   - "Valent." = Valentiae (Valencia)
+   - "Barcinon." = Barcinone (Barcelona)
+
+4. Ciudades multilingües:
+   - Ginebra: Genève, Geneva, Genevæ, Coloniae Allobrogum
+   - Estrasburgo: Strasbourg, Straßburg, Argentoratum, Argentorati
+   - Colonia: Köln, Cologne, Colonia Agrippina
+
+5. Contexto temporal:
+   - Pre-1500: Predominan Venecia, Roma, París, Lyon
+   - 1500-1600: Auge de Amberes, Basilea, Alcalá
+   - 1600-1700: Predominio español (Madrid, Sevilla, Zaragoza)
+   - 1700-1800: Madrid, París, Amsterdam
+
+================================================================================
+ESTADÍSTICAS DE DISTRIBUCIÓN GEOGRÁFICA
+================================================================================
+
+Por país (estimación):
+  España:        ~2,500 obras (34%)
+  Francia:         ~600 obras (8%)
+  Italia:          ~350 obras (5%)
+  Países Bajos:    ~200 obras (3%)
+  Alemania:         ~80 obras (1%)
+  Portugal:         ~70 obras (1%)
+  Sin identificar: ~4,000 obras (55%)
+
+Centros editoriales principales (Top 5):
+  1. Madrid (España) - 919 obras
+  2. París (Francia) - 402 obras
+  3. "ibid" (referencia) - 260 obras
+  4. Lyon (Francia) - 158 obras
+  5. Salamanca (España) - 156 obras
+
+================================================================================
+Fin de la guía
+================================================================================

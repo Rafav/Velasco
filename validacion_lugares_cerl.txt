@@ -1,0 +1,101 @@
+================================================================================
+VALIDACIÓN DE LUGARES DE EDICIÓN CONTRA TESAURO CERL
+================================================================================
+
+LUGARES VALIDADOS
+--------------------------------------------------------------------------------
+
+Lugar: Ibid (4 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: ibid (260 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Fudel (1 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Smeting (1 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Gramatae (1 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Salmanitae (1 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Soetingae (1 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Lugduni (158 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Coloniae (66 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Hispani (8 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+Lugar: Turino (2 obras en el catálogo)
+  Estado: No encontrado en CERL (posible error OCR o lugar poco común)
+
+================================================================================
+RESUMEN DE TODOS LOS LUGARES (ordenados por frecuencia)
+================================================================================
+
+Madrid                         :  919 obras
+Paris                          :  402 obras
+ibid                           :  260 obras
+Lugduni                        :  158 obras
+Salamanca                      :  156 obras
+Zaragoza                       :  139 obras
+Roma                           :  132 obras
+Venecia                        :  126 obras
+Amberes                        :  117 obras
+Valencia                       :  114 obras
+Sevilla                        :   97 obras
+Barcelona                      :   71 obras
+Lisboa                         :   66 obras
+Coloniae                       :   66 obras
+Amsterdam                      :   63 obras
+Granada                        :   60 obras
+Alcalá de Henares              :   55 obras
+Alcalá                         :   44 obras
+Estrasburgo                    :   39 obras
+Pamplona                       :   38 obras
+Burgos                         :   21 obras
+Colonia                        :   17 obras
+Antwerp                        :   15 obras
+Basilea                        :   13 obras
+Cadiz                          :    9 obras
+Londres                        :    9 obras
+Hispani                        :    8 obras
+Lugo                           :    6 obras
+Rome                           :    6 obras
+Malta                          :    4 obras
+Ibid                           :    4 obras
+Lyon                           :    4 obras
+London                         :    3 obras
+Geneva                         :    3 obras
+La Haye                        :    2 obras
+Lecce                          :    2 obras
+Turino                         :    2 obras
+madrid                         :    2 obras
+matriti                        :    2 obras
+compluti                       :    2 obras
+coloniae                       :    2 obras
+la Haye                        :    2 obras
+Fudel                          :    1 obras
+Firenze                        :    1 obras
+Soetingae                      :    1 obras
+Salmanitae                     :    1 obras
+Smeting                        :    1 obras
+Gramatae                       :    1 obras
+Ginebra                        :    1 obras
+Turin                          :    1 obras
+valencia                       :    1 obras
+lyon                           :    1 obras
+MAtriti                        :    1 obras
+PAris                          :    1 obras
+
+================================================================================
+Fin del reporte
