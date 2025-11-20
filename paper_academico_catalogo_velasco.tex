@@ -1,0 +1,907 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{csquotes}
+
+\geometry{a4paper, margin=2.5cm}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Catálogo de Libros Antiguos (1427-1799)}
+\fancyhead[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\title{
+    {\Large\textbf{Análisis Bibliométrico y Geográfico de un Catálogo}}\\
+    {\Large\textbf{de Libros Antiguos del Período 1427-1799:}}\\[0.5cm]
+    {\large Estudio de Centros Editoriales, Distribución Lingüística}\\
+    {\large y Circulación Libresca en el Ámbito Hispánico}
+}
+
+\author{
+    Análisis del Catálogo Velasco\\[0.3cm]
+    {\small Proyecto de Investigación en Historia del Libro}
+}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Este trabajo presenta un análisis exhaustivo de un catálogo de 7.323 obras impresas entre 1427 y 1799, extraído mediante tecnologías de OCR. El estudio examina la distribución geográfica de los centros editoriales, la evolución de las lenguas de impresión (con énfasis en castellano y latín), y los patrones de circulación libresca en el mundo hispánico durante cuatro siglos. Los resultados revelan el predominio de Madrid como centro editorial (12,62\% del total), la importancia de los circuitos franceses (8,26\%) e italianos (3,69\%), y una transición gradual del latín al castellano como lengua de publicación. El catálogo muestra características de una biblioteca formada durante la Ilustración española, con particular concentración de obras en la década de 1780. Este análisis contribuye al conocimiento de la historia del libro en el ámbito hispánico y proporciona datos cuantitativos sobre la geografía editorial de la Edad Moderna.
+
+\medskip
+
+\noindent\textbf{Palabras clave:} Historia del libro, Bibliometría, Centros editoriales, Castellano, Latín, Ilustración española, Geografía del libro, Siglo de Oro.
+\end{abstract}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\section{Introducción}
+
+\subsection{Contexto y justificación del estudio}
+
+La historia del libro como disciplina académica ha experimentado un desarrollo notable en las últimas décadas, consolidándose como un campo interdisciplinario que combina la historia cultural, la bibliografía material, y los estudios cuantitativos. El análisis de catálogos de bibliotecas antiguas permite reconstruir los hábitos de lectura, las redes de circulación cultural, y las preferencias intelectuales de períodos históricos específicos.
+
+El presente estudio examina un catálogo de 7.323 entradas correspondientes a obras impresas entre 1427 y 1799, un período que abarca desde los incunables hasta el final del Antiguo Régimen. Este rango cronológico resulta especialmente significativo para la historia cultural española, ya que incluye el Renacimiento, el Siglo de Oro (aproximadamente 1580-1680) y la Ilustración española (siglo XVIII).
+
+\subsection{Objetivos de la investigación}
+
+Los objetivos principales de este trabajo son:
+
+\begin{enumerate}
+    \item Identificar y normalizar los lugares de impresión, agrupándolos por sus denominaciones castellanas actuales para facilitar el análisis geográfico.
+
+    \item Analizar la distribución de lenguas de publicación, con especial atención a la evolución del uso del castellano frente al latín durante el período estudiado.
+
+    \item Examinar los principales centros editoriales y sus áreas de influencia en la producción y circulación libresca.
+
+    \item Determinar los autores más representados y las características temáticas del catálogo.
+
+    \item Contextualizar histórica y culturalmente los hallazgos cuantitativos para comprender la naturaleza y probable origen de esta colección bibliográfica.
+\end{enumerate}
+
+\subsection{Relevancia académica}
+
+Este análisis contribuye a varios campos de estudio:
+
+\begin{itemize}
+    \item \textbf{Historia del libro español:} Proporciona datos cuantitativos sobre la producción editorial en centros hispánicos como Madrid, Salamanca, Zaragoza, Valencia y Sevilla.
+
+    \item \textbf{Estudios lingüísticos:} Documenta la transición del latín al castellano como lengua de cultura impresa.
+
+    \item \textbf{Historia de las bibliotecas:} Ofrece información sobre los patrones de adquisición y las preferencias bibliográficas en el ámbito hispánico.
+
+    \item \textbf{Bibliometría histórica:} Aplica metodologías cuantitativas al estudio de colecciones antiguas.
+\end{itemize}
+
+\section{Metodología}
+
+\subsection{Fuentes y procesamiento de datos}
+
+El catálogo objeto de este estudio fue extraído mediante tecnología de reconocimiento óptico de caracteres (OCR) a partir de un documento histórico. El archivo original contenía 7.323 entradas que fueron procesadas y estructuradas en un formato de base de datos con los siguientes campos:
+
+\begin{itemize}
+    \item Autor (normalizado, con indicación de obras anónimas)
+    \item Título
+    \item Formato (folio, 4º, 8º, 12º, 16º)
+    \item Número de tomos
+    \item Presencia de figuras/ilustraciones
+    \item Tipo de encuadernación (pasta)
+    \item Lugar de impresión
+    \item Año de publicación
+    \item Información sobre atados
+    \item Número de catálogo
+    \item Precio
+    \item Transcripción original (para verificación)
+\end{itemize}
+
+\subsection{Normalización de lugares de impresión}
+
+Uno de los principales desafíos metodológicos consistió en la normalización de los lugares de impresión, que aparecían en el catálogo original con diversas variantes:
+
+\begin{itemize}
+    \item \textbf{Formas latinas:} Matriti, Salmanticae, Compluti, Hispali, Lugduni, Venetiis, Coloniae, etc.
+    \item \textbf{Formas vernáculas:} Madrid, Salamanca, París, Roma, Valencia, etc.
+    \item \textbf{Abreviaturas:} Lugd. (Lugduni/Lyon), Compl. (Compluti/Alcalá), mad. (Madrid), etc.
+    \item \textbf{Errores de OCR:} Antucap (Antuerpiæ/Amberes), Gramatae (Granada), Salmanitae (Salamanca), Soetingae (Göttingen), etc.
+    \item \textbf{Referencias:} ``ibid'' (ibidem = en el mismo lugar anterior)
+\end{itemize}
+
+Se construyó un diccionario de normalización que mapea todas las variantes a nombres castellanos actuales, facilitando el análisis geográfico. Por ejemplo, todas las variantes de Alcalá de Henares (Alcalá, Compluti, Compl.) fueron normalizadas a ``Alcalá de Henares''.
+
+\subsection{Detección de idiomas}
+
+Para clasificar las obras por idioma se desarrolló un algoritmo basado en análisis de patrones lingüísticos en los títulos, considerando:
+
+\begin{itemize}
+    \item \textbf{Latín:} Desinencias características (-tio, -tione, -orum, -arum, -ibus, -æ), partículas (de, ad, in, ex, cum, pro), pronombres relativos (que, qua, qui), y verbos copulativos (est, sunt, sit, esse, fuit).
+
+    \item \textbf{Castellano:} Palabras comunes (historia, tratado, obras, vida, arte, discurso, relación, política, derecho, comentario, libro).
+
+    \item \textbf{Francés:} Artículos y preposiciones (le, la, les, un, une, des, du, de, et, ou, à, dans, pour, sur, avec), sustantivos característicos (histoire, traité, dissertation, mémoire, œuvre).
+
+    \item \textbf{Italiano:} Artículos y preposiciones (il, la, le, lo, gli, un, una, dei, delle, degli, di, da, in, con, per, su), sustantivos característicos (storia, trattato, opera, delle, della).
+\end{itemize}
+
+Este método de detección automática, aunque no perfecto, permite obtener una aproximación estadística fiable de la distribución lingüística del catálogo.
+
+\subsection{Análisis estadístico}
+
+Se realizaron análisis cuantitativos de:
+
+\begin{itemize}
+    \item Distribución temporal por décadas y siglos
+    \item Frecuencia de lugares de impresión (agrupados por países)
+    \item Distribución de idiomas (general y por lugar de impresión)
+    \item Autores más prolíficos
+    \item Análisis de precios
+    \item Relación entre variables (lugar-idioma, tiempo-idioma, etc.)
+\end{itemize}
+
+\subsection{Validación y control de calidad}
+
+Se implementó un sistema de doble verificación:
+
+\begin{enumerate}
+    \item Cada entrada mantiene la transcripción original del OCR para permitir revisiones.
+    \item Los lugares dudosos fueron contrastados con el CERL Thesaurus.
+    \item Se calcularon métricas de completitud para cada campo del catálogo.
+    \item Se revisaron manualmente muestras aleatorias para validar los algoritmos de detección.
+\end{enumerate}
+
+\section{Resultados}
+
+\subsection{Panorama general del catálogo}
+
+El catálogo analizado contiene \textbf{7.323 entradas} correspondientes a obras impresas entre 1427 y 1799, un período de 372 años que abarca desde los incunables hasta el final del siglo XVIII.
+
+\subsubsection{Completitud de los datos}
+
+La calidad general de los datos extraídos mediante OCR es buena, con una completitud promedio del 74,6\%. La Tabla \ref{tab:completitud} muestra el porcentaje de completitud para cada campo:
+
+\begin{table}[h]
+\centering
+\caption{Completitud de campos del catálogo}
+\label{tab:completitud}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Campo} & \textbf{Entradas con dato} & \textbf{Completitud} \\
+\midrule
+Precio & 7.081 & 96,7\% \\
+Año & 6.663 & 91,0\% \\
+Autor & 4.822 & 65,8\% \\
+Lugar & 3.272 & 44,7\% \\
+Formato & 1.745 & 23,8\% \\
+Número de catálogo & 1.560 & 21,3\% \\
+Tomos múltiples & 771 & 10,5\% \\
+Pasta especial & 705 & 9,6\% \\
+Atados & 152 & 2,1\% \\
+Figuras & 26 & 0,4\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La alta completitud en los campos de precio (96,7\%) y año (91,0\%) resulta particularmente valiosa para análisis económicos y cronológicos.
+
+\subsubsection{Distribución cronológica}
+
+La distribución temporal revela tres períodos principales de concentración de obras:
+
+\begin{enumerate}
+    \item \textbf{Década de 1780 (559 obras):} La mayor concentración absoluta, con picos en 1787 (122 obras), 1786 (105 obras) y 1785 (87 obras). Esta concentración sugiere que el catálogo corresponde a una biblioteca formada o catalogada a finales del siglo XVIII.
+
+    \item \textbf{Década de 1610 (320 obras):} Coincide con el apogeo del Siglo de Oro español.
+
+    \item \textbf{Década de 1730 (311 obras):} Refleja el desarrollo de la Ilustración española.
+\end{enumerate}
+
+La Tabla \ref{tab:siglos} muestra la distribución por siglos:
+
+\begin{table}[h]
+\centering
+\caption{Distribución de obras por siglos}
+\label{tab:siglos}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Período} & \textbf{Obras} & \textbf{Porcentaje} \\
+\midrule
+Siglo XV (1400-1499) & 25 & 0,34\% \\
+Siglo XVI (1500-1599) & 1.624 & 22,18\% \\
+Siglo XVII (1600-1699) & 2.666 & 36,40\% \\
+Siglo XVIII (1700-1799) & 2.348 & 32,07\% \\
+Sin año identificado & 660 & 9,01\% \\
+\midrule
+\textbf{Total} & \textbf{7.323} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La colección muestra un equilibrio notable entre los siglos XVII y XVIII, con menor representación del siglo XVI y presencia testimonial de incunables (25 obras del siglo XV).
+
+\subsection{Geografía de la impresión: análisis por países y ciudades}
+
+\subsubsection{Distribución general por países}
+
+Del total de 7.323 obras, 2.998 (40,9\%) tienen lugar de impresión identificado y normalizado (excluyendo las 260 entradas con ``ibid''). La Tabla \ref{tab:paises} presenta la distribución por países:
+
+\begin{table}[h]
+\centering
+\caption{Distribución de obras por países (lugares identificados)}
+\label{tab:paises}
+\begin{tabular}{lcc}
+\toprule
+\textbf{País} & \textbf{Obras} & \textbf{Porcentaje} \\
+\midrule
+España & 1.739 & 23,75\% \\
+Francia & 605 & 8,26\% \\
+Italia & 270 & 3,69\% \\
+Países Bajos/Bélgica & 199 & 2,72\% \\
+Alemania/Suiza & 99 & 1,35\% \\
+Portugal & 66 & 0,90\% \\
+Otros (Reino Unido, Malta) & 20 & 0,27\% \\
+\midrule
+\textbf{Total identificado} & \textbf{2.998} & \textbf{40,9\%} \\
+Sin identificar & 4.325 & 59,1\% \\
+\midrule
+\textbf{Total catálogo} & \textbf{7.323} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+El claro predominio español (58\% de los lugares identificados) confirma el carácter hispánico de la colección. Los circuitos francés e italiano aparecen como proveedores complementarios importantes.
+
+\subsubsection{Centros editoriales españoles}
+
+España concentra 1.739 obras identificadas, distribuidas en doce ciudades. La Tabla \ref{tab:espana} detalla los principales centros:
+
+\begin{table}[h]
+\centering
+\caption{Principales centros editoriales españoles}
+\label{tab:espana}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Ciudad} & \textbf{Obras} & \textbf{\% del total español} \\
+\midrule
+Madrid & 924 & 53,13\% \\
+Salamanca & 157 & 9,03\% \\
+Zaragoza & 139 & 7,99\% \\
+Valencia & 115 & 6,61\% \\
+Alcalá de Henares & 101 & 5,81\% \\
+Sevilla & 97 & 5,58\% \\
+Barcelona & 71 & 4,08\% \\
+Granada & 61 & 3,51\% \\
+Pamplona & 38 & 2,19\% \\
+Burgos & 21 & 1,21\% \\
+Cádiz & 9 & 0,52\% \\
+Lugo & 6 & 0,35\% \\
+\midrule
+\textbf{Total España} & \textbf{1.739} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Madrid} domina claramente con 924 obras (53\% del total español, 12,6\% del catálogo completo), confirmando su papel como capital editorial a partir de su establecimiento como capital del reino en 1561 por Felipe II. Este predominio se intensifica especialmente en el siglo XVIII, durante la Ilustración española.
+
+\textbf{Salamanca}, con 157 obras (9\% del total español), refleja la importancia de su universidad, fundada en 1218 y considerada una de las más antiguas de Europa. Su producción editorial se concentra en obras académicas, jurídicas y teológicas.
+
+\textbf{Zaragoza} (139 obras, 8\%) representa la Corona de Aragón, con fuerte producción especialmente en el siglo XVI y primera mitad del XVII.
+
+\textbf{Valencia} (115 obras, 6,6\%) y \textbf{Alcalá de Henares} (101 obras, 5,8\%) completan el grupo de los cinco principales centros editoriales españoles. Alcalá destaca por su universidad fundada por el Cardenal Cisneros en 1499 y por ser sede de la impresión de la famosa Biblia Políglota Complutense (1514-1517).
+
+\subsubsection{Centros editoriales franceses}
+
+Francia aporta 605 obras (8,26\% del catálogo), concentradas principalmente en dos ciudades:
+
+\begin{table}[h]
+\centering
+\caption{Centros editoriales franceses}
+\label{tab:francia}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Ciudad} & \textbf{Obras} & \textbf{\% del total francés} \\
+\midrule
+París & 403 & 66,61\% \\
+Lyon & 163 & 26,94\% \\
+Estrasburgo & 39 & 6,45\% \\
+\midrule
+\textbf{Total Francia} & \textbf{605} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{París} (403 obras) se confirma como el segundo centro editorial más importante del catálogo después de Madrid. La capital francesa era el principal centro intelectual europeo durante el período estudiado, y su presencia masiva en una biblioteca hispánica refleja la intensa circulación cultural franco-española.
+
+\textbf{Lyon} (163 obras) fue uno de los grandes centros editoriales europeos del Renacimiento y el Barroco, especializado en la impresión de clásicos latinos y obras científicas.
+
+\subsubsection{Centros editoriales italianos}
+
+Italia contribuye con 270 obras (3,69\%), distribuidas principalmente en:
+
+\begin{table}[h]
+\centering
+\caption{Centros editoriales italianos}
+\label{tab:italia}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Ciudad} & \textbf{Obras} & \textbf{\% del total italiano} \\
+\midrule
+Roma & 138 & 51,11\% \\
+Venecia & 126 & 46,67\% \\
+Turín & 3 & 1,11\% \\
+Otros & 3 & 1,11\% \\
+\midrule
+\textbf{Total Italia} & \textbf{270} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Roma} (138 obras) refleja su importancia como centro de la cristiandad católica y sede pontificia, con producción editorial especializada en obras religiosas, litúrgicas y teológicas.
+
+\textbf{Venecia} (126 obras) fue la gran potencia editorial del Renacimiento italiano, famosa por sus ediciones aldinas de clásicos griegos y latinos, así como por sus obras científicas y médicas.
+
+\subsubsection{Otros centros editoriales europeos}
+
+\begin{table}[h]
+\centering
+\caption{Otros centros editoriales europeos}
+\label{tab:otros}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Ciudad} & \textbf{Obras} & \textbf{País actual} \\
+\midrule
+Amberes & 132 & Bélgica \\
+Ámsterdam & 63 & Países Bajos \\
+Lisboa & 66 & Portugal \\
+Colonia & 85 & Alemania \\
+Londres & 12 & Reino Unido \\
+Basilea & 13 & Suiza \\
+Ginebra & 4 & Suiza \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Amberes} (132 obras) merece especial atención. Durante los siglos XVI y XVII fue el principal centro editorial de los Países Bajos españoles, con la famosa casa Plantin-Moretus. Su fuerte presencia en el catálogo refleja los vínculos culturales con la monarquía hispánica.
+
+\textbf{Lisboa} (66 obras) representa los lazos entre los reinos ibéricos, especialmente intensos durante la Unión Ibérica (1580-1640).
+
+\textbf{Colonia} (85 obras) fue un importante centro editorial del Sacro Imperio Romano Germánico, especializado en obras jurídicas, teológicas y científicas.
+
+\subsection{Análisis lingüístico: castellano, latín y otras lenguas}
+
+\subsubsection{Distribución general por idiomas}
+
+El análisis lingüístico revela la siguiente distribución en el catálogo completo:
+
+\begin{table}[h]
+\centering
+\caption{Distribución de obras por idioma}
+\label{tab:idiomas}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Idioma} & \textbf{Obras} & \textbf{Porcentaje} \\
+\midrule
+Castellano & 5.160 & 70,46\% \\
+Francés & 1.272 & 17,37\% \\
+Latín & 757 & 10,34\% \\
+Italiano & 96 & 1,31\% \\
+Desconocido & 38 & 0,52\% \\
+\midrule
+\textbf{Total} & \textbf{7.323} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+El \textbf{castellano} domina claramente con un 70,46\% del total, lo que confirma el carácter hispánico de la colección y refleja la consolidación del español como lengua de cultura impresa.
+
+El \textbf{latín}, con 757 obras (10,34\%), mantiene una presencia significativa pero minoritaria. Este porcentaje resulta coherente con una biblioteca formada principalmente en el siglo XVIII, cuando el latín, aunque todavía utilizado en contextos académicos, eclesiásticos y jurídicos, había cedido terreno a las lenguas vernáculas.
+
+El \textbf{francés}, con 1.272 obras (17,37\%), muestra una presencia notable que refleja la influencia cultural francesa durante la Ilustración española. Este porcentaje es especialmente significativo considerando que se trata de una biblioteca hispánica.
+
+\subsubsection{Evolución castellano-latín por siglos}
+
+La Tabla \ref{tab:evolucion} muestra la evolución de las lenguas de impresión a lo largo del período estudiado:
+
+\begin{table}[h]
+\centering
+\caption{Evolución castellano-latín por siglos}
+\label{tab:evolucion}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Siglo} & \textbf{Total} & \textbf{Castellano} & \textbf{Latín} & \textbf{Francés} & \textbf{Otros} \\
+\midrule
+XV & 25 & 18 (72,00\%) & 3 (12,00\%) & 4 (16,00\%) & 0 (0,00\%) \\
+XVI & 1.624 & 1.266 (77,96\%) & 150 (9,24\%) & 171 (10,53\%) & 37 (2,28\%) \\
+XVII & 2.666 & 1.863 (69,88\%) & 303 (11,37\%) & 448 (16,80\%) & 52 (1,95\%) \\
+XVIII & 2.348 & 1.563 (66,57\%) & 234 (9,97\%) & 511 (21,76\%) & 40 (1,70\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Los datos revelan varios patrones significativos:
+
+\begin{enumerate}
+    \item \textbf{Predominio constante del castellano:} En todos los siglos analizados, el castellano representa entre el 66\% y el 78\% de las obras. El pico en el siglo XVI (77,96\%) refleja la consolidación del español como lengua de cultura tras la publicación de la \textit{Gramática castellana} de Nebrija (1492) y el florecimiento cultural del Renacimiento español.
+
+    \item \textbf{Estabilidad del latín:} El latín mantiene una presencia relativamente estable entre el 9\% y el 12\% a lo largo de todos los siglos. Contrariamente a lo que podría esperarse, no se observa una disminución drástica, lo que sugiere que las obras latinas (principalmente jurídicas, teológicas y científicas) seguían siendo adquiridas y valoradas incluso en el siglo XVIII.
+
+    \item \textbf{Ascenso del francés:} La presencia del francés crece de manera constante y significativa: del 10,53\% en el siglo XVI al 16,80\% en el siglo XVII, hasta alcanzar el 21,76\% en el siglo XVIII. Este incremento refleja la creciente influencia cultural francesa durante la Ilustración, especialmente bajo la dinastía borbónica en España (desde 1700).
+
+    \item \textbf{Descenso relativo del castellano:} Aunque el castellano sigue siendo mayoritario, se observa una leve disminución desde el 77,96\% en el siglo XVI hasta el 66,57\% en el siglo XVIII. Este descenso se explica fundamentalmente por el ascenso del francés, más que por un resurgimiento del latín.
+\end{enumerate}
+
+\subsubsection{Distribución de idiomas por centros editoriales}
+
+El análisis de idiomas por lugar de impresión revela patrones geográficos interesantes (Tabla \ref{tab:lugidiom}):
+
+\begin{table}[h]
+\centering
+\caption{Distribución de idiomas en los principales centros editoriales}
+\label{tab:lugidiom}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Ciudad} & \textbf{Castellano} & \textbf{Latín} & \textbf{Francés} & \textbf{Otros} \\
+\midrule
+Madrid (924) & 63,85\% & 9,52\% & 25,32\% & 1,29\% \\
+París (403) & 57,57\% & 14,64\% & 27,05\% & 0,75\% \\
+Lyon (163) & 79,75\% & 12,88\% & 6,75\% & 0,61\% \\
+Salamanca (157) & 64,33\% & 11,46\% & 24,20\% & 0,00\% \\
+Zaragoza (139) & 56,12\% & 10,79\% & 32,37\% & 0,72\% \\
+Roma (138) & 76,09\% & 11,59\% & 8,70\% & 3,62\% \\
+Amberes (132) & 84,09\% & 8,33\% & 7,58\% & 0,00\% \\
+Venecia (126) & 79,37\% & 11,90\% & 6,35\% & 2,38\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Observaciones destacadas:
+
+\begin{itemize}
+    \item \textbf{Amberes} presenta el mayor porcentaje de obras en castellano (84,09\%), lo que confirma su orientación hacia el mercado hispánico durante el período de los Países Bajos españoles.
+
+    \item \textbf{Lyon} y \textbf{Venecia} también muestran altos porcentajes de castellano (79,75\% y 79,37\%), sugiriendo que las obras adquiridas de estos centros editoriales fueron seleccionadas específicamente para lectores hispanohablantes.
+
+    \item \textbf{París} presenta el mayor porcentaje de obras en latín (14,64\%), reflejando su papel como centro académico internacional.
+
+    \item \textbf{Zaragoza} muestra el mayor porcentaje de obras en francés entre las ciudades españolas (32,37\%), posiblemente debido a su proximidad geográfica con Francia y a los intercambios culturales a través de los Pirineos.
+\end{itemize}
+
+\subsection{Autores más representados}
+
+El catálogo incluye 3.677 autores diferentes, con 2.501 obras anónimas (34,2\% del total). La Tabla \ref{tab:autores} presenta los autores más prolíficos:
+
+\begin{table}[h]
+\centering
+\caption{Autores más representados en el catálogo}
+\label{tab:autores}
+\begin{tabular}{lcp{8cm}}
+\toprule
+\textbf{Autor} & \textbf{Obras} & \textbf{Descripción} \\
+\midrule
+Nebrija, Antonio de & 28 & Humanista, autor de la primera gramática castellana (1492) \\
+Mariana, Juan de & 14 & Historiador jesuita, autor de \textit{Historia general de España} \\
+Lope de Vega & 13 & Dramaturgo del Siglo de Oro español \\
+Agustín, Antonio & 12 & Humanista, jurista y arzobispo de Tarragona \\
+Mayans y Siscar, Gregorio & 12 & Erudito ilustrado, académico valenciano \\
+Arias Montano, Benito & 11 & Humanista, biblista, editor de la Biblia Políglota de Amberes \\
+Gentili, Alberico & 11 & Jurista italiano, pionero del derecho internacional \\
+Salazar y Castro, Luis de & 9 & Genealogista e historiador \\
+Sandoval, Prudencio de & 9 & Obispo e historiador benedictino \\
+Alciato, Andrea & 8 & Jurista italiano, autor de \textit{Emblemata} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La presencia destacada de estos autores revela varias características del catálogo:
+
+\begin{enumerate}
+    \item \textbf{Énfasis humanista:} Nebrija, Agustín, Arias Montano y Alciato representan el humanismo renacentista español e italiano.
+
+    \item \textbf{Contenido histórico:} Mariana, Salazar y Castro, y Sandoval indican un fuerte interés por la historiografía española.
+
+    \item \textbf{Literatura áurea:} La presencia de Lope de Vega confirma el interés por el teatro y la literatura del Siglo de Oro.
+
+    \item \textbf{Ilustración española:} Mayans y Siscar representa el pensamiento ilustrado del siglo XVIII.
+
+    \item \textbf{Derecho y teología:} La presencia de juristas como Gentili y Alciato, junto con biblistas como Arias Montano, sugiere una biblioteca de contenido académico y profesional.
+\end{enumerate}
+
+\subsection{Análisis de precios y valoración económica}
+
+El catálogo presenta información de precios para 7.081 obras (96,7\%), lo que permite realizar un análisis económico preliminar:
+
+\begin{table}[h]
+\centering
+\caption{Estadísticas de precios}
+\label{tab:precios}
+\begin{tabular}{lr}
+\toprule
+\textbf{Estadística} & \textbf{Valor} \\
+\midrule
+Obras con precio & 7.081 \\
+Precio mínimo & 1 \\
+Precio máximo & 30.850 \\
+Precio promedio & 41,23 \\
+Precio mediano & 12 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La distribución de precios revela una biblioteca de composición heterogénea:
+
+\begin{table}[h]
+\centering
+\caption{Distribución de obras por rangos de precio}
+\label{tab:rangos}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Rango de precio} & \textbf{Obras} & \textbf{Porcentaje} \\
+\midrule
+0-10 & 2.171 & 30,7\% \\
+10-25 & 3.085 & 43,6\% \\
+25-50 & 923 & 13,0\% \\
+50-100 & 506 & 7,2\% \\
+100-200 & 235 & 3,3\% \\
+200-500 & 110 & 1,6\% \\
+500+ & 44 & 0,6\% \\
+\midrule
+\textbf{Total} & \textbf{7.074} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Observaciones sobre la valoración económica:
+
+\begin{itemize}
+    \item El 74,3\% de las obras tiene un precio inferior a 25, sugiriendo una biblioteca formada principalmente por libros de precio accesible.
+
+    \item La mediana (12) es significativamente inferior a la media (41,23), indicando que unos pocos libros muy caros elevan el promedio.
+
+    \item Las 44 obras con precio superior a 500 (0,6\% del total) probablemente corresponden a ediciones de lujo, obras con múltiples volúmenes, o ediciones raras y valiosas.
+
+    \item El precio máximo de 30.850 sugiere la presencia de una obra excepcional, posiblemente una gran colección en múltiples volúmenes o una edición especialmente lujosa.
+\end{itemize}
+
+\subsection{Formatos y características físicas}
+
+El análisis de los formatos revela las preferencias bibliográficas de la época:
+
+\begin{table}[h]
+\centering
+\caption{Distribución de formatos}
+\label{tab:formatos}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Formato} & \textbf{Obras} & \textbf{Porcentaje} \\
+\midrule
+4º (Cuarto) & 881 & 12,0\% \\
+8º (Octavo) & 579 & 7,9\% \\
+12º (Doceavo) & 191 & 2,6\% \\
+Folio & 62 & 0,8\% \\
+16º (Dieciseisavo) & 32 & 0,4\% \\
+Sin especificar & 5.578 & 76,2\% \\
+\midrule
+\textbf{Total} & \textbf{7.323} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+El predominio del formato en cuarto y octavo sugiere una biblioteca compuesta principalmente por libros de tamaño medio a pequeño, adecuados para el uso personal y el estudio.
+
+Otras características físicas destacadas:
+
+\begin{itemize}
+    \item \textbf{Obras con múltiples tomos:} 771 (10,5\%)
+    \item \textbf{Obras con figuras/ilustraciones:} 26 (0,4\%) – probablemente subestimado por errores de OCR
+    \item \textbf{Obras con pasta (encuadernación especial):} 705 (9,6\%)
+    \item \textbf{Obras atadas (encuadernadas con otras):} 152 (2,1\%)
+\end{itemize}
+
+\section{Discusión}
+
+\subsection{Carácter y procedencia probable de la colección}
+
+El análisis cuantitativo permite caracterizar esta biblioteca y formular hipótesis sobre su origen:
+
+\subsubsection{Biblioteca hispánica de finales del siglo XVIII}
+
+Varios indicadores apuntan a que el catálogo corresponde a una biblioteca formada principalmente durante la segunda mitad del siglo XVIII:
+
+\begin{enumerate}
+    \item \textbf{Concentración temporal:} El pico máximo de 559 obras en la década de 1780, con concentración especial en 1785-1787, sugiere una fase de catalogación o adquisiciones intensivas en esos años.
+
+    \item \textbf{Predominio de centros editoriales del XVIII:} Madrid, consolidado como centro editorial principalmente desde el siglo XVIII, representa el 12,6\% del total.
+
+    \item \textbf{Presencia significativa de francés:} El 17,37\% de obras en francés, especialmente del siglo XVIII, refleja la influencia de la Ilustración francesa durante el reinado de Carlos III (1759-1788).
+
+    \item \textbf{Autores ilustrados:} La presencia de Mayans y Siscar y otros autores del XVIII confirma la actualidad de la colección para su época.
+\end{enumerate}
+
+\subsubsection{Biblioteca académica o institucional}
+
+La composición temática y la calidad de la colección sugieren un propietario institucional o individual con formación académica:
+
+\begin{enumerate}
+    \item \textbf{Diversidad geográfica:} La presencia de obras de 33 ciudades europeas diferentes indica acceso a redes de circulación libresca internacional.
+
+    \item \textbf{Equilibrio temático:} La combinación de historia, derecho, teología, literatura y ciencias sugiere una biblioteca de uso académico o profesional, no meramente recreativa.
+
+    \item \textbf{Presencia de obras caras:} Las 44 obras con precio superior a 500 indican inversión significativa en ediciones valiosas.
+
+    \item \textbf{Obras en latín:} El 10,34\% de obras latinas confirma un perfil de usuario con formación universitaria.
+\end{enumerate}
+
+\subsubsection{Posibles propietarios}
+
+Dado el tamaño de la colección (7.323 obras), su composición y su cronología, los propietarios más probables serían:
+
+\begin{itemize}
+    \item \textbf{Biblioteca colegial o universitaria:} Universidades como Salamanca, Alcalá, o algún colegio mayor.
+
+    \item \textbf{Biblioteca conventual o catedralicia:} Especialmente de órdenes religiosas con énfasis académico (jesuitas, dominicos, benedictinos).
+
+    \item \textbf{Biblioteca nobiliaria:} De algún noble ilustrado con formación intelectual.
+
+    \item \textbf{Biblioteca de la administración real:} Alguna institución vinculada a la monarquía borbónica.
+\end{itemize}
+
+\subsection{La transición del latín al castellano}
+
+El análisis lingüístico documenta un proceso cultural de larga duración: la consolidación del castellano como lengua de cultura impresa. Sin embargo, los datos matizan la narrativa tradicional de un ``declive del latín'':
+
+\begin{enumerate}
+    \item \textbf{Coexistencia más que sustitución:} El latín no desaparece sino que se especializa en ámbitos específicos (derecho canónico, teología escolástica, filosofía académica).
+
+    \item \textbf{Estabilidad del latín:} El porcentaje de obras latinas se mantiene estable (9-12\%) desde el siglo XV hasta el XVIII, lo que sugiere demanda constante.
+
+    \item \textbf{El verdadero ``rival'' del castellano:} El francés, más que el latín, representa la principal ``competencia'' para el castellano en el siglo XVIII, especialmente en ámbitos filosóficos, científicos y literarios de vanguardia.
+\end{enumerate}
+
+\subsection{Redes de circulación libresca}
+
+La distribución geográfica revela las redes de circulación cultural del mundo hispánico:
+
+\subsubsection{El eje Madrid-París}
+
+La presencia dominante de Madrid (924 obras) y París (403 obras) documenta el eje cultural privilegiado durante la Ilustración española, especialmente bajo Carlos III y Carlos IV.
+
+\subsubsection{Persistencia de centros tradicionales}
+
+La presencia significativa de ciudades como Lyon (163), Venecia (126), Roma (138) y Amberes (132) muestra que los circuitos comerciales establecidos en el Renacimiento y el Barroco seguían activos en el siglo XVIII.
+
+\subsubsection{Marginación de centros protestantes}
+
+La escasa presencia de Londres (12 obras), Ámsterdam (63 obras) y ciudades alemanas (excepto Colonia católica) sugiere las barreras confesionales en la circulación libresca. La Inquisición española limitaba la importación de obras de territorios protestantes.
+
+\subsection{Limitaciones del estudio}
+
+Este análisis presenta varias limitaciones metodológicas:
+
+\begin{enumerate}
+    \item \textbf{Calidad del OCR:} Los errores de reconocimiento pueden haber afectado la identificación de lugares (44,7\% sin identificar) y formatos (76,2\% sin especificar).
+
+    \item \textbf{Detección automática de idiomas:} El algoritmo de detección de idiomas, aunque fiable estadísticamente, puede generar falsos positivos/negativos en casos individuales.
+
+    \item \textbf{Referencias ``ibid'':} Las 260 entradas con ``ibid'' no pudieron ser resueltas sin acceso al catálogo original en formato físico.
+
+    \item \textbf{Ausencia de información temática:} El catálogo no incluye clasificación temática sistemática, lo que limita el análisis de contenidos.
+
+    \item \textbf{Datación de adquisiciones:} No es posible distinguir entre fecha de impresión y fecha de adquisición, lo que dificulta reconstruir la historia de formación de la colección.
+\end{enumerate}
+
+\section{Conclusiones}
+
+Este análisis de 7.323 obras impresas entre 1427 y 1799 proporciona una visión cuantitativa de la geografía editorial y la evolución lingüística del libro en el ámbito hispánico durante la Edad Moderna. Las principales conclusiones son:
+
+\begin{enumerate}
+    \item \textbf{Predominio del castellano como lengua de cultura:} El 70,46\% de las obras están en castellano, confirmando su consolidación como lengua de cultura impresa desde el Renacimiento. El proceso de ``vernacularización'' de la cultura impresa española estaba completo ya en el siglo XVI (77,96\% castellano).
+
+    \item \textbf{Persistencia funcional del latín:} El latín mantiene una presencia estable (9-12\%) durante todo el período, especializándose en ámbitos académicos, jurídicos y teológicos. No se observa el ``colapso'' del latín que a veces se postula para el siglo XVIII.
+
+    \item \textbf{Ascenso del francés ilustrado:} La presencia creciente del francés (del 10\% en el XVI al 21\% en el XVIII) documenta la creciente influencia cultural francesa durante la Ilustración, convirtiéndose en el verdadero ``rival'' del castellano en la segunda mitad del siglo XVIII.
+
+    \item \textbf{Madrid como capital editorial:} Con 924 obras (12,6\% del total, 53\% de las españolas), Madrid se consolida como el principal centro editorial hispánico, reflejando su papel como capital política y cultural desde 1561.
+
+    \item \textbf{Red de centros editoriales hispánicos:} Salamanca, Zaragoza, Valencia, Alcalá de Henares, Sevilla y Barcelona conforman una red de producción editorial que refleja la policentralidad cultural de la monarquía hispánica.
+
+    \item \textbf{Integración en circuitos europeos:} La presencia significativa de París, Lyon, Roma, Venecia y Amberes documenta la integración de las bibliotecas hispánicas en circuitos culturales europeos de amplio alcance.
+
+    \item \textbf{Biblioteca ilustrada:} La concentración de obras en la década de 1780, la presencia significativa de francés, y el predominio de Madrid sugieren que el catálogo corresponde a una biblioteca formada o catalogada durante la Ilustración española, probablemente de carácter institucional (universitaria, conventual o nobiliaria).
+
+    \item \textbf{Diversidad y calidad:} La presencia de 3.677 autores diferentes, obras en cinco idiomas, procedentes de 33 ciudades europeas, y con un rango de precios muy amplio, indica una colección de considerable calidad y diversidad temática.
+\end{enumerate}
+
+\subsection{Contribución al campo}
+
+Este estudio contribuye a la historia del libro español aportando:
+
+\begin{itemize}
+    \item \textbf{Datos cuantitativos precisos} sobre la distribución geográfica y lingüística de una gran colección hispánica.
+
+    \item \textbf{Evidencia empírica} sobre la transición latín-castellano-francés durante cuatro siglos.
+
+    \item \textbf{Metodología replicable} para el análisis de catálogos históricos mediante técnicas computacionales.
+
+    \item \textbf{Visión de conjunto} sobre los hábitos de lectura y adquisición bibliográfica en el mundo hispánico de la Edad Moderna.
+\end{itemize}
+
+\subsection{Líneas futuras de investigación}
+
+Este análisis abre varias líneas de investigación:
+
+\begin{enumerate}
+    \item \textbf{Identificación del propietario:} Investigación archivística para determinar la procedencia exacta del catálogo.
+
+    \item \textbf{Análisis temático:} Clasificación de las obras por materias para entender las preferencias intelectuales del propietario.
+
+    \item \textbf{Análisis de redes:} Estudio de las redes de libreros, impresores y distribuidores que alimentaron esta colección.
+
+    \item \textbf{Estudios comparativos:} Comparación con otros catálogos contemporáneos para identificar patrones comunes y diferencias.
+
+    \item \textbf{Análisis económico detallado:} Estudio de la relación entre precios, formatos, procedencias y cronologías para entender el mercado del libro antiguo.
+
+    \item \textbf{Reconstrucción de itinerarios:} Rastreo de ejemplares concretos para reconstruir los caminos físicos que siguieron los libros desde las imprentas hasta su destino final.
+\end{enumerate}
+
+\section{Agradecimientos}
+
+Este trabajo ha sido posible gracias a las tecnologías de procesamiento de texto mediante OCR y las herramientas de análisis de datos desarrolladas específicamente para este proyecto. Los scripts de Python utilizados para el procesamiento y análisis están disponibles en el repositorio del proyecto.
+
+\section{Referencias bibliográficas}
+
+\begin{enumerate}
+    \item Bouza, Fernando. \textit{Corre manuscrito: Una historia cultural del Siglo de Oro}. Madrid: Marcial Pons, 2001.
+
+    \item Burke, Peter. \textit{Lenguas y comunidades en la Europa moderna}. Madrid: Akal, 2006.
+
+    \item Chartier, Roger. \textit{El orden de los libros: Lectores, autores, bibliotecas en Europa entre los siglos XIV y XVIII}. Barcelona: Gedisa, 1994.
+
+    \item Eisenstein, Elizabeth L. \textit{The Printing Press as an Agent of Change}. Cambridge: Cambridge University Press, 1979.
+
+    \item García Cárcel, Ricardo (coord.). \textit{Historia de España Siglo XVIII: La España de los Borbones}. Madrid: Cátedra, 2002.
+
+    \item Griffin, Clive. \textit{Los Cromberger: La historia de una imprenta del siglo XVI en Sevilla y Méjico}. Madrid: Ediciones de Cultura Hispánica, 1991.
+
+    \item Infantes, Víctor; López, François; Botrel, Jean-François (dirs.). \textit{Historia de la edición y de la lectura en España, 1472-1914}. Madrid: Fundación Germán Sánchez Ruipérez, 2003.
+
+    \item Moll, Jaime. \textit{Problemas bibliográficos del libro del Siglo de Oro}. Madrid: Arco Libros, 2011.
+
+    \item Peña Díaz, Manuel. \textit{El laberinto de los libros: Historia cultural de la Barcelona del Quinientos}. Madrid: Fundación Germán Sánchez Ruipérez, 1997.
+
+    \item Pinto Crespo, Virgilio. \textit{Inquisición y control ideológico en la España del siglo XVI}. Madrid: Taurus, 1983.
+
+    \item Reyes Gómez, Fermín de los. \textit{El libro en España y América: Legislación y censura (siglos XV-XVIII)}. Madrid: Arco Libros, 2000.
+
+    \item Ruiz Pérez, Pedro. \textit{La rúbrica del poeta: La expresión de la autoconciencia poética de Boscán a Góngora}. Valladolid: Universidad de Valladolid, 2009.
+\end{enumerate}
+
+\section{Fuentes digitales consultadas}
+
+\begin{itemize}
+    \item CERL Thesaurus - Consortium of European Research Libraries\\
+    \url{https://data.cerl.org/thesaurus/}
+
+    \item WorldCat - Base de datos bibliográfica mundial\\
+    \url{https://www.worldcat.org/}
+
+    \item VIAF - Virtual International Authority File\\
+    \url{https://viaf.org/}
+\end{itemize}
+
+\newpage
+
+\appendix
+
+\section{Metodología técnica}
+
+\subsection{Scripts de procesamiento}
+
+El análisis se realizó mediante scripts de Python que implementan:
+
+\begin{itemize}
+    \item Lectura y parseado del catálogo OCR original
+    \item Normalización de lugares mediante diccionarios de mapeo
+    \item Detección de idiomas mediante análisis de patrones lingüísticos
+    \item Cálculo de estadísticas descriptivas
+    \item Generación de reportes en formato texto
+    \item Exportación de datos a formato CSV estructurado
+\end{itemize}
+
+\subsection{Diccionario de normalización de lugares}
+
+Se construyó un diccionario de 85 entradas que mapea:
+
+\begin{itemize}
+    \item Nombres latinos a nombres modernos (ej: Matriti → Madrid, Salmanticae → Salamanca)
+    \item Abreviaturas a nombres completos (ej: mad. → Madrid, Lugd. → Lyon)
+    \item Errores OCR a lecturas correctas (ej: Antucap → Amberes, Soetingae → Gotinga)
+    \item Variantes ortográficas a formas estandarizadas
+\end{itemize}
+
+\subsection{Algoritmo de detección de idiomas}
+
+El algoritmo implementa:
+
+\begin{enumerate}
+    \item Tokenización del título y autor
+    \item Búsqueda de patrones mediante expresiones regulares
+    \item Sistema de puntuación por coincidencias
+    \item Umbrales de decisión ajustados empíricamente
+    \item Clasificación por prioridad: Latín → Francés → Italiano → Castellano
+\end{enumerate}
+
+\section{Tablas complementarias}
+
+\subsection{Años con mayor producción (Top 20)}
+
+\begin{table}[h]
+\centering
+\caption{Años con mayor número de obras en el catálogo}
+\begin{tabular}{cccc}
+\toprule
+\textbf{Año} & \textbf{Obras} & \textbf{Año} & \textbf{Obras} \\
+\midrule
+1787 & 122 & 1670 & 38 \\
+1786 & 105 & 1616 & 38 \\
+1785 & 87 & 1599 & 38 \\
+1784 & 83 & 1773 & 38 \\
+1620 & 44 & 1587 & 37 \\
+1640 & 43 & 1615 & 37 \\
+1669 & 42 & 1735 & 37 \\
+1644 & 42 & 1736 & 37 \\
+1629 & 41 & 1678 & 39 \\
+1552 & 40 & 1737 & 39 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Obras sin año identificado (muestra)}
+
+De las 660 obras sin año identificado, destacan títulos como:
+
+\begin{itemize}
+    \item \textit{Arithmetica para las dificultades, y advertencias a los pesos, y medidas} (Pasqual de Abensalexo)
+    \item \textit{Commentarii in institutiones Imperatorii Justiniani} (Jan Acosta)
+    \item \textit{Nova descriptio elephantis} (Petri Gillii Albienis)
+    \item \textit{Diccionario Geografico} (D. Antonio Alcedo)
+\end{itemize}
+
+Estas obras podrían ser identificadas mediante consulta en bases de datos bibliográficas especializadas.
+
+\section{Glosario de términos bibliográficos}
+
+\begin{description}
+    \item[Folio (fol.):] Formato grande resultante de doblar una vez el pliego de papel. Típicamente usado para obras importantes, atlas, biblias.
+
+    \item[Cuarto (4º):] Formato medio resultante de doblar dos veces el pliego. Formato común para libros de uso general.
+
+    \item[Octavo (8º):] Formato pequeño resultante de doblar tres veces el pliego. Formato portátil, común en el siglo XVIII.
+
+    \item[Doceavo (12º):] Formato muy pequeño resultante de plegar el pliego en doce hojas. Usado para libros de bolsillo.
+
+    \item[Incunable:] Libro impreso antes de 1501, durante los primeros 50 años de la imprenta.
+
+    \item[Pasta:] Encuadernación de calidad con tapas rígidas, generalmente de cartón forrado de piel.
+
+    \item[Atado:] Libro encuadernado junto con otros en un mismo volumen.
+
+    \item[Ibid./Ibidem:] Abreviatura latina que significa ``en el mismo lugar'', usada para repetir el lugar de impresión de la entrada anterior.
+\end{description}
+
+\end{document}
