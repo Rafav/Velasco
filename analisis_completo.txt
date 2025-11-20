@@ -8,8 +8,8 @@ Catálogo extraído con OCR - Período 1400-1800
 Total de entradas procesadas: 7323
 
 Distribución de datos:
-  • Entradas con autor identificado: 4822 (65.8%)
-  • Entradas anónimas: 2501 (34.2%)
+  • Entradas con autor identificado: 5542 (75.7%)
+  • Entradas anónimas: 1781 (24.3%)
   • Entradas con año: 6663 (91.0%)
   • Entradas sin año: 660 (9.0%)
   • Entradas con lugar: 3272 (44.7%)
@@ -25,35 +25,35 @@ Distribución de datos:
 2. AUTORES MÁS FRECUENTES (Top 30)
 --------------------------------------------------------------------------------
  1. Nebrixa (Antonii): 28 obras
- 2. Mariana (Jo): 14 obras
- 3. Vega Carpio (D. Félix de): 13 obras
- 4. Augustini (Antoni): 12 obras
- 5. Mayans y Siscar (D. Gregorio): 12 obras
- 6. Arias Montano (Benedicti): 11 obras
- 7. Gentiliv (Albericus): 11 obras
- 8. Salazar y Castro (D. Luis): 9 obras
- 9. Sandoval (Hl. D. F. Prudencio): 9 obras
-10. Alciati (Andreae): 8 obras
-11. Leon de Pinelo (Lic. do Ant.): 8 obras
-12. Quevedo y Villegas (D. Fran.): 8 obras
-13. Aaxodius (Petrus): 7 obras
-14. Bartholi (P. Daniel): 7 obras
-15. Beami, y Català (D. D. Joseph): 7 obras
-16. Cixuelo (Petri): 7 obras
-17. Gómez (Alvani): 7 obras
-18. Mela (Pompinii): 7 obras
-19. Palavicino (Ferrante): 7 obras
-20. Roa (S. Martin de): 7 obras
-21. Sepulveda (Seniens): 7 obras
-22. Simancas (Jacobus): 7 obras
-23. Soto (Fr. Dominici): 7 obras
-24. Struvii (Burchard Gott): 7 obras
-25. Singilii (Pub. Cita.): 7 obras
-26. Vives (Jo. Ludovici): 7 obras
-27. Abril (Pedro Simon): 6 obras
-28. Almeida (P. Theodoro): 6 obras
-29. Budaei (Guillielmi): 6 obras
-30. Clubezii (Philippi): 6 obras
+ 2. Augustini (Antoni): 23 obras
+ 3. Henrici (Jo): 23 obras
+ 4. Ciceronis (M. Tull.): 20 obras
+ 5. Colber (Mr.): 17 obras
+ 6. Grotii (Hugonis): 15 obras
+ 7. Mariana (Jo): 15 obras
+ 8. Vega Carpio (D. Félix de): 13 obras
+ 9. Singilii (Pub. Cita.): 13 obras
+10. Arias Montano (Benedicti): 12 obras
+11. Covarrubias (Illustrissimi D.D. Didaci a): 12 obras
+12. Justiniani (Imperatoris): 12 obras
+13. Bocenius (Francisci): 11 obras
+14. Gentiliv (Albericus): 11 obras
+15. Alciati (Andreae): 10 obras
+16. Christian (Thomaeii): 10 obras
+17. Fabrici (Jo. Alberti): 9 obras
+18. Roa (S. Martin de): 9 obras
+19. Salazar y Castro (D. Luis): 9 obras
+20. Sandoval (Hl. D. F. Prudencio): 9 obras
+21. Vives (Jo. Ludovici): 9 obras
+22. Bosuet (Jacobo Benigno): 8 obras
+23. Gómez (Alvani): 8 obras
+24. Leon de Pinelo (Lic. do Ant.): 8 obras
+25. Mayans y Siscar (D. Gregorio): 8 obras
+26. Quevedo y Villegas (D. Fran.): 8 obras
+27. Vaillant (Jo. Toy): 8 obras
+28. Aaxodius (Petrus): 7 obras
+29. Bartholi (P. Daniel): 7 obras
+30. Beami, y Català (D. D. Joseph): 7 obras
 
 3. DISTRIBUCIÓN TEMPORAL (Por décadas)
 --------------------------------------------------------------------------------
@@ -178,10 +178,10 @@ Distribución por rangos de precio:
 
 7. DISTRIBUCIÓN DE IDIOMAS (estimación basada en títulos)
 --------------------------------------------------------------------------------
-Español        :  5270 obras (72.0%)
-Latín          :   744 obras (10.2%)
-Francés        :   464 obras (6.3%)
-Italiano       :   134 obras (1.8%)
+Español        :  5216 obras (71.2%)
+Latín          :   759 obras (10.4%)
+Francés        :   459 obras (6.3%)
+Italiano       :   131 obras (1.8%)
 
 8. MUESTRA DE ENTRADAS SIN AÑO IDENTIFICADO (Primeras 20)
 --------------------------------------------------------------------------------
@@ -201,12 +201,12 @@ Italiano       :   134 obras (1.8%)
    Título: Nova descriptio elephantis
    Transcripción: Albienis (Petri Gillii) Nova descriptio elephantis 12º Nº147 4...
 
-5. Autor: [Anónimo]
-   Título: Alcaya Gramatica Arabe
+5. Autor: Alcaya Gramatica
+   Título: Arabe
    Transcripción: Alcaya Gramatica Arabe 4º 1808 40 12...
 
-6. Autor: [Anónimo]
-   Título: Alcala - Yáñez (D. D. Jeronimo de) El donadie hablador
+6. Autor: Alcala - Yáñez (D. D. Jeronimo de)
+   Título: El donadie hablador
    Transcripción: Alcala - Yáñez (D. D. Jeronimo de) El donadie hablador...
 
 7. Autor: Alcedo (D. Antonio)
@@ -233,12 +233,12 @@ Italiano       :   134 obras (1.8%)
    Título: De perfecto Principe Apophthegmata
    Transcripción: Aldebrandini (Cardinalis) De perfecto Principe Apophthegmata 12º 317 6...
 
-13. Autor: [Anónimo]
-   Título: Anónimo Alegacion Docta Fiscal en defensa del famoso Auto Gallego fol. 197 8
+13. Autor: Anónimo Alegacion Docta
+   Título: Fiscal en defensa del famoso Auto Gallego fol. 197 8
    Transcripción: Anónimo Alegacion Docta Fiscal en defensa del famoso Auto Gallego fol. 197 8...
 
-14. Autor: [Anónimo]
-   Título: Anonymous Allegatio Juris pro Rege catholico Philippo ad successionem Regnorum Portugalliae fol. Nº 305 10
+14. Autor: Anonymous Allegatio
+   Título: Juris pro Rege catholico Philippo ad successionem Regnorum Portugalliae fol. Nº 305 10
    Transcripción: Anonymous Allegatio Juris pro Rege catholico Philippo ad successionem Regnorum Portugalliae fol. Nº ...
 
 15. Autor: Almeida (P. Theodoro)
@@ -261,8 +261,8 @@ Italiano       :   134 obras (1.8%)
    Título: Vid. Alfoni
    Transcripción: Vid. Alfoni...
 
-20. Autor: [Anónimo]
-   Título: Dn Alomo Diaz Glosadas fol. mai. 2 tom. Leon 1850 233 120
+20. Autor: Dn Alomo Diaz
+   Título: Glosadas fol. mai. 2 tom. Leon 1850 233 120
    Transcripción: Dn Alomo Diaz Glosadas fol. mai. 2 tom. Leon 1850 233 120...
 
 
@@ -293,8 +293,8 @@ Italiano       :   134 obras (1.8%)
    Año: 1744
    Transcripción: mbus Maxulii aliorum R.4° 1.165 Lugdun Batavorum 1744 №224...
 
-6. Autor: [Anónimo]
-   Título: Acta Exeditorum Lipsiensum 4° 2 Tom. fig
+6. Autor: Acta Exeditorum
+   Título: Lipsiensum 4° 2 Tom. fig
    Año: 1741
    Transcripción: Acta Exeditorum Lipsiensum 4° 2 Tom. fig. 1741 №56 90...
 
@@ -303,13 +303,13 @@ Italiano       :   134 obras (1.8%)
    Año: 1641
    Transcripción: Acuña (P. Christoval) Nuevo descubrimiento del Rio de las Amazonas. 4° Pasta una Vid. 1641 №212 12...
 
-8. Autor: [Anónimo]
-   Título: Adiani Scena Rerum 8° Antucap
+8. Autor: Adiani Scena
+   Título: Rerum 8° Antucap
    Año: 1556
    Transcripción: Adiani Scena Rerum 8° Antucap. 1556. №6 8...
 
-9. Autor: [Anónimo]
-   Título: Adiani Serti Pontifici Questiones quodlibeticæ ex Bixardo auctore: 8° Pasta Lugdun
+9. Autor: Adiani Serti Pontifici
+   Título: Questiones quodlibeticæ ex Bixardo auctore: 8° Pasta Lugdun
    Año: 1546
    Transcripción: Adiani Serti Pontifici Questiones quodlibeticæ ex Bixardo auctore: 8° Pasta Lugdun 1546. №118 6...
 
@@ -379,128 +379,128 @@ Italiano       :   134 obras (1.8%)
    Lugar: Paris, Año: 1753
    Transcripción: Abrege Chronologique de l'histoire des Empereurs: 12° 2tom. Paris 1753 Nº 124 1609 18...
 
-3. Título: Abrege Des Commentaires de Mr. de Folard sur l'histoire de Polybe 4° Pasta 3tom. fig
-   Lugar: Paris, Año: 1754
-   Transcripción: Abrege Des Commentaires de Mr. de Folard sur l'histoire de Polybe 4° Pasta 3tom. fig. Paris 1754 Nº ...
-
-4. Título: Abreu y Berdano 15 tratados de paz de España en los Reynados de Carlos 2°, Felipe 2° y Felipe 4° fol. 12 tomos
+3. Título: Abreu y Berdano 15 tratados de paz de España en los Reynados de Carlos 2°, Felipe 2° y Felipe 4° fol. 12 tomos
    Lugar: Madrid, Año: 1746
    Transcripción: Abreu y Berdano 15 tratados de paz de España en los Reynados de Carlos 2°, Felipe 2° y Felipe 4° fol...
 
-5. Título: Academia Poetica 4°
+4. Título: Academia Poetica 4°
    Lugar: Madrid, Año: 1674
    Transcripción: Academia Poetica 4° Madrid 1674. N° 33. 6...
 
-6. Título: mbus Maxulii aliorum R.4° 1.165 Lugdun Batavorum
+5. Título: mbus Maxulii aliorum R.4° 1.165 Lugdun Batavorum
    Lugar: , Año: 1744
    Transcripción: mbus Maxulii aliorum R.4° 1.165 Lugdun Batavorum 1744 №224...
 
-7. Título: Yd. Commenta in Decretales Greg. IX.4° Pasta Lutetis Parisiorum
-   Lugar: Paris, Año: 1679
-   Transcripción: Yd. Commenta in Decretales Greg. IX.4° Pasta Lutetis Parisiorum 1679. №279 45...
-
-8. Título: Acta A.S. P. A. Domino N. Pio VI. 4° fig
+6. Título: Acta A.S. P. A. Domino N. Pio VI. 4° fig
    Lugar: Roma, Año: 1762
    Transcripción: Acta A.S. P. A. Domino N. Pio VI. 4° fig. Roma 1762. №230 50...
 
-9. Título: Acta Conciliorum, et Epistola Decret. per PP. Philippum Labcum et Gabriellem Conartium Sueco Latinae fol. mai. 11 tom. 18 vol
+7. Título: Acta Conciliorum, et Epistola Decret. per PP. Philippum Labcum et Gabriellem Conartium Sueco Latinae fol. mai. 11 tom. 18 vol
    Lugar: Paris, Año: 1715
    Transcripción: Acta Conciliorum, et Epistola Decret. per PP. Philippum Labcum et Gabriellem Conartium Sueco Latinae...
 
-10. Título: Acta Exeditorum Lipsiensum 4° 2 Tom. fig
-   Lugar: , Año: 1741
-   Transcripción: Acta Exeditorum Lipsiensum 4° 2 Tom. fig. 1741 №56 90...
-
-11. Título: Additiones ad Molinani fol
+8. Título: Additiones ad Molinani fol
    Lugar: Madrid, Año: 1680
    Transcripción: Additiones ad Molinani fol. Matriti 1680. №296 15...
 
-12. Título: Adoratio ad Illm. Principem Carolum V. Imperatorem 12° Antuerpiae
+9. Título: Adoratio ad Illm. Principem Carolum V. Imperatorem 12° Antuerpiae
    Lugar: Amberes, Año: 1542
    Transcripción: Adoratio ad Illm. Principem Carolum V. Imperatorem 12° Antuerpiae 1542. №147 10...
 
-13. Título: Adiani Scena Rerum 8° Antucap
-   Lugar: , Año: 1556
-   Transcripción: Adiani Scena Rerum 8° Antucap. 1556. №6 8...
-
-14. Título: Adiani Serti Pontifici Questiones quodlibeticæ ex Bixardo auctore: 8° Pasta Lugdun
-   Lugar: , Año: 1546
-   Transcripción: Adiani Serti Pontifici Questiones quodlibeticæ ex Bixardo auctore: 8° Pasta Lugdun 1546. №118 6...
-
-15. Título: Advertencias que dan los Catolicos Ingleses á los 2.908
+10. Título: Advertencias que dan los Catolicos Ingleses á los 2.908
    Lugar: , Año: 
    Transcripción: Advertencias que dan los Catolicos Ingleses á los 2.908...
 
-16. Título: Catolicos a Francia, sobre el peligro en que estan de perder la Religion, si admite nala Corona Principe herege. Traducidas del Frances al Castellano por D. Felix de Guzman
+11. Título: Catolicos a Francia, sobre el peligro en que estan de perder la Religion, si admite nala Corona Principe herege. Traducidas del Frances al Castellano por D. Felix de Guzman
    Lugar: Madrid, Año: 1692
    Transcripción: Catolicos a Francia, sobre el peligro en que estan de perder la Religion, si admite nala Corona Prin...
 
-17. Título: Aeschylus Poetae tragicae, ex greco in latinum versa à Joa. Sarabio 8°
+12. Título: Aeschylus Poetae tragicae, ex greco in latinum versa à Joa. Sarabio 8°
    Lugar: Paris, Año: 1555
    Transcripción: Aeschylus Poetae tragicae, ex greco in latinum versa à Joa. Sarabio 8° Paris. Basilea 1555 Atado 13...
 
-18. Título: Aesopi Fabulæ aliquot græcæ 8.° Antuerpiæ
+13. Título: Aesopi Fabulæ aliquot græcæ 8.° Antuerpiæ
    Lugar: Amberes, Año: 1581
    Transcripción: Aesopi Fabulæ aliquot græcæ 8.° Antuerpiæ 1581. Atado 12. 1581 8.° 4...
 
-19. Título: Afoismi Polítici raccolti dall’Historia del Risaccone 4.° Lecce
+14. Título: Afoismi Polítici raccolti dall’Historia del Risaccone 4.° Lecce
    Lugar: Lecce, Año: 1661
    Transcripción: Afoismi Polítici raccolti dall’Historia del Risaccone 4.° Lecce 1661. N.º 236. 1661 4.° 6...
 
-20. Título: Afi — Optati De schismate Donatistarum ad versus Parmenium Trat. 8.° Parisiis
+15. Título: Afi — Optati De schismate Donatistarum ad versus Parmenium Trat. 8.° Parisiis
    Lugar: Paris, Año: 1569
    Transcripción: Afi — Optati De schismate Donatistarum ad versus Parmenium Trat. 8.° Parisiis 1569. N.º 262. 1569 8....
 
-21. Título: Agathia De imperio, et rebus gestis Justiniani græco et latine 4.° Lugd. Batav
+16. Título: Agathia De imperio, et rebus gestis Justiniani græco et latine 4.° Lugd. Batav
    Lugar: , Año: 1594
    Transcripción: Agathia De imperio, et rebus gestis Justiniani græco et latine 4.° Lugd. Batav. 1594. N.º 77. 1594 4...
 
-22. Título: Alcaya Gramatica Arabe
-   Lugar: , Año: 
-   Transcripción: Alcaya Gramatica Arabe 4º 1808 40 12...
-
-23. Título: Alcala - Yáñez (D. D. Jeronimo de) El donadie hablador
-   Lugar: , Año: 
-   Transcripción: Alcala - Yáñez (D. D. Jeronimo de) El donadie hablador...
-
-24. Título: Alcazar El perfecto Latino en prosa, y verso
+17. Título: Alcazar El perfecto Latino en prosa, y verso
    Lugar: , Año: 1683
    Transcripción: Alcazar El perfecto Latino en prosa, y verso 8º Mad. 1683 3 3...
 
-25. Título: Alcazar Id: Sida a S. Iulian Obispo de Cuenca fol
+18. Título: Alcazar Id: Sida a S. Iulian Obispo de Cuenca fol
    Lugar: Madrid, Año: 1692
    Transcripción: Alcazar Id: Sida a S. Iulian Obispo de Cuenca fol. Madrid 1692 108 24...
 
-26. Título: las Indias Occidentales de America
+19. Título: las Indias Occidentales de America
    Lugar: , Año: 
    Transcripción: las Indias Occidentales de America 4º...
 
-27. Título: 2 tom. Past. y Rust
+20. Título: 2 tom. Past. y Rust
    Lugar: Madrid, Año: 1786
    Transcripción: 2 tom. Past. y Rust. Madrid 1786. Nº 188 32...
 
-28. Título: it. traducido al Castellano por D. Bernardino Daza
-   Lugar: , Año: 1549
-   Transcripción: it. traducido al Castellano por D. Bernardino Daza. 8º 1549. Nº 6 12...
+21. Título: Alfonsi Regis tabulæ Astronomicæ fol. Venet
+   Lugar: , Año: 1521
+   Transcripción: Alfonsi Regis tabulæ Astronomicæ fol. Venet. 1521 Nº 40 18...
 
-29. Título: it. por D. Diego López
-   Lugar: , Año: 1615
-   Transcripción: it. por D. Diego López 4º Nácer 1615. Nº 20 30...
-
-30. Título: Anónimo Alegacion Docta Fiscal en defensa del famoso Auto Gallego fol. 197 8
+22. Título: ver echo degollar a Dn. Antonio de la
    Lugar: , Año: 
-   Transcripción: Anónimo Alegacion Docta Fiscal en defensa del famoso Auto Gallego fol. 197 8...
+   Transcripción: ver echo degollar a Dn. Antonio de la ...
+
+23. Título: Torre proovedor Genl. al Exercito 288 12
+   Lugar: , Año: 
+   Transcripción: Torre proovedor Genl. al Exercito 288 12...
+
+24. Título: Alamo.. El Sabio Rey Dn Las Siete Partidas, publicadas por Dn Joseph Perni, y Catalá
+   Lugar: Valencia, Año: 1788
+   Transcripción: Alamo.. El Sabio Rey Dn Las Siete Partidas, publicadas por Dn Joseph Perni, y Catalá: 8º Pasta 6.Tom...
+
+25. Título: Vid. Alfoni
+   Lugar: , Año: 
+   Transcripción: Vid. Alfoni...
+
+26. Título: 1
+   Lugar: Paris, Año: 1666
+   Transcripción: 1 Paris. 1666. N° 265. 45...
+
+27. Título: 2 idem. De Origine, et statu Feudorum pro moribus Galliae. 4° Argentorati
+   Lugar: Estrasburgo, Año: 1690
+   Transcripción: 2 idem. De Origine, et statu Feudorum pro moribus Galliae. 4° Argentorati 1690. N° 301. 6...
+
+28. Título: 3 ejusd. expositio in instit. Justin. 4° Parisiis
+   Lugar: Paris, Año: 1666
+   Transcripción: 3 ejusd. expositio in instit. Justin. 4° Parisiis 1666. N. 224. 20...
+
+29. Título: 4 ejusd. Vindiciae Ecclesiar. Jurisdiction. 4° Pasta Parisiis
+   Lugar: Paris, Año: 1702
+   Transcripción: 4 ejusd. Vindiciae Ecclesiar. Jurisdiction. 4° Pasta Parisiis 1702. N° 279. 30...
+
+30. Título: 5 ejusd. Notae, et observat. in X libros Hist. Francor. D. Greg. Episcop. Turon. et Supplementum Frederagii. 4° Tafelere Folosae
+   Lugar: , Año: 1679
+   Transcripción: 5 ejusd. Notae, et observat. in X libros Hist. Francor. D. Greg. Episcop. Turon. et Supplementum Fre...
 
 
 11. EVALUACIÓN DE CALIDAD DE LOS DATOS
 --------------------------------------------------------------------------------
 Completitud de campos esenciales:
-  • Autor: 65.8%
+  • Autor: 75.7%
   • Año: 91.0%
   • Lugar: 44.7%
   • Precio: 96.7%
 
-Completitud promedio: 74.6%
+Completitud promedio: 77.0%
 Calidad general de los datos: BUENA
 
 ================================================================================

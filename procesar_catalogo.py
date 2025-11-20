@@ -18,21 +18,31 @@ class ProcesadorCatalogo:
         self.estadisticas = defaultdict(int)
         self.lugares_dudosos = []
         self.errores = []
+        self.referencias_resueltas = 0
 
     def extraer_autor(self, texto: str) -> Tuple[Optional[str], str]:
         """
         Extrae el autor del texto. Retorna (autor, texto_restante)
-        Maneja formatos: Apellido (Nombre), id., Ejusd., Idem
+        Maneja formatos: Apellido (Nombre), id., it., Ejusd., Idem, Yd.
         """
         # Casos especiales de referencia al autor anterior
-        if re.match(r'^(id\.|Ejusd\.|Idem|Ejusdem)', texto, re.IGNORECASE):
-            match = re.match(r'^(id\.|Ejusd\.|Idem|Ejusdem)\s*', texto, re.IGNORECASE)
-            if match:
-                return self.ultimo_autor, texto[match.end():]
+        # Patrones más completos: id., it., Ejusd., Ejusdem, Idem, Yd. (error OCR de "id.")
+        patron_referencia = r'^(id\.|it\.|Yd\.|Ejusd\.|Ejusdem|Idem|eiusd\.|eiusdem)\s*'
+        match_ref = re.match(patron_referencia, texto, re.IGNORECASE)
+
+        if match_ref:
+            # Es una referencia al autor anterior
+            if self.ultimo_autor:
+                self.referencias_resueltas += 1
+                return self.ultimo_autor, texto[match_ref.end():]
+            else:
+                # No hay autor anterior, marcar como anónimo
+                self.estadisticas['anonimos'] += 1
+                return None, texto[match_ref.end():]
 
         # Patrón para autor: Apellido (Nombre) o variantes
         # Busca hasta encontrar un año de 4 dígitos o un formato (fol., 4º, 8º, etc.)
-        patron_autor = r'^([A-ZÀ-Ÿa-zà-ÿ\s\.,]+?)\s*\(([^)]+)\)\s+'
+        patron_autor = r'^([A-ZÀ-Ÿa-zà-ÿ\s\.,\-]+?)\s*\(([^)]+)\)\s+'
         match = re.match(patron_autor, texto)
 
         if match:
@@ -42,6 +52,18 @@ class ProcesadorCatalogo:
             self.ultimo_autor = autor
             self.estadisticas['con_autor'] += 1
             return autor, texto[match.end():]
+
+        # Verificar si hay texto pero sin paréntesis (posible error OCR o formato alternativo)
+        # Por ejemplo: "Acosta Jan" sin paréntesis
+        patron_autor_simple = r'^([A-ZÀ-Ÿ][a-zà-ÿ]+(?:\s+[A-ZÀ-Ÿ][a-zà-ÿ]+)*)\s+(?=[A-Z])'
+        match_simple = re.match(patron_autor_simple, texto)
+
+        if match_simple and len(match_simple.group(1).split()) >= 2:
+            # Parece un nombre completo sin paréntesis
+            autor = match_simple.group(1).strip()
+            self.ultimo_autor = autor
+            self.estadisticas['con_autor'] += 1
+            return autor, texto[match_simple.end():]
 
         # Si no hay autor explícito, podría ser anónimo
         # Verificar si el texto empieza directamente con un título
@@ -376,6 +398,7 @@ class ProcesadorCatalogo:
             f.write("-" * 80 + "\n")
             f.write(f"Total de entradas procesadas: {self.estadisticas['total_procesadas']}\n")
             f.write(f"Entradas con autor identificado: {self.estadisticas['con_autor']}\n")
+            f.write(f"Referencias resueltas (id., it., Ejusd., etc.): {self.referencias_resueltas}\n")
             f.write(f"Entradas anónimas: {self.estadisticas['anonimos']}\n")
             f.write(f"Entradas con año: {self.estadisticas['con_año']}\n")
             f.write(f"Entradas sin año: {self.estadisticas['sin_año']}\n\n")
