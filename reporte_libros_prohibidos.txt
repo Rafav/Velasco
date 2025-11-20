@@ -1,0 +1,664 @@
+====================================================================================================
+ANÁLISIS EXHAUSTIVO DE LIBROS HERÉTICOS, PROHIBIDOS Y CONTROVERTIDOS
+Catálogo Velasco (1427-1799)
+====================================================================================================
+
+Total obras en catálogo: 7323
+Total obras problemáticas identificadas: 118
+Porcentaje: 1.61%
+
+====================================================================================================
+RESUMEN POR CATEGORÍAS
+====================================================================================================
+
+  Sobre la Inquisición                       33 obras
+  Temas heréticos                            24 obras
+  Herejes Protestantes                       21 obras
+  Otros autores prohibidos                   16 obras
+  Magia y superstición                        9 obras
+  Ilustrados prohibidos                       9 obras
+  Jansenistas/Quietistas                      6 obras
+
+====================================================================================================
+AUTORES PROHIBIDOS ENCONTRADOS
+====================================================================================================
+
+  Erasmus                          6 obras
+  Pascal                           5 obras
+  Luther                           4 obras
+  Rotterdam                        4 obras
+  Bayle                            3 obras
+  Beza                             3 obras
+  Calvin                           3 obras
+  Voltaire                         3 obras
+  Sarpi                            2 obras
+  Machiavel                        1 obras
+  Calvino                          1 obras
+  Hobbes                           1 obras
+  Molinos                          1 obras
+
+
+====================================================================================================
+HEREJES PROTESTANTES (21 obras)
+====================================================================================================
+
+1. [ALTA] Théodore de Bèze - Teólogo calvinista
+   Autor: Bezant (Gabriel)
+   Título: Speculum Visitationum minorum Magistratum fol. Baranone
+   Lugar:  | Año: 1627
+
+2. [ALTA] Jean Calvin - Reformador protestante
+   Autor: [Anónimo]
+   Título: quo Calvinistarum in Societatem criminationes jugulatae 4° Neapoli
+   Lugar:  | Año: 1605
+
+3. [ALTA] Juan Calvino - Reformador protestante
+   Autor: Calvino... (Cesar)
+   Título: Discursos morales, traducidos al Español por D. Frigo Rosende
+   Lugar: Madrid | Año: 1709
+
+4. [ALTA] Jean Calvin - Reformador protestante
+   Autor: Calvini (Jo)
+   Título: Lexicon Juridicum Juxta Caesarei et Canonici: fol. Genevae
+   Lugar:  | Año: 1640
+
+5. [ALTA] Desiderius Erasmus (Rotterdam) - Humanista, obras expurgadas
+   Autor: Choquier (Erasmus)
+   Título: De Jurisdictione Ordinaria
+   Lugar:  | Año: 
+
+6. [ALTA] Martin Luther - Reformador protestante
+   Autor: Eckii (Jo.)
+   Título: Enchiridion Aetorum Communium adversus Lutherum et alios Ecclesiae hostes 16.° Aug
+   Lugar:  | Año: 1561
+
+7. [ALTA] Martin Luther - Reformador protestante
+   Autor: [Anónimo]
+   Título: Enrici VIII. adversus Lutherum adverstiones
+   Lugar: Roma | Año: 1543
+
+8. [ALTA] Desiderius Erasmus (Rotterdam) - Humanista, obras expurgadas
+   Autor: Erasmus (Desiderius)
+   Título: Operum Catalogus 4° Basileae
+   Lugar:  | Año: 1537
+
+9. [ALTA] Desiderius Erasmus (Rotterdam) - Humanista, obras expurgadas
+   Autor: Erasmus (Desiderius)
+   Título: De conscribendis epistolis 12° Lugd
+   Lugar:  | Año: 1645
+
+10. [ALTA] Desiderius Erasmus (Rotterdam) - Humanista, obras expurgadas
+   Autor: Erasmus (Desiderius)
+   Título: De ratione Studii ac legendi inter pretandique auctores 8° Lugd
+   Lugar:  | Año: 1528
+
+11. [ALTA] Desiderius Erasmus (Rotterdam) - Humanista, obras expurgadas
+   Autor: Erasmus (Desiderius)
+   Título: Ad Jacobum Staniacam et Fabrum fol. Basileae
+   Lugar:  | Año: 1523
+
+12. [ALTA] Desiderius Erasmus (Rotterdam) - Humanista, obras expurgadas
+   Autor: Erasmus (Desiderius)
+   Título: De pueris instituendis 8° Parisiis
+   Lugar: Paris | Año: 1538
+
+13. [ALTA] Jean Calvin - Reformador protestante
+   Autor: Freschot (D. Carimino)
+   Título: Historia dell'origine progressi è Trionfo del Calvinismo nella Francia 4.° Neapoli
+   Lugar:  | Año: 1698
+
+14. [ALTA] Desiderius Erasmus de Rotterdam
+   Autor: [Anónimo]
+   Título: Eiusd. Opera Juridica, Philosophica et Philologica edita per Joannem Job. Pasta Rotterdam
+   Lugar:  | Año: 1766
+
+15. [ALTA] Martin Luther - Reformador protestante
+   Autor: [Anónimo]
+   Título: Henrici VIII Angliae Regis Assertio Septem Sacramentorum adversus Lutherum
+   Lugar:  | Año: 1562
+
+16. [ALTA] Desiderius Erasmus de Rotterdam
+   Autor: [Anónimo]
+   Título: La France tou jours ambitieuse, et tou jours perjide. 8.º Rotterdam
+   Lugar:  | Año: 1689
+
+17. [ALTA] Théodore de Bèze - Teólogo calvinista
+   Autor: Pellicer (D. Josef)
+   Título: Genealogia del Linage de Cabeza de Baca fol
+   Lugar: Madrid | Año: 1652
+
+18. [ALTA] Martin Luther - Reformador protestante
+   Autor: Roffenni (Joanne)
+   Título: Assertionum Regis Angliae de fide Catholica adversus Lutherum 12.º Parisii
+   Lugar:  | Año: 1562
+
+19. [ALTA] Desiderius Erasmus de Rotterdam
+   Autor: Sánchez (Francisco)
+   Título: Tractatus Philosophi quod nihil scitur 12.ª Rotterdam
+   Lugar:  | Año: 1692
+
+20. [ALTA] Théodore de Bèze - Teólogo calvinista
+   Autor: Trillo y Figueroa (D. Juan de)
+   Título: Memoriales Genealogicos de las Casas de Torre, Cana leral, Orozco, Vierna, Cabeza de Baca y otras
+   Lugar: Granada | Año: 1662
+
+21. [ALTA] Desiderius Erasmus de Rotterdam
+   Autor: Vinnii (Arnoldi)
+   Título: tractatus vari jurisdict.: 4.° Pasta blanca Rotterdam
+   Lugar:  | Año: 1664
+
+
+====================================================================================================
+ILUSTRADOS PROHIBIDOS (9 obras)
+====================================================================================================
+
+1. [ALTA] Pierre Bayle - Filósofo, Diccionario histórico-crítico
+   Autor: [Anónimo]
+   Título: Anónimo Alegaciones Varias sobre el Estado de Baylen pertenecientes à la Casa Ponce León
+   Lugar:  | Año: 1594
+
+2. [ALTA] Título prohibido: Voltaire - Lettres philosophiques
+   Autor: Almeida (P. Theodoro)
+   Título: Cartas Filosóficas
+   Lugar: Madrid | Año: 1787
+
+3. [ALTA] Thomas Hobbes - Filósofo político
+   Autor: Hobbes (Thomas)
+   Título: Elementa philosophica de cive 12. Amsterodami
+   Lugar:  | Año: 1646
+
+4. [ALTA] Título prohibido: Voltaire - Lettres philosophiques
+   Autor: [Anónimo]
+   Título: Las Helvianas, ó Cartas Filosóficas traducidas del Francés al Castellano por Vial 2 Tom
+   Lugar: Madrid | Año: 1787
+
+5. [ALTA] François-Marie Arouet (Voltaire) - Filósofo ilustrado
+   Autor: [Anónimo]
+   Título: Leverreux de Voltaire 8.° tome second
+   Lugar: Paris | Año: 1762
+
+6. [ALTA] Pierre Bayle - Filósofo, Diccionario histórico-crítico
+   Autor: Robles Vives (Lic. D. Antonio)
+   Título: Disertacion historico juridica, sobre los Estados de Arcos y Baylen con Arbol: 4.° Past. Granada
+   Lugar: Granada | Año: 1770
+
+7. [ALTA] François-Marie Arouet (Voltaire) - Filósofo ilustrado
+   Autor: Voltaire (M. de)
+   Título: Lettres de quelques juifs Portugais, Allemands, et Polonois: 8.° 3 tom. A la Rustica
+   Lugar: Paris | Año: 1781
+
+8. [ALTA] François-Marie Arouet (Voltaire) - Filósofo ilustrado
+   Autor: Voltaire (M. de)
+   Título: El Oráculo de los nuevos Filósofos traducido al Español p. el P. Fr. Pedro Morzo
+   Lugar: Madrid | Año: 1769
+
+9. [ALTA] Pierre Bayle - Filósofo, Diccionario histórico-crítico
+   Autor: [Anónimo]
+   Título: Ximenez & Aragui (D. Geronimo) Discurso del Oficio de Bayle General de Aragon 4.º Zaragoza
+   Lugar: Zaragoza | Año: 1630
+
+
+====================================================================================================
+JANSENISTAS/QUIETISTAS (6 obras)
+====================================================================================================
+
+1. [MEDIA] Blaise Pascal - Provinciales (jansenista)
+   Autor: Pascal (C.U.)
+   Título: Pensées sur la Religion en 12
+   Lugar: Paris | Año: 1734
+
+2. [MEDIA] Blaise Pascal - Provinciales (jansenista)
+   Autor: Pascali (Carolus)
+   Título: Segatur 16.° Amstelodami
+   Lugar:  | Año: 1645
+
+3. [MEDIA] Blaise Pascal - Provinciales (jansenista)
+   Autor: Pascali (Carolus)
+   Título: Cristianes Rey 12.° p
+   Lugar: Paris | Año: 1618
+
+4. [MEDIA] Blaise Pascal - Provinciales (jansenista)
+   Autor: Pascali (Carolus)
+   Título: Legatus Sua Gallo Rhetorica
+   Lugar: Paris | Año: 1620
+
+5. [MEDIA] Blaise Pascal - Provinciales (jansenista)
+   Autor: Pascali (Carolus)
+   Título: De Coronis 4.°
+   Lugar: Paris | Año: 1610
+
+6. [MEDIA] Miguel de Molinos - Quietismo
+   Autor: Villa Real (D. Pedro)
+   Título: Maquinas hidraulicas de molinosy Tenerias
+   Lugar:  | Año: 1736
+
+
+====================================================================================================
+OTROS AUTORES PROHIBIDOS (16 obras)
+====================================================================================================
+
+1. [ALTA] Paolo Sarpi - Historiador anti-papal
+   Autor: Bastida (P. Hernando de la)
+   Título: Antidoto contra los herrores, a Fr. Paulo Sarpi, Sobre las censuras fulminadas por el Papa Paulo V contra el Senado de V
+   Lugar: Venecia | Año: 1607
+
+2. [ALTA] Niccolò Machiavelli
+   Autor: Bioio (Thoma)
+   Título: De imperio Virtutis adversus Machiavellum
+   Lugar: Roma | Año: 1599
+
+3. [ALTA] Título prohibido: Diderot - Encyclopédie
+   Autor: Cabanile (D. Antonio)
+   Título: Observaciones sobre el artículo España a la nueva Enciclopedia: traduc. al castellano por Rivera
+   Lugar: Madrid | Año: 1786
+
+4. [ALTA] Título prohibido: Erasmo - Colloquia
+   Autor: Chavexo (Dn Juan)
+   Título: Coloquios a la espina
+   Lugar:  | Año: 1785
+
+5. [ALTA] Título prohibido: Bayle - Dictionnaire historique et critique
+   Autor: Cornejo (D. Andrés)
+   Título: Diccionario histórico y forense al Derecho Real de España 4° 2 tomos.
+   Lugar: Madrid | Año: 1779
+
+6. [ALTA] Título prohibido: Pascal - Lettres provinciales
+   Autor: [Anónimo]
+   Título: Declaracion dela Ordenanza de Milicias Provinciales de España 8.°
+   Lugar: Madrid | Año: 1761
+
+7. [ALTA] Título prohibido: Maquiavelo - El Príncipe
+   Autor: Santius. (Thomas)
+   Título: De Principatibus Europae
+   Lugar:  | Año: 1635
+
+8. [ALTA] Título prohibido: Pascal - Lettres provinciales
+   Autor: Lorenzana (Emmo. D. Francisco Antonio)
+   Título: Concilios Provinciales de Mexico . 4.º 3 tom. 2 volum. Pasta. Mexico
+   Lugar:  | Año: 1769
+
+9. [ALTA] Título prohibido: Pascal - Pensées
+   Autor: Nepveu (P. Francisco)
+   Título: Pensamientos, o Reflexiones Christianas para todos los dias del año: 8.° 4 tom. Barcelona
+   Lugar: Barcelona | Año: 1764
+
+10. [ALTA] Título prohibido: Pascal - Pensées
+   Autor: [Anónimo]
+   Título: Pensamientos & Cicerón ó discurso filosófico & Morales, traducido por D. Forguat Torio Parte en 8.º
+   Lugar: Madrid | Año: 1787
+
+11. [ALTA] Título prohibido: Pascal - Pensées
+   Autor: [Anónimo]
+   Título: Pensamientos escogidos de las máximas filosóficas del Emperador Marco Aurelio Antonino, puestos en castellano por D. Jay
+   Lugar: Madrid | Año: 1784
+
+12. [ALTA] Título prohibido: Maquiavelo - El Príncipe
+   Autor: [Anónimo]
+   Título: Respublica de Principatibus Italiae 12.° Lugduni Pasta
+   Lugar: Lugduni | Año: 1641
+
+13. [ALTA] Título prohibido: Pascal - Pensées
+   Autor: [Anónimo]
+   Título: Rubín Pensamientos Filosóficos y dichos de los más célebres Poetas Españoles 8.º
+   Lugar: Madrid | Año: 1786
+
+14. [ALTA] Paolo Sarpi - Historiador anti-papal
+   Autor: Seta (P. Valerio)
+   Título: Difesa della censure publicate da N. S. Paolo Papa V. nella causa de Venetiani in Risposta alle considerazioni di F. Pao
+   Lugar:  | Año: 1607
+
+15. [ALTA] Título prohibido: Erasmo - Colloquia
+   Autor: Torquemada (Antonio)
+   Título: Coloquios Satiricos y Pastoriles 4.° Bilbao
+   Lugar:  | Año: 1584
+
+16. [ALTA] Título prohibido: Maquiavelo - Il Principe
+   Autor: Ucedo (D. Sebastián de)
+   Título: El Príncipe Deliberante 4.º en Colonia
+   Lugar: Colonia | Año: 1678
+
+
+====================================================================================================
+MAGIA Y SUPERSTICIÓN (9 obras)
+====================================================================================================
+
+1. [MEDIA] Materia prohibida: astrolog
+   Autor: Aguileza (Joa)
+   Título: Canones Astrologici Universales
+   Lugar: Salamanca | Año: 1554
+
+2. [MEDIA] Materia prohibida: cabala
+   Autor: Carrasco (D. Francisci)
+   Título: Alegación Jurídica sobre incorporar a la Corona la Alcabala, a la Villa de Palazuelo de Medina fol. N. 288 12
+   Lugar:  | Año: 
+
+3. [MEDIA] Materia prohibida: astrolog
+   Autor: Cixuelo (Petri)
+   Título: Dignum plantarum seu Astrologiae christianae apotelemnati
+   Lugar:  | Año: 
+
+4. [MEDIA] Materia prohibida: magic
+   Autor: [Anónimo]
+   Título: Eiusd. Disquisitiones Magicae Coloniensis
+   Lugar:  | Año: 1603
+
+5. [MEDIA] Materia prohibida: astrolog
+   Autor: Gutiérrez (Albano)
+   Título: Gramaravillosa del Mundo, y juicio sobre la Astrología 4.° Toledo
+   Lugar:  | Año: 1524
+
+6. [MEDIA] Materia prohibida: cabala
+   Autor: Lassarte et Molina (Ignatius)
+   Título: De Decima Vendicionis, et permutationis, quae Alcabala Nuncupatur fol. Compluti
+   Lugar: Alcalá de Henares | Año: 1589
+
+7. [MEDIA] Materia prohibida: astrolog
+   Autor: [Anónimo]
+   Título: Reprobacion dela Astrologia Judiciaria 8.° Salamanca
+   Lugar: Salamanca | Año: 1646
+
+8. [MEDIA] Materia prohibida: magia
+   Autor: Rieger (Pauli Josephi)
+   Título: Disertatio de Magia 4.° Sindobonne
+   Lugar:  | Año: 1773
+
+9. [MEDIA] Materia prohibida: astrolog
+   Autor: [Anónimo]
+   Título: De annis Climactericis, et antiqua Astrologia Lugduni Batavorum
+   Lugar: Lugduni | Año: 1648
+
+
+====================================================================================================
+SOBRE LA INQUISICIÓN (33 obras)
+====================================================================================================
+
+1. [BAJA] Tema: censura
+   Autor: Antonio (D. Nicolás)
+   Título: Censura a Historias fabulosas: dada al Publico por D. Gregorio Mayans. fol
+   Lugar:  | Año: 1742
+
+2. [BAJA] Tema: censura
+   Autor: Arnaldo (D. Antonio)
+   Título: Censura sobre el Arte de pensar
+   Lugar: Madrid | Año: 1759
+
+3. [BAJA] Tema: tribunal
+   Autor: Azevedo (Alphonsus de)
+   Título: De Absolutione rerum objecta Caesimina negantium apud Egleciam ac de huius una Eliminando praesertim ab Ecclesiasticis T
+   Lugar: Madrid | Año: 1770
+
+4. [BAJA] Tema: censura
+   Autor: Barreiros (Gaspar)
+   Título: Censuras sobre quanto libros intitulados en M. Portio
+   Lugar:  | Año: 
+
+5. [BAJA] Tema: censura
+   Autor: Blount (Thomas Pope)
+   Título: Censura Celebriorum etuctorum
+   Lugar:  | Año: 1694
+
+6. [BAJA] Tema: inquisicion
+   Autor: Bolero y Muñoz (Dr Joseph Manuel)
+   Título: Apologia por los tribunales Reales contra los de Inquisicion 30
+   Lugar:  | Año: 
+
+7. [BAJA] Tema: censura
+   Autor: Bondia (de Ambrosio)
+   Título: Triunfo de la Verdad sobre la censura a la Eloquentia
+   Lugar: Madrid | Año: 1649
+
+8. [BAJA] Tema: expurgat
+   Autor: [Anónimo]
+   Título: Eiusd. Expurgationes Pomponii Melae de Situ Orbis
+   Lugar: Salamanca | Año: 1574
+
+9. [BAJA] Tema: inquisicion
+   Autor: [Anónimo]
+   Título: Constituciones del Santo Oficio de la Inquisicion
+   Lugar: Madrid | Año: 1630
+
+10. [BAJA] Tema: tribunal
+   Autor: Elizondo (P. Francisco Pablo)
+   Título: Practica universal forense de los tribunales: 4° 4 tom. Pasta Atad
+   Lugar:  | Año: 
+
+11. [BAJA] Tema: inquisicion
+   Autor: Froylan (P. citrio)
+   Título: Apologia del Consejo de la Inquisicion: fol. v. 55 24
+   Lugar:  | Año: 
+
+12. [BAJA] Tema: tribunal
+   Autor: Guexxa (Francisco)
+   Título: Apelacion al tribunal de los Doctores 4.°
+   Lugar: Madrid | Año: 1742
+
+13. [BAJA] Tema: tribunal
+   Autor: Homelius (Carolus Ferdin.)
+   Título: De forma tribunalis et
+   Lugar:  | Año: 
+
+14. [BAJA] Tema: prohib
+   Autor: [Anónimo]
+   Título: Itt. Librorum prohibitorum a Benedicto XIV 4° Romae
+   Lugar: Roma | Año: 1758
+
+15. [BAJA] Tema: prohib
+   Autor: [Anónimo]
+   Título: Itt. Delos libros prohibidos en España hasta el año
+   Lugar:  | Año: 1767
+
+16. [BAJA] Tema: inquisitio
+   Autor: [Anónimo]
+   Título: Inquisitionibus Supremae Censura Errorum quibus Hæretici Sacras Scripturas arguere dixunt: 4.º Pintia
+   Lugar:  | Año: 1554
+
+17. [BAJA] Tema: inquisicion
+   Autor: [Anónimo]
+   Título: tocantes à los distritos de las Inquisiciones de España residente en las Ciudades pl.214 19c
+   Lugar:  | Año: 
+
+18. [BAJA] Tema: índice
+   Autor: Magro (D. Santiago)
+   Título: Índice a las proposiciones a las leyes de la Recopilación con remisión a D. D. Autores acordados, y Prácticas. f.º Alcal
+   Lugar: Alcalá | Año: 1726
+
+19. [BAJA] Tema: tribunal
+   Autor: Navarro (Dº Gaspar)
+   Título: Tribunal de Superstición Ladina
+   Lugar:  | Año: 1631
+
+20. [BAJA] Tema: censura
+   Autor: Nonii Leonis (Duardi)
+   Título: Censurae in libellum de Regum Portugaliae origine: item de eorundem Regum genealogia 4.º
+   Lugar: Lisboa | Año: 1585
+
+21. [BAJA] Tema: tribunal
+   Autor: [Anónimo]
+   Título: con el Consejo de Ordenes y entre otros tribunales. fol. c. numero. 154. 24
+   Lugar:  | Año: 
+
+22. [BAJA] Tema: tribunal
+   Autor: [Anónimo]
+   Título: Papeles varios selectos sobre Precedencias entre Eclesiasticos y Subalternos de los Tribunales Reales con aranceles de e
+   Lugar:  | Año: 
+
+23. [BAJA] Tema: inquisitio
+   Autor: Paramo (D. Lacdovici)
+   Título: Item Defensio jurisdictionis sancti ofici Inquisitionis Regni Sicilie S. claudii
+   Lugar:  | Año: 1594
+
+24. [BAJA] Tema: censura
+   Autor: Pérez Ledezma (D. Gonzalo)
+   Título: Censura de la Elogüencia a. h. Zaragoza
+   Lugar: Zaragoza | Año: 1648
+
+25. [BAJA] Tema: inquisicion
+   Autor: [Anónimo]
+   Título: Pragmatica y Leyes del Rey Catholico con algunos de sus predecesores y Bulas obtenidas en favor de la Inquisicion Real. 
+   Lugar:  | Año: 1553
+
+26. [BAJA] Tema: censura
+   Autor: Rioja (D. Francisco de)
+   Título: Aristarco ó Censura dela Proclamacion Catholica delos Catalanes. Numero 124
+   Lugar:  | Año: 
+
+27. [BAJA] Tema: censura
+   Autor: Sala (R.P.M. Fray Agustín)
+   Título: Respuesta en defensa de su censura sobre los ecos del P. Martínio de Santa Eulalia Barcelona y
+   Lugar: Barcelona | Año: 1737
+
+28. [BAJA] Tema: tribunal
+   Autor: Sanchez Santiago (D. Antonio)
+   Título: Ydea elemental delos tribunales dela Corte de su actual estado
+   Lugar: Madrid | Año: 1787
+
+29. [BAJA] Tema: tribunal
+   Autor: Sanchez Santiago (D. Antonio)
+   Título: Ydea Elemental delos tribunales dela corte en su actual Estado y ultima planta 4.º 1tomo
+   Lugar: Madrid | Año: 1787
+
+30. [BAJA] Tema: expurgat
+   Autor: [Anónimo]
+   Título: Eiusd. Epistolae aliquot selectae correctae, iunctae, et expurgatae per P. Gomez 8. Pasta
+   Lugar: Madrid | Año: 1757
+
+31. [BAJA] Tema: tribunal
+   Autor: Topii (Nicolai)
+   Título: De origine Tribunalium Urbis Neapolit. 4.° 3 tom. Neapoli
+   Lugar:  | Año: 1655
+
+32. [BAJA] Tema: tribunal
+   Autor: Voet (Paul)
+   Título: Tribunal iniquum in causa laudis teriv= Schoockiana: 12.° Utrecht
+   Lugar:  | Año: 1646
+
+33. [BAJA] Tema: index librorum
+   Autor: Ziletty (D. Io. Baptista)
+   Título: Index Librorum omnium juristarum Pontificii quam Caesarei: 4° 3 tom. Venetiis
+   Lugar: Venecia | Año: 1566
+
+
+====================================================================================================
+TEMAS HERÉTICOS (24 obras)
+====================================================================================================
+
+1. [MEDIA] Tema herético: reforma
+   Autor: Abril (Pedro Simon)
+   Título: 15 apuntamientos de como se deben reformar las doctrinas. 8°
+   Lugar: Madrid | Año: 1769
+
+2. [MEDIA] Tema herético: reforma
+   Autor: Abril (Pedro Simon)
+   Título: Modo a reformar los Estudios 8°
+   Lugar: Madrid | Año: 1789
+
+3. [MEDIA] Tema herético: schism
+   Autor: [Anónimo]
+   Título: Afi — Optati De schismate Donatistarum ad versus Parmenium Trat. 8.° Parisiis
+   Lugar: Paris | Año: 1569
+
+4. [MEDIA] Tema herético: reforma
+   Autor: Alcagniciense (F. Thomas)
+   Título: Nueva Pragmática de reformación contra los abusos
+   Lugar: Zaragoza | Año: 1635
+
+5. [MEDIA] Tema herético: protestant
+   Autor: Bosuet (Jacobo Benigno)
+   Título: Histoire des variations des Églises Protestantes 2 tom
+   Lugar: Paris | Año: 1734
+
+6. [MEDIA] Tema herético: protestant
+   Autor: [Anónimo]
+   Título: Yd variaciones a las Iglesias Protestantes
+   Lugar: Madrid | Año: 1772
+
+7. [MEDIA] Tema herético: reforma
+   Autor: Castro (P. Francisco)
+   Título: Reformacion christiana del Pecador y Virtuoso
+   Lugar: Madrid | Año: 1785
+
+8. [MEDIA] Tema herético: protestant
+   Autor: [Anónimo]
+   Título: De Compositione Pacis Religiosae in Germania adversus Protestantes 4° Iad. Friburg
+   Lugar:  | Año: 1629
+
+9. [MEDIA] Tema herético: reforma
+   Autor: Echarri (F. Francisco)
+   Título: Directorio Moral itt. Segunda vez Ilustrado, Reformado, añadido, y corregido por el P. Olhinos 4.° Pasta 2 tom.
+   Lugar: Madrid | Año: 1784
+
+10. [MEDIA] Tema herético: protestant
+   Autor: Estoro (Jo. Georgii)
+   Título: Euwd. Delineatio Turispublici Ecclesiastici Protestantium 1.° Francofurti
+   Lugar:  | Año: 1739
+
+11. [MEDIA] Tema herético: reforma
+   Autor: Paton (Bartholome Ximeñez)
+   Título: Reforma de los jes. 4.º Baccio
+   Lugar:  | Año: 1634
+
+12. [MEDIA] Tema herético: heretic
+   Autor: Ponce de León (D. Gonzalo)
+   Título: Responcio ad Verba rubrum de frura heretici Glorient: 1.°
+   Lugar: Roma | Año: 1585
+
+13. [MEDIA] Tema herético: herej
+   Autor: Ribera (Alonso)
+   Título: Historia Sacra del S. Sacramento contra los Herejes & estos tiempos fol
+   Lugar: Madrid | Año: 1626
+
+14. [MEDIA] Tema herético: heretic
+   Autor: Rojas (Episcopi Toannii)
+   Título: De Successionibus De Hereticis et Singularia in fidei favorem: fol. Salmanticae
+   Lugar: Salamanca | Año: 1580
+
+15. [MEDIA] Tema herético: heretic
+   Autor: Rojas (Joannis)
+   Título: Tractatus de Hereticis annuanot. J. Pegnae
+   Lugar: Venecia | Año: 1583
+
+16. [MEDIA] Tema herético: heretic
+   Autor: Roseus (S. Guilelmus)
+   Título: De justa Reipublicae Christianae integra Impio, et heretico Autoritate 8° Antuerpiae
+   Lugar: Amberes | Año: 1592
+
+17. [MEDIA] Tema herético: heretic
+   Autor: Ros ureydi (Heribeuti)
+   Título: De fide Hereticis servanda Antuerpiae
+   Lugar: Amberes | Año: 1610
+
+18. [MEDIA] Tema herético: schism
+   Autor: Sancterelli (Antoni)
+   Título: Tractatus de Haeresi, Schisma &
+   Lugar: Roma | Año: 1625
+
+19. [MEDIA] Tema herético: heretic
+   Autor: [Anónimo]
+   Título: Eiusd. Epistolae, et libri contra Heretices, cum Scholii Mariani Victori fol. Parisiis
+   Lugar: Paris | Año: 1578
+
+20. [MEDIA] Tema herético: protestant
+   Autor: Santo (Fr. Fivelis)
+   Título: Causae et Iudicia ex consensibus Protestantium 12 Gadibus
+   Lugar:  | Año: 1764
+
+21. [MEDIA] Tema herético: luteran
+   Autor: Serpi (Fr. Dimas)
+   Título: Tratado contra Luteranos y otros Hereges
+   Lugar: Lisboa | Año: 1617
+
+22. [MEDIA] Tema herético: heretic
+   Autor: [Anónimo]
+   Título: Van-Vant (Francisco) Historia Hereticaorum 8°. 2 tom. Venetiis
+   Lugar: Venecia | Año: 1735
+
+23. [MEDIA] Tema herético: protestant
+   Autor: Villalpando (Sarpanis Carolus)
+   Título: Disputationes adversus protestantes. 8. Venetiis
+   Lugar: Venecia | Año: 1564
+
+24. [MEDIA] Tema herético: cisma
+   Autor: [Anónimo]
+   Título: De vitii sermonis et Graecismatis latino barbaris libri quatuor
+   Lugar:  | Año: 1656
+

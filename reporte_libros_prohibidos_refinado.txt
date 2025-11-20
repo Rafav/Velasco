@@ -1,0 +1,155 @@
+====================================================================================================
+ANÁLISIS EXHAUSTIVO DE LIBROS HERÉTICOS, PROHIBIDOS Y CONTROVERTIDOS
+Catálogo Velasco (1427-1799) - Versión Refinada
+====================================================================================================
+
+Total obras en catálogo: 7323
+Obras PROHIBIDAS (gravedad ALTA/MÁXIMA): 18 (0.25%)
+Obras SOSPECHOSAS (gravedad MEDIA): 9 (0.12%)
+Obras informativas/permitidas: 9
+
+====================================================================================================
+RESUMEN POR CATEGORÍAS
+====================================================================================================
+
+  Herejías                                    7 obras
+  Humanistas expurgados                       6 obras
+  Protestantismo                              5 obras
+  Institucional                               4 obras
+  Apologética                                 3 obras
+  Ciencias ocultas                            3 obras
+  Magia y superstición                        2 obras
+  Censura                                     2 obras
+  Ilustrados prohibidos                       2 obras
+  Herejes protestantes                        1 obras
+  Filósofos prohibidos                        1 obras
+
+====================================================================================================
+AUTORES PROHIBIDOS ENCONTRADOS (confirmados)
+====================================================================================================
+
+  Desiderius Erasmus Roterodamus                       6 obra(s)
+  Voltaire (François                                   2 obra(s)
+  Jean Calvin                                          1 obra(s)
+  Thomas Hobbes                                        1 obra(s)
+
+
+====================================================================================================
+HEREJÍAS (7 obras prohibidas)
+====================================================================================================
+
+1. [ALTA] Tema: Herejía
+   Autor: Ponce de León (D. Gonzalo)
+   Título: Responcio ad Verba rubrum de frura heretici Glorient: 1.°
+   Lugar: Roma | Año: 1585
+
+2. [ALTA] Tema: Herejía
+   Autor: Rojas (Episcopi Toannii)
+   Título: De Successionibus De Hereticis et Singularia in fidei favorem: fol. Salmanticae
+   Lugar: Salamanca | Año: 1580
+
+3. [ALTA] Tema: Herejía
+   Autor: Rojas (Joannis)
+   Título: Tractatus de Hereticis annuanot. J. Pegnae
+   Lugar: Venecia | Año: 1583
+
+4. [ALTA] Tema: Herejía
+   Autor: Roseus (S. Guilelmus)
+   Título: De justa Reipublicae Christianae integra Impio, et heretico Autoritate 8° Antuerpiae
+   Lugar: Amberes | Año: 1592
+
+5. [ALTA] Tema: Herejía
+   Autor: Ros ureydi (Heribeuti)
+   Título: De fide Hereticis servanda Antuerpiae
+   Lugar: Amberes | Año: 1610
+
+6. [ALTA] Tema: Herejía
+   Autor: [Anónimo]
+   Título: Eiusd. Epistolae, et libri contra Heretices, cum Scholii Mariani Victori fol. Parisiis
+   Lugar: Paris | Año: 1578
+
+7. [ALTA] Tema: Herejía
+   Autor: [Anónimo]
+   Título: Van-Vant (Francisco) Historia Hereticaorum 8°. 2 tom. Venetiis
+   Lugar: Venecia | Año: 1735
+
+
+====================================================================================================
+HUMANISTAS EXPURGADOS (6 obras prohibidas)
+====================================================================================================
+
+1. [ALTA] Desiderius Erasmus Roterodamus - Obras expurgadas (Índice 1559)
+   Autor: Choquier (Erasmus)
+   Título: De Jurisdictione Ordinaria
+   Lugar:  | Año: 
+
+2. [ALTA] Desiderius Erasmus Roterodamus - Obras expurgadas (Índice 1559)
+   Autor: Erasmus (Desiderius)
+   Título: Operum Catalogus 4° Basileae
+   Lugar:  | Año: 1537
+
+3. [ALTA] Desiderius Erasmus Roterodamus - Obras expurgadas (Índice 1559)
+   Autor: Erasmus (Desiderius)
+   Título: De conscribendis epistolis 12° Lugd
+   Lugar:  | Año: 1645
+
+4. [ALTA] Desiderius Erasmus Roterodamus - Obras expurgadas (Índice 1559)
+   Autor: Erasmus (Desiderius)
+   Título: De ratione Studii ac legendi inter pretandique auctores 8° Lugd
+   Lugar:  | Año: 1528
+
+5. [ALTA] Desiderius Erasmus Roterodamus - Obras expurgadas (Índice 1559)
+   Autor: Erasmus (Desiderius)
+   Título: Ad Jacobum Staniacam et Fabrum fol. Basileae
+   Lugar:  | Año: 1523
+
+6. [ALTA] Desiderius Erasmus Roterodamus - Obras expurgadas (Índice 1559)
+   Autor: Erasmus (Desiderius)
+   Título: De pueris instituendis 8° Parisiis
+   Lugar: Paris | Año: 1538
+
+
+====================================================================================================
+ILUSTRADOS PROHIBIDOS (2 obras prohibidas)
+====================================================================================================
+
+1. [ALTA] Voltaire (François-Marie Arouet) - Filósofo ilustrado prohibido
+   Autor: Voltaire (M. de)
+   Título: Lettres de quelques juifs Portugais, Allemands, et Polonois: 8.° 3 tom. A la Rustica
+   Lugar: Paris | Año: 1781
+
+2. [ALTA] Voltaire (François-Marie Arouet) - Filósofo ilustrado prohibido
+   Autor: Voltaire (M. de)
+   Título: El Oráculo de los nuevos Filósofos traducido al Español p. el P. Fr. Pedro Morzo
+   Lugar: Madrid | Año: 1769
+
+
+====================================================================================================
+MAGIA Y SUPERSTICIÓN (1 obras prohibidas)
+====================================================================================================
+
+1. [ALTA] Tema: Brujería o sortilegios
+   Autor: Bullandus (Paulus)
+   Título: De Heresiis et Sortilegiis
+   Lugar:  | Año: 
+
+
+====================================================================================================
+HEREJES PROTESTANTES (1 obras prohibidas)
+====================================================================================================
+
+1. [MÁXIMA] Jean Calvin - Reformador protestante (prohibición total)
+   Autor: Calvini (Jo)
+   Título: Lexicon Juridicum Juxta Caesarei et Canonici: fol. Genevae
+   Lugar:  | Año: 1640
+
+
+====================================================================================================
+FILÓSOFOS PROHIBIDOS (1 obras prohibidas)
+====================================================================================================
+
+1. [ALTA] Thomas Hobbes - Leviatán (prohibido)
+   Autor: Hobbes (Thomas)
+   Título: Elementa philosophica de cive 12. Amsterodami
+   Lugar:  | Año: 1646
+
