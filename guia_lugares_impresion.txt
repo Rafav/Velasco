@@ -11,20 +11,20 @@ LUGARES MÁS FRECUENTES (con normalizaciones aplicadas)
 ================================================================================
 
 Madrid / Matriti / mad. / Mad. / Matrit
-  → Madrid, España (1.196 obras)
+  → Madrid, España (1.380 obras)
   → Capital de España desde 1561
-  → IMPORTANTE: "Mad." fue corregido en catalogo_depurado_v2.csv (314 entradas)
+  → IMPORTANTE: Corregido en v2 (314 entradas) y v3 (284 adicionales) = 598 total
 
 Paris / Parisiis / Lutetis Parisiorum
-  → París, Francia (402 obras)
+  → París, Francia (420 obras)
   → Capital de Francia
 
 Lugduni / Lugdun
-  → Lyon, Francia (158 obras)
+  → Lyon, Francia (165 obras)
   → Segunda ciudad de Francia, importante centro editorial
 
 Salamanca / Salmanticae / Salmant.
-  → Salamanca, España (156 obras)
+  → Salamanca, España (183 obras)
   → Universidad fundada en 1218, importante centro académico
 
 Roma / Romae
@@ -215,21 +215,22 @@ RECOMENDACIONES PARA LUGARES DUDOSOS
 ESTADÍSTICAS DE DISTRIBUCIÓN GEOGRÁFICA
 ================================================================================
 
-Por país (estimación):
-  España:        ~2,500 obras (34%)
-  Francia:         ~600 obras (8%)
-  Italia:          ~350 obras (5%)
-  Países Bajos:    ~200 obras (3%)
-  Alemania:         ~80 obras (1%)
-  Portugal:         ~70 obras (1%)
-  Sin identificar: ~4,000 obras (55%)
+Por país (desde catalogo_depurado_v3.csv):
+  España:        2.284 obras (31,19%)
+  Francia:         626 obras ( 8,55%)
+  Italia:          280 obras ( 3,82%)
+  Países Bajos:    199 obras ( 2,72%)
+  Alemania/Suiza:  100 obras ( 1,37%)
+  Portugal:         67 obras ( 0,91%)
+  Otros:            39 obras ( 0,53%)
+  Sin identificar: 3.728 obras (50,9%)
 
 Centros editoriales principales (Top 5):
-  1. Madrid (España) - 1.196 obras (16,33% del total)
-  2. París (Francia) - 403 obras (5,50%)
+  1. Madrid (España) - 1.380 obras (18,84% del total)
+  2. París (Francia) - 420 obras (5,74%)
   3. "ibid" (referencia) - 260 obras
-  4. Lyon (Francia) - 163 obras (2,23%)
-  5. Salamanca (España) - 157 obras (2,14%)
+  4. Salamanca (España) - 183 obras (2,50%)
+  5. Lyon (Francia) - 165 obras (2,25%)
 
 ================================================================================
 Fin de la guía

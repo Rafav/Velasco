@@ -178,7 +178,7 @@ La calidad general de los datos extraídos mediante OCR es buena, con una comple
 
 \begin{table}[h]
 \centering
-\caption{Completitud de campos del catálogo (catalogo\_depurado\_v2.csv)}
+\caption{Completitud de campos del catálogo (catalogo\_depurado\_v3.csv)}
 \label{tab:completitud}
 \begin{tabular}{lcc}
 \toprule
@@ -187,7 +187,7 @@ La calidad general de los datos extraídos mediante OCR es buena, con una comple
 Precio & 7.081 & 96,7\% \\
 Año & 6.663 & 91,0\% \\
 Autor & 5.542 & 75,7\% \\
-Lugar & 3.586 & 49,0\% \\
+Lugar & 3.870 & 52,8\% \\
 Formato & 1.745 & 23,8\% \\
 Número de catálogo & 1.560 & 21,3\% \\
 Tomos múltiples & 771 & 10,5\% \\
@@ -198,7 +198,7 @@ Figuras & 26 & 0,4\% \\
 \end{tabular}
 \end{table}
 
-\textbf{Nota:} La versión 2 del catálogo depurado corrigió 314 entradas donde el lugar de impresión (principalmente ``Mad.'' para Madrid) había sido mal parseado en el campo título. Esto mejoró la completitud del campo lugar del 44,7\% al 49,0\%.
+\textbf{Nota sobre mejoras sucesivas:} El proceso de depuración pasó por tres versiones. La v2 corrigió 314 entradas donde el lugar estaba mal parseado en el campo título (mejora: 44,7\% → 49,0\%). La v3 extrajo 284 lugares adicionales desde el campo \texttt{transcripcion\_original}, llevando la completitud al 52,8\%. En total, 598 lugares de impresión fueron recuperados mediante análisis automatizado del texto OCR.
 
 La alta completitud en los campos de precio (96,7\%) y año (91,0\%) resulta particularmente valiosa para análisis económicos y cronológicos.
 
@@ -241,7 +241,7 @@ La colección muestra un equilibrio notable entre los siglos XVII y XVIII, con m
 
 \subsubsection{Distribución general por países}
 
-Del total de 7.323 obras, 3.312 (45,2\%) tienen lugar de impresión identificado y normalizado (excluyendo las 260 entradas con ``ibid''). La Tabla \ref{tab:paises} presenta la distribución por países:
+Del total de 7.323 obras, 3.595 (49,1\%) tienen lugar de impresión identificado y normalizado (excluyendo las 260 entradas con ``ibid''). La Tabla \ref{tab:paises} presenta la distribución por países:
 
 \begin{table}[h]
 \centering
@@ -251,27 +251,27 @@ Del total de 7.323 obras, 3.312 (45,2\%) tienen lugar de impresión identificado
 \toprule
 \textbf{País} & \textbf{Obras} & \textbf{Porcentaje del catálogo} \\
 \midrule
-España & 2.053 & 28,03\% \\
-Francia & 605 & 8,26\% \\
-Italia & 270 & 3,69\% \\
+España & 2.284 & 31,19\% \\
+Francia & 626 & 8,55\% \\
+Italia & 280 & 3,82\% \\
 Países Bajos/Bélgica & 199 & 2,72\% \\
-Alemania/Suiza & 99 & 1,35\% \\
-Portugal & 66 & 0,90\% \\
-Otros (Reino Unido, Malta, Ginebra) & 20 & 0,27\% \\
+Alemania/Suiza & 100 & 1,37\% \\
+Portugal & 67 & 0,91\% \\
+Otros (Reino Unido, Malta, Ginebra) & 39 & 0,53\% \\
 \midrule
-\textbf{Total identificado} & \textbf{3.312} & \textbf{45,2\%} \\
-Sin identificar & 4.011 & 54,8\% \\
+\textbf{Total identificado} & \textbf{3.595} & \textbf{49,1\%} \\
+Sin identificar & 3.728 & 50,9\% \\
 \midrule
 \textbf{Total catálogo} & \textbf{7.323} & \textbf{100\%} \\
 \bottomrule
 \end{tabular}
 \end{table}
 
-El claro predominio español (62\% de los lugares identificados) confirma el carácter hispánico de la colección. Los circuitos francés e italiano aparecen como proveedores complementarios importantes.
+El claro predominio español (63,5\% de los lugares identificados) confirma el carácter hispánico de la colección. Los circuitos francés e italiano aparecen como proveedores complementarios importantes.
 
 \subsubsection{Centros editoriales españoles}
 
-España concentra 2.053 obras identificadas, distribuidas en doce ciudades. La Tabla \ref{tab:espana} detalla los principales centros:
+España concentra 2.284 obras identificadas, distribuidas en doce ciudades. La Tabla \ref{tab:espana} detalla los principales centros:
 
 \begin{table}[h]
 \centering
@@ -281,35 +281,35 @@ España concentra 2.053 obras identificadas, distribuidas en doce ciudades. La T
 \toprule
 \textbf{Ciudad} & \textbf{Obras} & \textbf{\% del total español} \\
 \midrule
-Madrid & 1.196 & 58,25\% \\
-Salamanca & 157 & 7,65\% \\
-Zaragoza & 139 & 6,77\% \\
-Valencia & 134 & 6,53\% \\
-Sevilla & 104 & 5,07\% \\
-Alcalá de Henares & 101 & 4,92\% \\
-Barcelona & 75 & 3,65\% \\
-Granada & 73 & 3,56\% \\
-Pamplona & 38 & 1,85\% \\
-Burgos & 21 & 1,02\% \\
-Cádiz & 9 & 0,44\% \\
-Lugo & 6 & 0,29\% \\
+Madrid & 1.380 & 60,42\% \\
+Salamanca & 183 & 8,01\% \\
+Valencia & 141 & 6,17\% \\
+Zaragoza & 139 & 6,09\% \\
+Sevilla & 105 & 4,60\% \\
+Alcalá de Henares & 101 & 4,42\% \\
+Barcelona & 76 & 3,33\% \\
+Granada & 73 & 3,20\% \\
+Pamplona & 38 & 1,66\% \\
+Burgos & 24 & 1,05\% \\
+Cádiz & 18 & 0,79\% \\
+Lugo & 6 & 0,26\% \\
 \midrule
-\textbf{Total España} & \textbf{2.053} & \textbf{100\%} \\
+\textbf{Total España} & \textbf{2.284} & \textbf{100\%} \\
 \bottomrule
 \end{tabular}
 \end{table}
 
-\textbf{Madrid} domina claramente con 1.196 obras (58,25\% del total español, 16,33\% del catálogo completo), confirmando su papel como capital editorial a partir de su establecimiento como capital del reino en 1561 por Felipe II. Este predominio se intensifica especialmente en el siglo XVIII, durante la Ilustración española. La corrección de 314 entradas mal parseadas (principalmente ``Mad.'' por Madrid) permitió revelar el verdadero peso de Madrid como centro editorial.
+\textbf{Madrid} domina claramente con 1.380 obras (60,42\% del total español, 18,84\% del catálogo completo), confirmando su papel como capital editorial a partir de su establecimiento como capital del reino en 1561 por Felipe II. Este predominio se intensifica especialmente en el siglo XVIII, durante la Ilustración española. El proceso de depuración en tres etapas (v1→v2→v3) permitió recuperar 598 lugares de impresión, revelando que Madrid tenía 184 obras adicionales no detectadas inicialmente (15\% de incremento desde v2).
 
-\textbf{Salamanca}, con 157 obras (9\% del total español), refleja la importancia de su universidad, fundada en 1218 y considerada una de las más antiguas de Europa. Su producción editorial se concentra en obras académicas, jurídicas y teológicas.
+\textbf{Salamanca}, con 183 obras (8,01\% del total español), refleja la importancia de su universidad, fundada en 1218 y considerada una de las más antiguas de Europa. Su producción editorial se concentra en obras académicas, jurídicas y teológicas.
 
-\textbf{Zaragoza} (139 obras, 8\%) representa la Corona de Aragón, con fuerte producción especialmente en el siglo XVI y primera mitad del XVII.
+\textbf{Valencia} (141 obras, 6,17\%) y \textbf{Zaragoza} (139 obras, 6,09\%) representan importantes centros editoriales del reino de Valencia y la Corona de Aragón, respectivamente, con fuerte producción especialmente en el siglo XVI y primera mitad del XVII.
 
-\textbf{Valencia} (115 obras, 6,6\%) y \textbf{Alcalá de Henares} (101 obras, 5,8\%) completan el grupo de los cinco principales centros editoriales españoles. Alcalá destaca por su universidad fundada por el Cardenal Cisneros en 1499 y por ser sede de la impresión de la famosa Biblia Políglota Complutense (1514-1517).
+\textbf{Sevilla} (105 obras, 4,60\%) y \textbf{Alcalá de Henares} (101 obras, 4,42\%) completan el grupo de los cinco principales centros editoriales españoles. Alcalá destaca por su universidad fundada por el Cardenal Cisneros en 1499 y por ser sede de la impresión de la famosa Biblia Políglota Complutense (1514-1517).
 
 \subsubsection{Centros editoriales franceses}
 
-Francia aporta 605 obras (8,26\% del catálogo), concentradas principalmente en dos ciudades:
+Francia aporta 626 obras (8,55\% del catálogo), concentradas principalmente en dos ciudades:
 
 \begin{table}[h]
 \centering
@@ -460,14 +460,14 @@ El análisis de idiomas por lugar de impresión revela patrones geográficos int
 \toprule
 \textbf{Ciudad} & \textbf{Castellano} & \textbf{Latín} & \textbf{Francés} & \textbf{Otros} \\
 \midrule
-Madrid (1.196) & 63,88\% & 8,36\% & 26,59\% & 1,17\% \\
-París (403) & 57,57\% & 14,64\% & 27,05\% & 0,75\% \\
-Lyon (163) & 79,75\% & 12,88\% & 6,75\% & 0,61\% \\
-Salamanca (157) & 64,33\% & 11,46\% & 24,20\% & 0,00\% \\
+Madrid (1.380) & 64,06\% & 8,12\% & 26,45\% & 1,38\% \\
+París (420) & 57,86\% & 15,00\% & 26,43\% & 0,71\% \\
+Salamanca (183) & 67,21\% & 11,48\% & 21,31\% & 0,00\% \\
+Lyon (165) & 80,00\% & 12,73\% & 6,67\% & 0,61\% \\
+Valencia (141) & 68,09\% & 9,93\% & 21,99\% & 0,00\% \\
 Zaragoza (139) & 56,12\% & 10,79\% & 32,37\% & 0,72\% \\
 Roma (138) & 76,09\% & 11,59\% & 8,70\% & 3,62\% \\
-Amberes (132) & 84,09\% & 8,33\% & 7,58\% & 0,00\% \\
-Venecia (126) & 79,37\% & 11,90\% & 6,35\% & 2,38\% \\
+Venecia (135) & 80,00\% & 11,85\% & 5,93\% & 2,22\% \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -681,7 +681,7 @@ La distribución geográfica revela las redes de circulación cultural del mundo
 
 \subsubsection{El eje Madrid-París}
 
-La presencia dominante de Madrid (1.196 obras) y París (403 obras) documenta el eje cultural privilegiado durante la Ilustración española, especialmente bajo Carlos III y Carlos IV.
+La presencia dominante de Madrid (1.380 obras) y París (420 obras) documenta el eje cultural privilegiado durante la Ilustración española, especialmente bajo Carlos III y Carlos IV.
 
 \subsubsection{Persistencia de centros tradicionales}
 
@@ -718,7 +718,7 @@ Este análisis de 7.323 obras impresas entre 1427 y 1799 proporciona una visión
 
     \item \textbf{Ascenso del francés ilustrado:} La presencia creciente del francés (del 10\% en el XVI al 21\% en el XVIII) documenta la creciente influencia cultural francesa durante la Ilustración, convirtiéndose en el verdadero ``rival'' del castellano en la segunda mitad del siglo XVIII.
 
-    \item \textbf{Madrid como capital editorial:} Con 1.196 obras (16,33\% del total, 58,25\% de las españolas), Madrid se consolida como el principal centro editorial hispánico, reflejando su papel como capital política y cultural desde 1561. La corrección de errores de parsing reveló la verdadera magnitud del predominio madrileño.
+    \item \textbf{Madrid como capital editorial:} Con 1.380 obras (18,84\% del total, 60,42\% de las españolas), Madrid se consolida como el principal centro editorial hispánico, reflejando su papel como capital política y cultural desde 1561. El proceso de depuración en tres etapas permitió recuperar 598 lugares de impresión mal parseados, revelando la verdadera magnitud del predominio madrileño.
 
     \item \textbf{Red de centros editoriales hispánicos:} Salamanca, Zaragoza, Valencia, Alcalá de Henares, Sevilla y Barcelona conforman una red de producción editorial que refleja la policentralidad cultural de la monarquía hispánica.
 
