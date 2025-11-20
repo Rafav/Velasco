@@ -11,19 +11,19 @@ TOTAL DE OBRAS ANALIZADAS: 7323
 
 ESPAÑA:
 --------------------------------------------------------------------------------
-  Madrid                           924 obras (12.62%)
+  Madrid                          1196 obras (16.33%)
   Salamanca                        157 obras ( 2.14%)
   Zaragoza                         139 obras ( 1.90%)
-  Valencia                         115 obras ( 1.57%)
+  Valencia                         134 obras ( 1.83%)
+  Sevilla                          104 obras ( 1.42%)
   Alcalá de Henares                101 obras ( 1.38%)
-  Sevilla                           97 obras ( 1.32%)
-  Barcelona                         71 obras ( 0.97%)
-  Granada                           61 obras ( 0.83%)
+  Barcelona                         75 obras ( 1.02%)
+  Granada                           73 obras ( 1.00%)
   Pamplona                          38 obras ( 0.52%)
   Burgos                            21 obras ( 0.29%)
   Cádiz                              9 obras ( 0.12%)
   Lugo                               6 obras ( 0.08%)
-  TOTAL ESPAÑA                    1739 obras (23.75%)
+  TOTAL ESPAÑA                    2053 obras (28.03%)
 
 FRANCIA:
 --------------------------------------------------------------------------------
@@ -84,11 +84,11 @@ OTROS PAÍSES:
 
 MADRID:
 --------------------------------------------------------------------------------
-  Castellano             590 obras (63.85%)
-  Latín                   88 obras ( 9.52%)
-  Francés                234 obras (25.32%)
-  Italiano                 3 obras ( 0.32%)
-  Desconocido              9 obras ( 0.97%)
+  Castellano             764 obras (63.88%)
+  Latín                  100 obras ( 8.36%)
+  Francés                318 obras (26.59%)
+  Italiano                 5 obras ( 0.42%)
+  Desconocido              9 obras ( 0.75%)
 
 PARÍS:
 --------------------------------------------------------------------------------
@@ -125,6 +125,12 @@ ROMA:
   Francés                 12 obras ( 8.70%)
   Italiano                 5 obras ( 3.62%)
 
+VALENCIA:
+--------------------------------------------------------------------------------
+  Castellano              91 obras (67.91%)
+  Latín                   12 obras ( 8.96%)
+  Francés                 31 obras (23.13%)
+
 AMBERES:
 --------------------------------------------------------------------------------
   Castellano             111 obras (84.09%)
@@ -138,24 +144,18 @@ VENECIA:
   Francés                  8 obras ( 6.35%)
   Italiano                 3 obras ( 2.38%)
 
-VALENCIA:
+SEVILLA:
 --------------------------------------------------------------------------------
-  Castellano              76 obras (66.09%)
-  Latín                    9 obras ( 7.83%)
-  Francés                 30 obras (26.09%)
+  Castellano              60 obras (57.69%)
+  Latín                   11 obras (10.58%)
+  Francés                 30 obras (28.85%)
+  Desconocido              3 obras ( 2.88%)
 
 ALCALÁ DE HENARES:
 --------------------------------------------------------------------------------
   Castellano              67 obras (66.34%)
   Latín                   16 obras (15.84%)
   Francés                 18 obras (17.82%)
-
-SEVILLA:
---------------------------------------------------------------------------------
-  Castellano              56 obras (57.73%)
-  Latín                    9 obras ( 9.28%)
-  Francés                 29 obras (29.90%)
-  Desconocido              3 obras ( 3.09%)
 
 COLONIA:
 --------------------------------------------------------------------------------
@@ -166,9 +166,16 @@ COLONIA:
 
 BARCELONA:
 --------------------------------------------------------------------------------
-  Castellano              44 obras (61.97%)
-  Latín                    5 obras ( 7.04%)
-  Francés                 22 obras (30.99%)
+  Castellano              46 obras (61.33%)
+  Latín                    7 obras ( 9.33%)
+  Francés                 22 obras (29.33%)
+
+GRANADA:
+--------------------------------------------------------------------------------
+  Castellano              44 obras (60.27%)
+  Latín                   11 obras (15.07%)
+  Francés                 17 obras (23.29%)
+  Italiano                 1 obras ( 1.37%)
 
 LISBOA:
 --------------------------------------------------------------------------------
@@ -176,13 +183,6 @@ LISBOA:
   Latín                    8 obras (12.12%)
   Francés                 15 obras (22.73%)
   Italiano                 1 obras ( 1.52%)
-
-ÁMSTERDAM:
---------------------------------------------------------------------------------
-  Castellano              29 obras (46.03%)
-  Latín                    9 obras (14.29%)
-  Francés                 24 obras (38.10%)
-  Italiano                 1 obras ( 1.59%)
 
 ================================================================================
 4. EVOLUCIÓN CASTELLANO VS LATÍN POR SIGLO

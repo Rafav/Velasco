@@ -16,7 +16,7 @@ def validar_estadisticas():
     print()
 
     obras = []
-    with open('/home/user/Velasco/catalogo_depurado_v1.csv', 'r', encoding='utf-8') as f:
+    with open('/home/user/Velasco/catalogo_depurado_v2.csv', 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             obras.append(row)

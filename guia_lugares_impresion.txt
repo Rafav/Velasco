@@ -10,9 +10,10 @@ catálogo con sus nombres modernos y ubicaciones geográficas.
 LUGARES MÁS FRECUENTES (con normalizaciones aplicadas)
 ================================================================================
 
-Madrid / Matriti / mad. / Matrit
-  → Madrid, España (919 obras)
+Madrid / Matriti / mad. / Mad. / Matrit
+  → Madrid, España (1.196 obras)
   → Capital de España desde 1561
+  → IMPORTANTE: "Mad." fue corregido en catalogo_depurado_v2.csv (314 entradas)
 
 Paris / Parisiis / Lutetis Parisiorum
   → París, Francia (402 obras)
@@ -224,11 +225,11 @@ Por país (estimación):
   Sin identificar: ~4,000 obras (55%)
 
 Centros editoriales principales (Top 5):
-  1. Madrid (España) - 919 obras
-  2. París (Francia) - 402 obras
+  1. Madrid (España) - 1.196 obras (16,33% del total)
+  2. París (Francia) - 403 obras (5,50%)
   3. "ibid" (referencia) - 260 obras
-  4. Lyon (Francia) - 158 obras
-  5. Salamanca (España) - 156 obras
+  4. Lyon (Francia) - 163 obras (2,23%)
+  5. Salamanca (España) - 157 obras (2,14%)
 
 ================================================================================
 Fin de la guía
