@@ -1,0 +1,251 @@
+====================================================================================================
+ANÁLISIS ECONÓMICO DE LA BIBLIOTECA DE VELASCO Y CEBALLOS
+Tasación de Antonio Baylo, junio de 1791
+====================================================================================================
+
+Total obras catalogadas: 7323
+Obras con precio tasado: 7081 (96.7%)
+Obras sin precio: 242 (3.3%)
+
+====================================================================================================
+ESTADÍSTICAS DE PRECIOS TOTALES
+====================================================================================================
+
+Mínimo: 0.00 reales
+Máximo: 30850.00 reales
+Media: 41.03 reales
+Mediana: 12.00 reales
+Desviación estándar: 423.06 reales
+
+Distribución por percentiles:
+  P25 (25%): 8.00 reales
+  P50 (50%, mediana): 12.00 reales
+  P75 (75%): 28.00 reales
+  P90 (90%): 60.00 reales
+  P95 (95%): 120.00 reales
+  P99 (99%): 340.00 reales
+
+VALOR TOTAL DE LA BIBLIOTECA: 290,515.00 reales
+Equivalente aproximado: 8544.56 doblones de oro
+Equivalente aproximado: 14525.75 escudos de plata
+
+====================================================================================================
+DISTRIBUCIÓN POR RANGOS DE PRECIO
+====================================================================================================
+
+Menos de 1 real (limosna)                         5 obras ( 0.07%) - Valor:       0.00 reales
+1-5 reales (muy barato)                         440 obras ( 6.21%) - Valor:   1,608.00 reales
+5-10 reales (barato)                           1734 obras (24.49%) - Valor:  11,723.00 reales
+10-20 reales (módico)                          2436 obras (34.40%) - Valor:  32,648.00 reales
+20-50 reales (moderado)                        1572 obras (22.20%) - Valor:  47,260.00 reales
+50-100 reales (caro)                            505 obras ( 7.13%) - Valor:  34,024.00 reales
+100-200 reales (muy caro)                       235 obras ( 3.32%) - Valor:  32,809.00 reales
+200-500 reales (costoso)                        109 obras ( 1.54%) - Valor:  31,671.00 reales
+500-1.000 reales (carísimo)                      23 obras ( 0.32%) - Valor:  16,082.00 reales
+1.000-10.000 reales (excepcional)                20 obras ( 0.28%) - Valor:  37,020.00 reales
+Más de 10.000 reales (tesoro bibliográfico)       2 obras ( 0.03%) - Valor:  45,670.00 reales
+
+====================================================================================================
+TOP 20 OBRAS MÁS CARAS
+====================================================================================================
+
+ 1. 30850.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: Mémoires Pour l’Histoire des Sciences, et des Beaux arts Atrevozy ancii
+    Lugar:  | Año: 1701 | Formato: 16º
+
+ 2. 14820.00 reales - 1 tomo(s)
+    Autor: Argenteri (Jo.)
+    Título: De consultationibus medici 14820
+    Lugar:  | Año:  | Formato: 
+
+ 3.  3252.00 reales - 271 tomo(s)
+    Autor: Hedouville (Chr.)
+    Título: Le Journal des Savans del' Anne
+    Lugar: Amsterdam | Año: 1699 | Formato: 
+
+ 4.  3000.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: Antichito di Ercolano Napoli
+    Lugar:  | Año: 1757 | Formato: 
+
+ 5.  3000.00 reales - 10 tomo(s)
+    Autor: [Anónimo]
+    Título: Bleau Atlas Maior 10 tom. Marca Imperial con laminas iluminadas Amsterdam desde el
+    Lugar: Amsterdam | Año: 1652 | Formato: 
+
+ 6.  2750.00 reales - 23 tomo(s)
+    Autor: [Anónimo]
+    Título: De l'Academie Royale des inscriptions, et belles lettres 4.° Pasta 23 tomos
+    Lugar: Paris | Año: 1736 | Formato: 
+
+ 7.  2200.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: Gabriel de Borbon fol. Pasta figs.duplicado en
+    Lugar: Madrid | Año: 1772 | Formato: 
+
+ 8.  2100.00 reales - 8 tomo(s)
+    Autor: [Anónimo]
+    Título: Ead. ex editione Brixii Waltonii cum Lexicon Castelli folio Pasta 8 tom.
+    Lugar: Londres | Año: 1657 | Formato: folio
+
+ 9.  1800.00 reales - 18 tomo(s)
+    Autor: [Anónimo]
+    Título: Celeberrimorum Juris Consultorum Tractatus in Utraque tum Pontificii tum Caesarei Facultate fol. may
+    Lugar: Venecia | Año: 1584 | Formato: 
+
+10.  1789.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: Eiusd. id. opus
+    Lugar: Madrid | Año: 1789 | Formato: 4º
+
+11.  1737.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: Ordenanzas de la Ciudad de Valladolid
+    Lugar:  | Año: 1737 | Formato: 
+
+12.  1728.00 reales - 1 tomo(s)
+    Autor: Mecolaeta (P. F. Diego)
+    Título: Ferreras contra Terreray, y Cuna del mismo Palo Historia de España
+    Lugar: Madrid | Año: 1728 | Formato: 8º
+
+13.  1725.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: Anonimo Ascanio, el Joven aventurero traducido al Francés y aumentado con notas
+    Lugar: Madrid | Año: 1725 | Formato: 8º
+
+14.  1658.00 reales - 3 tomo(s)
+    Autor: Bellarmine (Card. Robertus)
+    Título: De Scripturibus Ecclesiasticis
+    Lugar: Paris | Año: 1658 | Formato: 8º
+
+15.  1581.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: it. Historia de Italia traducida p. D.° Ant.° Florez fol. Baeza
+    Lugar:  | Año: 1581 | Formato: 
+
+16.  1500.00 reales - 11 tomo(s)
+    Autor: [Anónimo]
+    Título: Acta Conciliorum, et Epistola Decret. per PP. Philippum Labcum et Gabriellem Conartium Sueco Latinae
+    Lugar: Paris | Año: 1715 | Formato: 
+
+17.  1500.00 reales - 12 tomo(s)
+    Autor: Eiusd. (Collectio cuadrimo Conciliorum)
+    Título: fol. Parisii, Lat. 12 tom. N°
+    Lugar:  | Año: 1500 | Formato: 
+
+18.  1400.00 reales - 64 tomo(s)
+    Autor: [Anónimo]
+    Título: 8 itt. Generale des Voyages: 12.º Pasta 64 tom. fol
+    Lugar: Paris | Año: 1746 | Formato: 
+
+19.  1200.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: it. De gazetas desde el
+    Lugar:  | Año: 1701 | Formato: 4º
+
+20.  1100.00 reales - 1 tomo(s)
+    Autor: [Anónimo]
+    Título: itt. table generale des matieres dans 36 volumes de l’histoire Ecclesiastique 1100
+    Lugar:  | Año:  | Formato: 
+
+====================================================================================================
+ANÁLISIS POR NÚMERO DE TOMOS
+====================================================================================================
+
+Precio promedio por número de tomos:
+   1 tomo(s):  6328 obras - Media:    32.38 reales - Mediana:    12.00 reales
+   2 tomo(s):   442 obras - Media:    61.01 reales - Mediana:    32.00 reales
+   3 tomo(s):   130 obras - Media:    99.76 reales - Mediana:    54.00 reales
+   4 tomo(s):    55 obras - Media:   105.40 reales - Mediana:    72.00 reales
+   5 tomo(s):    18 obras - Media:   124.11 reales - Mediana:    77.50 reales
+   6 tomo(s):    28 obras - Media:   174.25 reales - Mediana:   105.00 reales
+   7 tomo(s):    10 obras - Media:   248.40 reales - Mediana:   132.50 reales
+   8 tomo(s):    16 obras - Media:   306.81 reales - Mediana:   154.00 reales
+   9 tomo(s):     5 obras - Media:   379.60 reales - Mediana:   450.00 reales
+  10 tomo(s):     8 obras - Media:   747.50 reales - Mediana:   450.00 reales
+  11 tomo(s):     1 obras - Media:  1500.00 reales - Mediana:  1500.00 reales
+  12 tomo(s):    10 obras - Media:   275.00 reales - Mediana:   151.00 reales
+  13 tomo(s):     6 obras - Media:   215.17 reales - Mediana:   116.00 reales
+  14 tomo(s):     2 obras - Media:   183.00 reales - Mediana:   183.00 reales
+  16 tomo(s):     1 obras - Media:   224.00 reales - Mediana:   224.00 reales
+  17 tomo(s):     2 obras - Media:   182.00 reales - Mediana:   182.00 reales
+  18 tomo(s):     1 obras - Media:  1800.00 reales - Mediana:  1800.00 reales
+  19 tomo(s):     1 obras - Media:   190.00 reales - Mediana:   190.00 reales
+  21 tomo(s):     1 obras - Media:   220.00 reales - Mediana:   220.00 reales
+  22 tomo(s):     1 obras - Media:    26.00 reales - Mediana:    26.00 reales
+
+====================================================================================================
+PRECIO POR TOMO (normalizado)
+====================================================================================================
+
+Media por tomo: 32.20 reales
+Mediana por tomo: 12.00 reales
+
+====================================================================================================
+PRECIO MEDIO POR LUGAR DE IMPRESIÓN (Top 15)
+====================================================================================================
+
+Amsterdam                   63 obras - Media:   142.92 reales - Mediana:    18.00 reales
+Londres                     28 obras - Media:   119.11 reales - Mediana:    21.00 reales
+Basilea                     13 obras - Media:    74.77 reales - Mediana:    45.00 reales
+Paris                      400 obras - Media:    60.48 reales - Mediana:    18.00 reales
+Lyon                         6 obras - Media:    49.17 reales - Mediana:    26.00 reales
+Pamplona                    37 obras - Media:    44.76 reales - Mediana:    14.00 reales
+Venecia                    135 obras - Media:    40.83 reales - Mediana:    14.00 reales
+Roma                       131 obras - Media:    39.48 reales - Mediana:    16.00 reales
+Lisboa                      67 obras - Media:    34.42 reales - Mediana:    15.00 reales
+Antwerp                     14 obras - Media:    34.36 reales - Mediana:    15.50 reales
+París                       17 obras - Media:    33.71 reales - Mediana:    15.00 reales
+Madrid                    1368 obras - Media:    32.58 reales - Mediana:    12.00 reales
+Amberes                    117 obras - Media:    30.63 reales - Mediana:    14.00 reales
+Granada                     71 obras - Media:    29.89 reales - Mediana:    15.00 reales
+Alcalá                      44 obras - Media:    29.80 reales - Mediana:    17.00 reales
+
+====================================================================================================
+PRECIO MEDIO POR FORMATO
+====================================================================================================
+
+16º               32 obras - Media:   971.19 reales - Mediana:     6.00 reales
+folio             58 obras - Media:    92.22 reales - Mediana:    30.00 reales
+4º               877 obras - Media:    26.66 reales - Mediana:    15.00 reales
+8º               576 obras - Media:    22.87 reales - Mediana:     8.00 reales
+12º              190 obras - Media:    13.73 reales - Mediana:     8.00 reales
+
+====================================================================================================
+PRECIO MEDIO POR SIGLO
+====================================================================================================
+
+Siglo 15 (  25 obras): Media:    81.88 reales - Mediana:    60.00 reales
+Siglo 16 (1621 obras): Media:    30.44 reales - Mediana:    15.00 reales
+Siglo 17 (2659 obras): Media:    28.60 reales - Mediana:    12.00 reales
+Siglo 18 (2345 obras): Media:    57.71 reales - Mediana:    14.00 reales
+
+====================================================================================================
+20 EJEMPLOS DE OBRAS BARATAS (1-10 reales)
+====================================================================================================
+
+ 1.   1.00 reales - [Anónimo] - Civium ordinis constitutio 8.º Sal manticae
+ 2.   1.00 reales - [Anónimo] - San Benito La Santa Regla 16.º Zaragoza
+ 3.   1.00 reales - Sanchez Santiago (D. Antonio) - Ydea Elemental delos tribunales dela corte en su actual Estado y ultima planta 4
+ 4.   2.00 reales - Adan... (D. Vicente) - Respuesta gratulatoria a D. Anacleto de Leta: 8°
+ 5.   2.00 reales - Alvarez (Dn Joaquin) - Sumario en verso a los principales Objetos a todos los libros de la Sagrada Escr
+ 6.   2.00 reales - Barbosa (Petri) - Opera omnia fol. 2 tom. Collomiae Allobrog
+ 7.   2.00 reales - [Anónimo] - Eiusd. Opera posthuma fol. 2 tom. ibid. eod. ann. et N. ibid De Preceptionibus f
+ 8.   2.00 reales - [Anónimo] - Biblioteca annal para utilidad a libreria y dixexato
+ 9.   2.00 reales - [Anónimo] - Carta à D. Vicente Garcia de la Huerta respondiendo à varias inepcias, y sus imp
+10.   2.00 reales - Curtelius (Maximus) - De Prisca et Regenti in munitate Ecclesiae fol. Coloniæ
+11.   2.00 reales - [Anónimo] - De Commodis et inammodis Noctis 12° N60 2"
+12.   2.00 reales - [Anónimo] - De Compositione Pacis Religiosae in Germania adversus Protestantes 4° Iad. Fribu
+13.   2.00 reales - [Anónimo] - Decreto del Parlamento de Apolo traducido del Francés al Castellano por Sisterne
+14.   2.00 reales - [Anónimo] - Syllabum quantitate ac verificandi ratione: 12.° Sevill
+15.   2.00 reales - Elzevirii (Danielis) - Cathalogus Librorum mae officinae
+16.   2.00 reales - Fontanini (Tuti) - Vindiciae antiquorum Diplomatum: 4.º Last. Romae
+17.   2.00 reales - [Anónimo] - IL. Proverio della Critica N.105 2
+18.   2.00 reales - [Anónimo] - Impugnacion de diferente maxima per judiciales a España 8
+19.   2.00 reales - [Anónimo] - Instruccion reservada del Rey à Prusia à su Sobrino: traducida de un manuscrito 
+20.   2.00 reales - Llebres y Cugortien (D. Juan) - Memoria Instructiva de la Isla de Mallorca
+
+====================================================================================================
+FIN DEL ANÁLISIS
+====================================================================================================
