@@ -1,3 +1,101 @@
+# Velasco - Herramientas de Procesamiento de Documentos
 
+Este repositorio contiene scripts y herramientas para procesar documentos PDF y realizar OCR.
+
+## Scripts Disponibles
+
+### split_qwen.sh - División de Páginas Dobles PDF
+
+Script ultra-optimizado para dividir páginas dobles de un PDF escaneado en imágenes individuales.
+
+**Características:**
+- Utiliza `pdftoppm` + `jpegtran` para procesamiento sin recompresión JPEG (más rápido y sin pérdida de calidad)
+- Soporte para procesamiento de rangos de páginas específicos
+- DPI configurable (por defecto 300)
+- Generación automática de nombres de archivo secuenciales
+
+**Dependencias:**
+```bash
+sudo apt install poppler-utils       # pdftoppm, pdfinfo
+sudo apt install imagemagick          # identify
+sudo apt install libjpeg-turbo-progs  # jpegtran
+```
+
+**Uso:**
+```bash
+./split_qwen.sh archivo.pdf [carpeta_salida] [dpi] [pagina_inicio] [pagina_fin]
+```
+
+**Ejemplos:**
+```bash
+# Procesar todo el PDF con configuración por defecto
+./split_qwen.sh manuscrito.pdf
+
+# Especificar carpeta de salida y DPI
+./split_qwen.sh manuscrito.pdf output 300
+
+# Procesar solo las páginas 1-10
+./split_qwen.sh manuscrito.pdf output 300 1 10
+```
+
+**Salida:**
+- Genera imágenes JPEG en la carpeta especificada (por defecto: `output_images/`)
+- Nomenclatura: `pagina_0001.jpg`, `pagina_0002.jpg`, etc.
+- Cada página doble se divide en dos imágenes (lado izquierdo y derecho)
+
+## Comandos Útiles
+
+### Ejecutar script de procesamiento OCR reanudable
+```bash
 python3 reanudable.py
-for file in *.json; do   [ -f "$file" ] || continue;   if jq -e '.ocr | fromjson' "$file" > "${file%.json}-OCR.json" 2>/dev/null; then     echo "✓ Procesado: $file";   else     echo "✗ Error: $file";   fi; done
+```
+
+### Extraer datos OCR de archivos JSON
+Este comando procesa todos los archivos JSON en el directorio actual, extrayendo y formateando los datos OCR:
+
+```bash
+for file in *.json; do
+  [ -f "$file" ] || continue
+  if jq -e '.ocr | fromjson' "$file" > "${file%.json}-OCR.json" 2>/dev/null; then
+    echo "✓ Procesado: $file"
+  else
+    echo "✗ Error: $file"
+  fi
+done
+```
+
+Este comando:
+- Itera sobre todos los archivos `.json`
+- Extrae el campo `.ocr` y lo parsea desde JSON
+- Guarda el resultado en archivos con sufijo `-OCR.json`
+- Muestra el estado de cada archivo procesado
+
+## Flujo de Trabajo Típico
+
+1. **Dividir páginas dobles del PDF escaneado:**
+   ```bash
+   ./split_qwen.sh manuscrito.pdf imagenes_divididas 300
+   ```
+
+2. **Procesar OCR:**
+   ```bash
+   python3 reanudable.py
+   ```
+
+3. **Extraer resultados OCR:**
+   ```bash
+   for file in *.json; do
+     [ -f "$file" ] || continue
+     if jq -e '.ocr | fromjson' "$file" > "${file%.json}-OCR.json" 2>/dev/null; then
+       echo "✓ Procesado: $file"
+     else
+       echo "✗ Error: $file"
+     fi
+   done
+   ```
+
+## Notas
+
+- El script `split_qwen.sh` utiliza procesamiento sin pérdida mediante `jpegtran` con optimización progresiva
+- Los archivos temporales se limpian automáticamente durante la ejecución
+- El procesamiento se puede reanudar desde cualquier página específica si se interrumpe
