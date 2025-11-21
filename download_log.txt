@@ -1,0 +1,85 @@
+Descargando 39 bibliotecas BIDISO...
+Inicio: Fri Nov 21 18:05:04 UTC 2025
+
+[1/39] Descargando: afdddc0000
+  ✓ OK (542312 bytes)
+[2/39] Descargando: bbmdal0000
+  ✓ OK (318484 bytes)
+[3/39] Descargando: bdccad0000
+  ✓ OK (46316 bytes)
+[4/39] Descargando: bddsac0000
+  ✓ OK (4513929 bytes)
+[5/39] Descargando: bdlrdp0000
+  ✓ OK (6035212 bytes)
+[6/39] Descargando: bdltad0000
+  ✓ OK (1300578 bytes)
+[7/39] Descargando: bdodla0000
+  ✓ OK (341816 bytes)
+[8/39] Descargando: bidela0000
+  ✓ OK (670136 bytes)
+[9/39] Descargando: cajldl0000
+  ✓ OK (1023782 bytes)
+[10/39] Descargando: ceobdc0000
+  ✓ OK (36426 bytes)
+[11/39] Descargando: crjuim0000
+  ✓ OK (337343 bytes)
+[12/39] Descargando: ddvymr0000
+  ✓ OK (381402 bytes)
+[13/39] Descargando: dhdmic0000
+  ✓ OK (44562 bytes)
+[14/39] Descargando: edrfim0000
+  ✓ OK (149575 bytes)
+[15/39] Descargando: elgrec0000
+  ✓ OK (34224 bytes)
+[16/39] Descargando: fadybi0000
+  ✓ OK (118155 bytes)
+[17/39] Descargando: fpdodc0000
+  ✓ OK (486549 bytes)
+[18/39] Descargando: gdsrid0000
+  ✓ OK (66388 bytes)
+[19/39] Descargando: idldrc0000
+  ✓ OK (361090 bytes)
+[20/39] Descargando: ingade0000
+  ✓ OK (123482 bytes)
+[21/39] Descargando: inmede0000
+  ✓ OK (410208 bytes)
+[22/39] Descargando: lbdadb0000
+  ✓ OK (99433 bytes)
+[23/39] Descargando: lbdmdp0000
+  ✓ OK (182675 bytes)
+[24/39] Descargando: ldfjid0000
+  ✓ OK (102682 bytes)
+[25/39] Descargando: mbd1410000
+  ✓ OK (55579 bytes)
+[26/39] Descargando: moarde0000
+  ✓ OK (117577 bytes)
+[27/39] Descargando: modesa0000
+  ✓ OK (4868777 bytes)
+[28/39] Descargando: oavmda0000
+  ✓ OK (470730 bytes)
+[29/39] Descargando: oavmda0001
+  ✓ OK (270678 bytes)
+[30/39] Descargando: qufrde0000
+  ✓ OK (125420 bytes)
+[31/39] Descargando: rdltfs0000
+  ✓ OK (25723 bytes)
+[32/39] Descargando: rdsymi0000
+  ✓ OK (24085 bytes)
+[33/39] Descargando: rgdspd0000
+  ✓ OK (31609 bytes)
+[34/39] Descargando: rvaiyb0000
+  ✓ OK (51716 bytes)
+[35/39] Descargando: siabpe0000
+  ✓ OK (218359 bytes)
+[36/39] Descargando: sjccds0000
+  ✓ OK (56544 bytes)
+[37/39] Descargando: velazq0000
+  ✓ OK (102747 bytes)
+[38/39] Descargando: vifede0000
+  ✓ OK (139043 bytes)
+[39/39] Descargando: vjadr10000
+  ✓ OK (96098 bytes)
+
+Descarga completada: Fri Nov 21 18:08:17 UTC 2025
+Archivos en: /home/user/Velasco/bidiso_data
+39
