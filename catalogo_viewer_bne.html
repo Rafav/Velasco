@@ -445,11 +445,11 @@
             const catalogPage = getPageNumberFromFilename(filename);
             if (!catalogPage) return null;
 
-            // Algoritmo: ((volumen - 1) * 174) + (pagina / 2)
+            // Algoritmo: ((volumen - 1) * 174) + ((pagina +1)/ 2)
             // Ejemplo: Volumen 1, página 10 → 0 + 5 = página 5
             // Ejemplo: Volumen 2, página 6 → 174 + 3 = página 177
             const vol = parseInt(volumen);
-            const bnePage = ((vol - 1) * BNE_CONFIG.pagesPerVolume) + Math.floor(catalogPage / 2);
+            const bnePage = ((vol - 1) * BNE_CONFIG.pagesPerVolume) + Math.floor((catalogPage +1) / 2);
 
             return `https://bnedigital.bne.es/bd/es/viewer?id=${BNE_CONFIG.id}&page=${bnePage}`;
         }
