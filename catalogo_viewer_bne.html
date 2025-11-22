@@ -381,17 +381,11 @@
     </div>
 
     <script>
-        // CONFIGURACIÓN: IDs de BNE Digital para cada volumen
-        // IMPORTANTE: Debes actualizar estos IDs con los correctos de tu catálogo
+        // CONFIGURACIÓN: ID de BNE Digital
+        // Ambos volúmenes están en el mismo documento de BNE
         const BNE_CONFIG = {
-            '1': {
-                id: '09e8892a-93da-4dda-8e03-190378c061dd', // ID del viewer de BNE para volumen 1
-                pageOffset: 0  // Ajuste si la numeración de páginas no coincide
-            },
-            '2': {
-                id: 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX', // ID del viewer de BNE para volumen 2
-                pageOffset: 0
-            }
+            id: '09e8892a-93da-4dda-8e03-190378c061dd',
+            pagesPerVolume: 174  // Número de páginas del volumen 1 en BNE
         };
 
         let catalogData = [];
@@ -444,16 +438,20 @@
         }
 
         function getBNEUrl(filename, volumen) {
-            const config = BNE_CONFIG[volumen];
-            if (!config || !config.id || config.id.includes('XXXX')) {
+            if (!BNE_CONFIG.id) {
                 return null;
             }
 
-            const pageNumber = getPageNumberFromFilename(filename);
-            if (!pageNumber) return null;
+            const catalogPage = getPageNumberFromFilename(filename);
+            if (!catalogPage) return null;
 
-            const adjustedPage = pageNumber + config.pageOffset;
-            return `https://bnedigital.bne.es/bd/es/viewer?id=${config.id}&page=${adjustedPage}`;
+            // Algoritmo: ((volumen - 1) * 174) + (pagina / 2)
+            // Ejemplo: Volumen 1, página 10 → 0 + 5 = página 5
+            // Ejemplo: Volumen 2, página 6 → 174 + 3 = página 177
+            const vol = parseInt(volumen);
+            const bnePage = ((vol - 1) * BNE_CONFIG.pagesPerVolume) + Math.floor(catalogPage / 2);
+
+            return `https://bnedigital.bne.es/bd/es/viewer?id=${BNE_CONFIG.id}&page=${bnePage}`;
         }
 
         function showBNEViewer(url, pageInfo, volumen) {
@@ -535,19 +533,9 @@
         }
 
         function validateConfig() {
-            const volumes = [...new Set(catalogData.map(e => e.volumen))];
-            let allValid = true;
-
-            for (const vol of volumes) {
-                const config = BNE_CONFIG[vol];
-                if (!config || !config.id || config.id.includes('XXXX')) {
-                    allValid = false;
-                    break;
-                }
-            }
-
-            configValid = allValid;
-            return allValid;
+            // Simplemente verifica si hay un ID configurado
+            configValid = !!(BNE_CONFIG.id && !BNE_CONFIG.id.includes('XXXX'));
+            return configValid;
         }
 
         function renderConfigNotice() {
