@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo Bibliográfico Viewer - BNE Digital</title>
+    <style>
+        :root {
+            --primary-color: #2c5282;
+            --secondary-color: #3182ce;
+            --text-color: #2d3748;
+            --bg-color: #f7fafc;
+            --card-bg: #ffffff;
+            --border-color: #e2e8f0;
+            --highlight: #fef5e7;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background: var(--bg-color);
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            position: relative;
+            display: grid;
+            grid-template-columns: 1fr 0;
+            gap: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .container.with-image {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .content-panel {
+            min-width: 0;
+        }
+
+        .header {
+            background: var(--primary-color);
+            color: white;
+            padding: 20px 30px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            margin: 0 0 10px 0;
+            font-size: 28px;
+        }
+
+        .header-stats {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+
+        .config-notice {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .config-notice h3 {
+            margin: 0 0 10px 0;
+            color: #856404;
+        }
+
+        .config-notice code {
+            background: rgba(0, 0, 0, 0.1);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+
+        .filters {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            margin-right: 5px;
+        }
+
+        .filter-group select,
+        .filter-group input {
+            padding: 8px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .filter-group input[type="text"] {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .volume-section {
+            margin-bottom: 30px;
+        }
+
+        .volume-header {
+            background: var(--secondary-color);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            font-size: 20px;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .page-group {
+            background: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+            overflow: hidden;
+        }
+
+        .page-header {
+            background: linear-gradient(to right, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .page-header:hover {
+            opacity: 0.9;
+        }
+
+        .page-title {
+            font-weight: 600;
+            font-size: 16px;
+        }
+
+        .image-links {
+            display: flex;
+            gap: 10px;
+        }
+
+        .image-link {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            text-decoration: none;
+            color: white;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            cursor: pointer;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .image-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .image-link.external {
+            background: rgba(76, 175, 80, 0.3);
+        }
+
+        .entries-container {
+            padding: 15px 20px;
+            display: none;
+        }
+
+        .entries-container.expanded {
+            display: block;
+        }
+
+        .entry-row {
+            padding: 12px;
+            border-bottom: 1px solid var(--border-color);
+            transition: background 0.2s;
+        }
+
+        .entry-row:last-child {
+            border-bottom: none;
+        }
+
+        .entry-row:hover {
+            background: var(--highlight);
+        }
+
+        .entry-number {
+            display: inline-block;
+            background: var(--primary-color);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-right: 10px;
+        }
+
+        .entry-transcription {
+            font-size: 14px;
+            line-height: 1.6;
+            margin: 5px 0;
+        }
+
+        .entry-price {
+            display: inline-block;
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 13px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+
+        .entry-observations {
+            font-size: 13px;
+            color: #666;
+            font-style: italic;
+            margin-top: 5px;
+        }
+
+        .image-panel {
+            display: none;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 20px;
+            height: calc(100vh - 40px);
+            overflow: hidden;
+            flex-direction: column;
+        }
+
+        .image-panel.expanded {
+            display: flex;
+        }
+
+        .image-controls {
+            padding: 15px 20px;
+            background: var(--primary-color);
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+        }
+
+        .image-title {
+            font-weight: 600;
+            font-size: 15px;
+        }
+
+        .btn {
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: white;
+            cursor: pointer;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .image-container {
+            flex: 1;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #f5f5f5;
+            position: relative;
+        }
+
+        .image-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .iframe-error {
+            padding: 40px;
+            text-align: center;
+            color: #666;
+        }
+
+        .iframe-error a {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 18px;
+            color: #666;
+        }
+
+        .error {
+            background: #fee;
+            color: #c00;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-style: italic;
+        }
+
+        .toggle-icon {
+            transition: transform 0.3s;
+        }
+
+        .toggle-icon.expanded {
+            transform: rotate(90deg);
+        }
+
+        @media (max-width: 1200px) {
+            .container.with-image {
+                grid-template-columns: 1fr;
+            }
+
+            .image-panel {
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100vh;
+                z-index: 1000;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app" class="container">
+        <div class="content-panel">
+            <div class="loading">Cargando catálogo...</div>
+        </div>
+    </div>
+
+    <script>
+        // CONFIGURACIÓN: ID de BNE Digital
+        // Ambos volúmenes están en el mismo documento de BNE
+        const BNE_CONFIG = {
+            id: '09e8892a-93da-4dda-8e03-190378c061dd',
+            pagesPerVolume: 174  // Número de páginas del volumen 1 en BNE
+        };
+
+        let catalogData = [];
+        let filteredData = [];
+        let searchTimeout = null;
+        let configValid = false;
+
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            const headers = lines[0].split(',');
+            const data = [];
+
+            for (let i = 1; i < lines.length; i++) {
+                const line = lines[i];
+                const values = [];
+                let currentValue = '';
+                let inQuotes = false;
+
+                for (let char of line) {
+                    if (char === '"') {
+                        inQuotes = !inQuotes;
+                    } else if (char === ',' && !inQuotes) {
+                        values.push(currentValue.trim());
+                        currentValue = '';
+                    } else {
+                        currentValue += char;
+                    }
+                }
+                values.push(currentValue.trim());
+
+                if (values.length >= 6) {
+                    const entry = {
+                        volumen: values[0] || '1',
+                        filename: values[1],
+                        fila: parseInt(values[2]) || 0,
+                        transcripcion: values[3],
+                        precio: values[4],
+                        observaciones: values[5]
+                    };
+                    data.push(entry);
+                }
+            }
+
+            return data;
+        }
+
+        function getPageNumberFromFilename(filename) {
+            const match = filename.match(/pagina_(\d+)/);
+            return match ? parseInt(match[1]) : null;
+        }
+
+        function getBNEUrl(filename, volumen) {
+            if (!BNE_CONFIG.id) {
+                return null;
+            }
+
+            const catalogPage = getPageNumberFromFilename(filename);
+            if (!catalogPage) return null;
+
+            // Algoritmo: ((volumen - 1) * 174) + ((pagina +1)/ 2)
+            // Ejemplo: Volumen 1, página 10 → 0 + 5 = página 5
+            // Ejemplo: Volumen 2, página 6 → 174 + 3 = página 177
+            const vol = parseInt(volumen);
+            const bnePage = ((vol - 1) * BNE_CONFIG.pagesPerVolume) + Math.floor((catalogPage +1) / 2);
+
+            return `https://bnedigital.bne.es/bd/es/viewer?id=${BNE_CONFIG.id}&page=${bnePage}`;
+        }
+
+        function showBNEViewer(url, pageInfo, volumen) {
+            const container = document.querySelector('.container');
+            let imagePanel = document.getElementById('imagePanel');
+
+            if (imagePanel) {
+                if (imagePanel.getAttribute('data-url') === url) {
+                    closeImageViewer();
+                    return;
+                }
+                imagePanel.remove();
+            }
+
+            imagePanel = document.createElement('div');
+            imagePanel.id = 'imagePanel';
+            imagePanel.className = 'image-panel expanded';
+            imagePanel.setAttribute('data-url', url);
+
+            imagePanel.innerHTML = `
+                <div class="image-controls">
+                    <span class="image-title">${pageInfo} - BNE Digital</span>
+                    <div style="display: flex; gap: 10px;">
+                        <a href="${url}" target="_blank" class="btn" title="Abrir en nueva pestaña">
+                            🔗 Abrir en BNE
+                        </a>
+                        <button class="btn" onclick="closeImageViewer()">✕ Cerrar</button>
+                    </div>
+                </div>
+                <div class="image-container">
+                    <iframe src="${url}"
+                            onload="iframeLoaded(this)"
+                            onerror="iframeError(this, '${url}')">
+                    </iframe>
+                </div>
+            `;
+
+            container.classList.add('with-image');
+            container.appendChild(imagePanel);
+        }
+
+        function iframeLoaded(iframe) {
+            console.log('Iframe cargado correctamente');
+        }
+
+        function iframeError(iframe, url) {
+            iframe.parentElement.innerHTML = `
+                <div class="iframe-error">
+                    <p>⚠️ No se puede mostrar el visor embebido</p>
+                    <p>La BNE puede bloquear la visualización en iframe por políticas de seguridad.</p>
+                    <a href="${url}" target="_blank">
+                        🔗 Abrir en el visor de BNE Digital
+                    </a>
+                </div>
+            `;
+        }
+
+        function closeImageViewer() {
+            const container = document.querySelector('.container');
+            const imagePanel = document.getElementById('imagePanel');
+
+            container.classList.remove('with-image');
+            if (imagePanel) {
+                imagePanel.remove();
+            }
+        }
+
+        function togglePage(pageId) {
+            const container = document.getElementById(pageId);
+            const icon = document.querySelector(`[data-page="${pageId}"] .toggle-icon`);
+
+            if (container.classList.contains('expanded')) {
+                container.classList.remove('expanded');
+                if (icon) icon.classList.remove('expanded');
+            } else {
+                container.classList.add('expanded');
+                if (icon) icon.classList.add('expanded');
+            }
+        }
+
+        function validateConfig() {
+            // Simplemente verifica si hay un ID configurado
+            configValid = !!(BNE_CONFIG.id && !BNE_CONFIG.id.includes('XXXX'));
+            return configValid;
+        }
+
+        function renderConfigNotice() {
+            if (configValid) return '';
+
+            return `
+                <div class="config-notice">
+                    <h3>⚠️ Configuración Requerida</h3>
+                    <p>Para visualizar las imágenes de BNE Digital, debes configurar los IDs del viewer en el archivo HTML.</p>
+                    <p>Edita la constante <code>BNE_CONFIG</code> en el código JavaScript y reemplaza los IDs de ejemplo con los IDs reales de tu catálogo en BNE Digital.</p>
+                    <p><strong>Ejemplo de URL de BNE:</strong> <code>https://bnedigital.bne.es/bd/es/viewer?id=<strong>TU-ID-AQUI</strong>&page=2</code></p>
+                </div>
+            `;
+        }
+
+        function renderCatalog(data, autoExpand = false) {
+            if (!data || data.length === 0) {
+                return '<div class="no-results">No se encontraron resultados</div>';
+            }
+
+            const byVolume = {};
+            data.forEach(entry => {
+                const vol = entry.volumen || '1';
+                if (!byVolume[vol]) byVolume[vol] = {};
+                if (!byVolume[vol][entry.filename]) byVolume[vol][entry.filename] = [];
+                byVolume[vol][entry.filename].push(entry);
+            });
+
+            let html = '';
+            Object.keys(byVolume).sort().forEach(volumen => {
+                const pages = byVolume[volumen];
+                const totalPages = Object.keys(pages).length;
+                const totalEntries = Object.values(pages).flat().length;
+
+                html += `
+                    <div class="volume-section">
+                        <div class="volume-header">
+                            <span>Volumen ${volumen}</span>
+                            <span style="font-size: 14px; font-weight: normal;">${totalPages} páginas · ${totalEntries} entradas</span>
+                        </div>
+                `;
+
+                Object.keys(pages).sort().forEach(filename => {
+                    const entries = pages[filename];
+                    const pageId = `page-${volumen}-${filename.replace(/[^a-z0-9]/gi, '-')}`;
+                    const bneUrl = getBNEUrl(filename, volumen);
+                    const pageMatch = filename.match(/pagina_(\d+)/);
+                    const pageNumber = pageMatch ? pageMatch[1] : filename;
+
+                    const expandedClass = autoExpand ? 'expanded' : '';
+
+                    html += `
+                        <div class="page-group">
+                            <div class="page-header" onclick="togglePage('${pageId}')" data-page="${pageId}">
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <span class="toggle-icon ${expandedClass}">▶</span>
+                                    <span class="page-title">Página ${pageNumber} (${entries.length} entradas)</span>
+                                </div>
+                                <div class="image-links" onclick="event.stopPropagation()">
+                    `;
+
+                    if (bneUrl) {
+                        html += `
+                            <a class="image-link" onclick="showBNEViewer('${bneUrl}', 'Volumen ${volumen} - Página ${pageNumber}', '${volumen}')" title="Ver en visor embebido">
+                                🖼️ Ver en visor
+                            </a>
+                            <a href="${bneUrl}" target="_blank" class="image-link external" title="Abrir en BNE Digital">
+                                🔗 Abrir en BNE
+                            </a>
+                        `;
+                    } else {
+                        html += `
+                            <span style="color: rgba(255,255,255,0.7); font-size: 13px; padding: 6px 12px;">
+                                ⚠️ URL no disponible
+                            </span>
+                        `;
+                    }
+
+                    html += `
+                                </div>
+                            </div>
+                            <div id="${pageId}" class="entries-container ${expandedClass}">
+                    `;
+
+                    entries.forEach(entry => {
+                        html += `
+                            <div class="entry-row">
+                                <span class="entry-number">Fila ${entry.fila}</span>
+                                ${entry.precio ? `<span class="entry-price">${entry.precio}</span>` : ''}
+                                <div class="entry-transcription">${entry.transcripcion}</div>
+                                ${entry.observaciones ? `<div class="entry-observations">Observaciones: ${entry.observaciones}</div>` : ''}
+                            </div>
+                        `;
+                    });
+
+                    html += `
+                            </div>
+                        </div>
+                    `;
+                });
+
+                html += '</div>';
+            });
+
+            return html;
+        }
+
+        function handleSearch() {
+            if (searchTimeout) clearTimeout(searchTimeout);
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) searchInput.style.background = '#fff3cd';
+
+            searchTimeout = setTimeout(() => {
+                if (searchInput) searchInput.style.background = '';
+                applyFilters();
+            }, 1000);
+        }
+
+        function applyFilters() {
+            const searchText = document.getElementById('searchInput').value.toLowerCase();
+            const volumenFilter = document.getElementById('volumenFilter').value;
+
+            filteredData = catalogData.filter(entry => {
+                const matchesSearch = !searchText ||
+                    entry.transcripcion.toLowerCase().includes(searchText) ||
+                    entry.observaciones.toLowerCase().includes(searchText);
+                const matchesVolumen = !volumenFilter || entry.volumen === volumenFilter;
+                return matchesSearch && matchesVolumen;
+            });
+
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            const app = document.querySelector('.content-panel');
+            const searchInput = document.getElementById('searchInput');
+            const currentSearch = searchInput?.value || '';
+            const cursorPosition = searchInput?.selectionStart || 0;
+            const currentVolumen = document.getElementById('volumenFilter')?.value || '';
+            const hadFocus = document.activeElement === searchInput;
+            const hasActiveFilters = currentSearch.trim() !== '' || currentVolumen !== '';
+            const totalEntries = filteredData.length;
+            const uniqueVolumes = [...new Set(filteredData.map(e => e.volumen))].length;
+
+            app.innerHTML = `
+                <div class="header">
+                    <h1>Catálogo Bibliográfico - BNE Digital</h1>
+                    <div class="header-stats">
+                        ${totalEntries} entradas · ${uniqueVolumes} volumen(es)
+                    </div>
+                </div>
+                ${renderConfigNotice()}
+                <div class="filters">
+                    <div class="filter-group">
+                        <label>Buscar:</label>
+                        <input type="text" id="searchInput" placeholder="Buscar en transcripciones..."
+                               onkeyup="handleSearch()" value="${currentSearch}">
+                        <label>Volumen:</label>
+                        <select id="volumenFilter" onchange="applyFilters()">
+                            <option value="">Todos</option>
+                            <option value="1">Volumen 1</option>
+                            <option value="2">Volumen 2</option>
+                        </select>
+                    </div>
+                </div>
+                ${renderCatalog(filteredData, hasActiveFilters)}
+            `;
+
+            if (currentVolumen) {
+                document.getElementById('volumenFilter').value = currentVolumen;
+            }
+            if (hadFocus) {
+                const newSearchInput = document.getElementById('searchInput');
+                if (newSearchInput) {
+                    newSearchInput.focus();
+                    newSearchInput.setSelectionRange(cursorPosition, cursorPosition);
+                }
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            const app = document.querySelector('.content-panel');
+            try {
+                const response = await fetch('catalogo.csv');
+                if (!response.ok) throw new Error('Error al cargar el archivo CSV');
+                const csvText = await response.text();
+                catalogData = parseCSV(csvText);
+                filteredData = catalogData;
+                validateConfig();
+                updateDisplay();
+            } catch (error) {
+                app.innerHTML = `
+                    <div class="error">
+                        Error al cargar los datos: ${error.message}
+                        <br><br>
+                        Asegúrate de que el archivo 'catalogo.csv' esté en el mismo directorio que este HTML.
+                    </div>
+                `;
+                console.error('Error:', error);
+            }
+        });
+    </script>
+</body>
+
+</html>
