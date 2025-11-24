@@ -1,0 +1,2724 @@
+================================================================================
+OBRAS DEL CATÁLOGO VELASCO ENCONTRADAS EN BNE
+================================================================================
+
+Total de coincidencias: 252
+Umbral de similitud usado: 70%
+
+================================================================================
+
+1. CATÁLOGO: Le miroir des chanoines
+   Autor: Bernal (Mr. Vital)
+   Año: 1630
+   Lugar: Paris
+   Ubicación: Volumen 1, pagina_0073-OCR.json
+
+   BNE: Le miroir des chanoines
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+2. CATÁLOGO: Principe Catholico
+   Autor: Marin (P. Juan)
+   Año: 1720
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0017-OCR.json
+
+   BNE: Principe catholico
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+3. CATÁLOGO: Examen de fortificacion
+   Autor: Medina (Barba)
+   Año: 1599
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0034-OCR.json
+
+   BNE: Examen de fortificacion
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+4. CATÁLOGO: Compendium Chronicorum Flandriae
+   Autor: Mayerum (Jacobum)
+   Año: 1538
+   Ubicación: Volumen 2, pagina_0054-OCR.json
+
+   BNE: Compendium chronicorum flandriae
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+5. CATÁLOGO: Arte de enfrenar
+   Autor: Navarrete (Dn Fran.co)
+   Año: 1626
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0081-OCR.json
+
+   BNE: Arte de enfrenar
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+6. CATÁLOGO: Epítome de los Señores de Vizcaya
+   Autor: Navarro (Antonio)
+   Año: 1620
+   Ubicación: Volumen 2, pagina_0082-OCR.json
+
+   BNE: Epitome de los Señores de Vizcaya
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+7. CATÁLOGO: Ortografía Castellana
+   Autor: [Anónimo]
+   Número catálogo: 15
+   Ubicación: Volumen 2, pagina_0118-OCR.json
+
+   BNE: Ortografia Castellana...
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+8. CATÁLOGO: Poesias
+   Autor: Solis (D. Ant.)
+   Año: 1732
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0133-OCR.json
+
+   BNE: Poesias
+   Similitud: 100.0%
+
+--------------------------------------------------------------------------------
+
+9. CATÁLOGO: Espejo político, y moral para Príncipes, y Ministros, y todo género de personas
+   Autor: Bratuti (D. Vicente)
+   Año: 1654
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0092-OCR.json
+
+   BNE: Espejo politico, y moral, para principes, y ministros, y todo genero de personas
+   Similitud: 99.4%
+
+--------------------------------------------------------------------------------
+
+10. CATÁLOGO: Reflexion historica sobre los Matrimonios de la Casa de Austria y Baviera
+   Autor: [Anónimo]
+   Año: 1689
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0232-OCR.json
+
+   BNE: Reflexion historica sobre los matrimonios de las Casas de Austria y Baviera
+   Similitud: 98.6%
+
+--------------------------------------------------------------------------------
+
+11. CATÁLOGO: Valle de lagrimas, y diversas Rimas
+   Autor: Mera (Christoval de)
+   Año: 1607
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0050-OCR.json
+
+   BNE: Valle de lágrimas y diversas rimas
+   Similitud: 98.6%
+
+--------------------------------------------------------------------------------
+
+12. CATÁLOGO: Historia de la Ciudad de Merida
+   Autor: Moreno de Vargas (Bernabé)
+   Año: 1633
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0070-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 98.4%
+
+--------------------------------------------------------------------------------
+
+13. CATÁLOGO: Arte legal para estudiar la Jurisprudencia
+   Autor: Bermudez de Pedraza (Licent. Fran.)
+   Año: 1612
+   Lugar: Salamanca
+   Ubicación: Volumen 1, pagina_0073-OCR.json
+
+   BNE: Arte legal para estudiar la Iurisprudencia
+   Similitud: 97.6%
+
+--------------------------------------------------------------------------------
+
+14. CATÁLOGO: Memoires, et instructions, pour servir dans las negociations, et affaires concernant les droits du Roy
+   Autor: [Anónimo]
+   Año: 1671
+   Lugar: Paris
+   Ubicación: Volumen 2, pagina_0039-OCR.json
+
+   BNE: Memoires et instructions, pour seruir dans les negociations et affaires concernant les droits du roy
+   Similitud: 97.0%
+
+--------------------------------------------------------------------------------
+
+15. CATÁLOGO: Cartilla política, y christiana
+   Autor: Albornoz (D. Diego)
+   Año: 1666
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0019-OCR.json
+
+   BNE: Cartilla politica y christiana ...
+   Similitud: 96.8%
+
+--------------------------------------------------------------------------------
+
+16. CATÁLOGO: Origen de la Poesía Castellana
+   Autor: Belarquez (Dn Joseph Luis)
+   Año: 1754
+   Ubicación: Volumen 1, pagina_0067-OCR.json
+
+   BNE: Origenes de la poesia castellana
+   Similitud: 96.8%
+
+--------------------------------------------------------------------------------
+
+17. CATÁLOGO: Historia verdadera de la conquista de la nueva España fol
+   Autor: Castillo (Bernal Díaz del)
+   Año: 1630
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0121-OCR.json
+
+   BNE: Historia verdadera de la conquista de la Nueva España
+   Similitud: 96.4%
+
+--------------------------------------------------------------------------------
+
+18. CATÁLOGO: Expedición de los Catalanes, y Aragoneses, contra Turcos y Griegos
+   Autor: Moncada (Dn Francisco de)
+   Año: 1623
+   Lugar: Barcelona
+   Ubicación: Volumen 2, pagina_0061-OCR.json
+
+   BNE: Espedicion de los catalanes y aragoneses contra turcos y griegos ...
+   Similitud: 96.2%
+
+--------------------------------------------------------------------------------
+
+19. CATÁLOGO: Advertencia para Reyes, Principes, y Embajadores
+   Autor: Benavente y Benavides (D. Cantoval)
+   Año: 1643
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0070-OCR.json
+
+   BNE: Advertencias para Reyes, Principes, y Embaxadores ...
+   Similitud: 95.9%
+
+--------------------------------------------------------------------------------
+
+20. CATÁLOGO: Grammatica Linguae Graecae
+   Autor: Bergazae (Francisci)
+   Ubicación: Volumen 1, pagina_0072-OCR.json
+
+   BNE: Grammatistica linguae Graecae
+   Similitud: 94.5%
+
+--------------------------------------------------------------------------------
+
+21. CATÁLOGO: Tratado del derecho de la Reyna Christianísima, sobre varios estados de la Monarquía de España París
+   Autor: [Anónimo]
+   Año: 1667
+   Número catálogo: 70
+   Ubicación: Volumen 2, pagina_0307-OCR.json
+
+   BNE: Tratado de los derechos de la reyna christianissima, sobre varios Estados de la Monarquia de España
+   Similitud: 94.5%
+
+--------------------------------------------------------------------------------
+
+22. CATÁLOGO: Antipatia delo Francese y Espanole
+   Autor: Garcia... (Carlos)
+   Ubicación: Volumen 1, pagina_0231-OCR.json
+
+   BNE: Antipatia de los franceses y españoles
+   Similitud: 94.4%
+
+--------------------------------------------------------------------------------
+
+23. CATÁLOGO: Corona Sepulcral Elogios en la muerte de D. Martín Suárez de Alarcón escritos por diferentes plumas 4°
+   Autor: [Anónimo]
+   Año: 1652
+   Lugar: Madrid
+   Número catálogo: 220
+   Ubicación: Volumen 1, pagina_0153-OCR.json
+
+   BNE: Corona sepulcral : elogios en la muerte de don Martin Suarez de Alarcon ... escritos por diferentes plumas
+   Similitud: 94.2%
+
+--------------------------------------------------------------------------------
+
+24. CATÁLOGO: Antiguedades, y excelencias de la Villa de Carmona, y compendio a Historia 8.º
+   Autor: Axellano (P. F. Juan Salvador Bautista)
+   Año: 1628
+   Lugar: Sevilla
+   Número catálogo: 126
+   Ubicación: Volumen 1, pagina_0037-OCR.json
+
+   BNE: Antiguedades y excelencias de la villa de Carmona, y compendio de historias
+   Similitud: 94.1%
+
+--------------------------------------------------------------------------------
+
+25. CATÁLOGO: Jardín Espiritual
+   Autor: Padilla (Fr. Pedro de)
+   Año: 1585
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0124-OCR.json
+
+   BNE: Iardin espiritual
+   Similitud: 94.1%
+
+--------------------------------------------------------------------------------
+
+26. CATÁLOGO: De Jurisconsulto, sive de ratione discendi, interpretandique juris civilis Napoli
+   Autor: Rapolla (Franc.)
+   Año: 1726
+   Ubicación: Volumen 2, pagina_0188-OCR.json
+
+   BNE: De jurisconsulto, sive De ratione discendi, interpretandique juris civilis libri II
+   Similitud: 93.9%
+
+--------------------------------------------------------------------------------
+
+27. CATÁLOGO: Historia del Convento de S. Agustín de Salamanca fol
+   Autor: Herrera (F. Thomas B.)
+   Año: 1652
+   Lugar: Salamanca
+   Ubicación: Volumen 1, pagina_0276-OCR.json
+
+   BNE: Historia del conuento de S. Augustin de Salamanca
+   Similitud: 93.1%
+
+--------------------------------------------------------------------------------
+
+28. CATÁLOGO: De constructione octo partium Orationis
+   Autor: Alvaxi (Emm)
+   Año: 1597
+   Lugar: Alcalá de Henares
+   Número catálogo: 137
+   Ubicación: Volumen 1, pagina_0027-OCR.json
+
+   BNE: De constructione octo partium orationis liber
+   Similitud: 92.9%
+
+--------------------------------------------------------------------------------
+
+29. CATÁLOGO: Grammaticae linguae Graecae
+   Autor: Numesii (Pet. Joan.)
+   Año: 1590
+   Ubicación: Volumen 2, pagina_0102-OCR.json
+
+   BNE: Grammatistica linguae Graecae
+   Similitud: 92.9%
+
+--------------------------------------------------------------------------------
+
+30. CATÁLOGO: Primera parte de la Historia del Sagunto Numancia y Cartago Toledo
+   Autor: Zamora (Lorenzo)
+   Año: 1607
+   Ubicación: Volumen 2, pagina_0366-OCR.json
+
+   BNE: Primera parte de la Historia de Sagunto, Numancia y Cartago
+   Similitud: 92.8%
+
+--------------------------------------------------------------------------------
+
+31. CATÁLOGO: El Peregrino en su Patria 4.º
+   Autor: Lopez de Vega (Feliz)
+   Año: 1733
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0332-OCR.json
+
+   BNE: El peregrino en su patria
+   Similitud: 92.6%
+
+--------------------------------------------------------------------------------
+
+32. CATÁLOGO: Memoire contenant le Precis des Faits avec les Pieces Justificatives à response aux observations envoyees par les Ministres d'Angleterre dans les Cours de l'Europe 8°
+   Autor: [Anónimo]
+   Año: 1756
+   Lugar: Paris
+   Ubicación: Volumen 2, pagina_0041-OCR.json
+
+   BNE: Mémoire contenant le précis des faits, avec leurs pièces justificatives, pour servir de réponse aux "Observations" envoyées par les ministres d'Angleterre, dans les Cours de l'Europe
+   Similitud: 92.5%
+
+--------------------------------------------------------------------------------
+
+33. CATÁLOGO: Poesía
+   Autor: Figueroa (D. Franc.)
+   Año: 1785
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0213-OCR.json
+
+   BNE: Poesias
+   Similitud: 92.3%
+
+--------------------------------------------------------------------------------
+
+34. CATÁLOGO: Victoria de la Mística Ciudad de Dios contra un Satanas enmascarado
+   Autor: San Pedro de Alcántara (Fr. Domingo de Palma)
+   Año: 1741
+   Lugar: Salamanca
+   Ubicación: Volumen 2, pagina_0241-OCR.json
+
+   BNE: Palma victoriosa de la Mystica ciudad de Dios, contra un satanas enmascarado
+   Similitud: 92.3%
+
+--------------------------------------------------------------------------------
+
+35. CATÁLOGO: Trabajos y afanes de Heracles 4.º
+   Autor: Heredia (Fran. Fern.)
+   Año: 1682
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0272-OCR.json
+
+   BNE: Trabajos y afanes de Hercules ...
+   Similitud: 92.1%
+
+--------------------------------------------------------------------------------
+
+36. CATÁLOGO: De Capitulatione Caesarea sive de Lege Regia Germanorum
+   Autor: Carpzovius (Benedictus)
+   Año: 1623
+   Ubicación: Volumen 1, pagina_0114-OCR.json
+
+   BNE: De Capitulatione Caesarea sive De lege regia germanorum tractatus
+   Similitud: 91.7%
+
+--------------------------------------------------------------------------------
+
+37. CATÁLOGO: Orthographia Castellana
+   Autor: Aleman (Matheo)
+   Año: 1609
+   Ubicación: Volumen 1, pagina_0021-OCR.json
+
+   BNE: Ortografia Castellana...
+   Similitud: 90.9%
+
+--------------------------------------------------------------------------------
+
+38. CATÁLOGO: Resumen de la verdadera destreza en el manejo de la Espada Salamanca
+   Autor: Arau de Borrey (D. Gomez)
+   Año: 1667
+   Lugar: Salamanca
+   Número catálogo: 23
+   Ubicación: Volumen 1, pagina_0041-OCR.json
+
+   BNE: Resumen de la verdadera destreza en el maneio de la espada
+   Similitud: 90.5%
+
+--------------------------------------------------------------------------------
+
+39. CATÁLOGO: Essai... Sur la marine et sur le commerce 8°
+   Autor: [Anónimo]
+   Año: 1763
+   Ubicación: Volumen 1, pagina_0196-OCR.json
+
+   BNE: Essay sur la marine et sur le commerce
+   Similitud: 90.2%
+
+--------------------------------------------------------------------------------
+
+40. CATÁLOGO: Crisis del ensayo a la historia de la Florida 4° Alcalá
+   Autor: [Anónimo]
+   Año: 1725
+   Lugar: Alcalá
+   Número catálogo: 213
+   Ubicación: Volumen 1, pagina_0159-OCR.json
+
+   BNE: Crisis del ensayo a la historia de la Florida
+   Similitud: 90.0%
+
+--------------------------------------------------------------------------------
+
+41. CATÁLOGO: Reducción de la Letra y Arte para enseñar a hablar a los niños mudos
+   Autor: Bonet (Juan Pablo)
+   Año: 1620
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0086-OCR.json
+
+   BNE: Reduction de las letras y arte para enseñar a ablar los mudos
+   Similitud: 89.9%
+
+--------------------------------------------------------------------------------
+
+42. CATÁLOGO: M. A. Idea de un Diccionario Universal executada en la Jurisprudencia
+   Autor: [Anónimo]
+   Año: 1768
+   Lugar: Valencia
+   Ubicación: Volumen 2, pagina_0033-OCR.json
+
+   BNE: Idea de un Diccionario Universal egecutada en la jurisprudencia civil
+   Similitud: 89.9%
+
+--------------------------------------------------------------------------------
+
+43. CATÁLOGO: Tratado de las Virtudes y excelencia de los baños de Tiermas 8.º Pamplona
+   Autor: Velazquez (Pedro)
+   Año: 1624
+   Lugar: Pamplona
+   Ubicación: Volumen 2, pagina_0326-OCR.json
+
+   BNE: Tratado de las virtudes y excelencias de los baños de Tiermas
+   Similitud: 89.6%
+
+--------------------------------------------------------------------------------
+
+44. CATÁLOGO: Diodori Siculi Bibliothecae Historicae Libri XV 17.º Aug
+   Autor: [Anónimo]
+   Año: 1552
+   Ubicación: Volumen 1, pagina_0172-OCR.json
+
+   BNE: Diodori Siculi Bibliothecae Historicae libri XVII
+   Similitud: 89.5%
+
+--------------------------------------------------------------------------------
+
+45. CATÁLOGO: Aristarco ó Censura dela Proclamacion Catholica delos Catalanes. Numero 124
+   Autor: Rioja (D. Francisco de)
+   Número catálogo: 124
+   Ubicación: Volumen 2, pagina_0204-OCR.json
+
+   BNE: Aristarco o censura de la proclamacion catolica de los catalanes
+   Similitud: 89.2%
+
+--------------------------------------------------------------------------------
+
+46. CATÁLOGO: De illustribus Ecclesiae scriptoribus Coloniae
+   Autor: Petri (Cufidi)
+   Año: 1580
+   Lugar: Coloniae
+   Ubicación: Volumen 2, pagina_0152-OCR.json
+
+   BNE: De illustribus ecclesiae scriptoribus
+   Similitud: 89.2%
+
+--------------------------------------------------------------------------------
+
+47. CATÁLOGO: Compendio del Arte de navegar
+   Autor: Zamorano (Lic. Rodrigo)
+   Año: 1588
+   Lugar: Sevilla
+   Ubicación: Volumen 2, pagina_0366-OCR.json
+
+   BNE: Compendio de la arte de navegacion
+   Similitud: 88.9%
+
+--------------------------------------------------------------------------------
+
+48. CATÁLOGO: L'artre a jeter les bombes
+   Autor: Blondel (Mr.)
+   Año: 1685
+   Ubicación: Volumen 1, pagina_0082-OCR.json
+
+   BNE: L'art de jetter les bombes
+   Similitud: 88.5%
+
+--------------------------------------------------------------------------------
+
+49. CATÁLOGO: Memoria para la Historia de S. M. Felipe III Rey de España 4.º
+   Autor: Yañez (D. Juan)
+   Año: 1723
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0360-OCR.json
+
+   BNE: Memorias para la historia de Don Felipe III, rey de España
+   Similitud: 88.3%
+
+--------------------------------------------------------------------------------
+
+50. CATÁLOGO: Adversus quorundam expositiones contra nonnullas Jesuitarum opiniones morales 4° Venetiae
+   Autor: Guimerius (Amadeus)
+   Año: 1661
+   Ubicación: Volumen 1, pagina_0261-OCR.json
+
+   BNE: Adversus quorumdam expostulationes contra nonnullas Iesuitarum opiniones morales
+   Similitud: 87.6%
+
+--------------------------------------------------------------------------------
+
+51. CATÁLOGO: Poesías h
+   Autor: Herrera (Ferdinandus)
+   Año: 1619
+   Lugar: Sevilla
+   Ubicación: Volumen 1, pagina_0276-OCR.json
+
+   BNE: Poesias
+   Similitud: 87.5%
+
+--------------------------------------------------------------------------------
+
+52. CATÁLOGO: Origine des Poetes Chez les Anciens et chez les Modernes en 12.° Pasta
+   Autor: Lequier (Mr.)
+   Año: 1708
+   Lugar: Paris
+   Ubicación: Volumen 1, pagina_0323-OCR.json
+
+   BNE: Origine des postes chez les anciens et chez les modernes
+   Similitud: 87.3%
+
+--------------------------------------------------------------------------------
+
+53. CATÁLOGO: Conciliator controversiarum quæ inter Philosophos et Medicos versantur fol. Venetiis
+   Autor: Abami (Petri)
+   Año: 1548
+   Lugar: Venecia
+   Número catálogo: 11
+   Ubicación: Volumen 1, pagina_0010-OCR.json
+
+   BNE: Conciliator controuersiarum, quae inter philosophos et medicos versantur
+   Similitud: 87.2%
+
+--------------------------------------------------------------------------------
+
+54. CATÁLOGO: Descendencia della R. Casa de Aragona nel Regno di Napoli della Stirpe del Serenissimo Re Alfonso 4.º N.º 213 6
+   Autor: Capuano (D.ª Nicola)
+   Número catálogo: 213
+   Ubicación: Volumen 1, pagina_0111-OCR.json
+
+   BNE: Descendenza della Real Casa d'Aragona nel Regno di Napoli della stirpe del Serenissimo Rè Alfonso Primo
+   Similitud: 86.9%
+
+--------------------------------------------------------------------------------
+
+55. CATÁLOGO: N.V. Grammatica linguae graecae
+   Autor: [Anónimo]
+   Año: 1589
+   Ubicación: Volumen 2, pagina_0102-OCR.json
+
+   BNE: Grammatistica linguae Graecae
+   Similitud: 86.7%
+
+--------------------------------------------------------------------------------
+
+56. CATÁLOGO: Yo Dialogo de las Armas y Linages de la Nobleza de España duplicado
+   Autor: [Anónimo]
+   Año: 1734
+   Lugar: Madrid
+   Número catálogo: 212
+   Ubicación: Volumen 1, pagina_0051-OCR.json
+
+   BNE: Dialogos de las armas, i linages de la nobleza de España
+   Similitud: 86.2%
+
+--------------------------------------------------------------------------------
+
+57. CATÁLOGO: Historia dell'origine progressi è Trionfo del Calvinismo nella Francia 4.° Neapoli
+   Autor: Freschot (D. Carimino)
+   Año: 1698
+   Ubicación: Volumen 1, pagina_0224-OCR.json
+
+   BNE: Istoria dell'origine, progressi, e ruina del calvinismo nella Francia
+   Similitud: 86.1%
+
+--------------------------------------------------------------------------------
+
+58. CATÁLOGO: De Historiae Laudibus
+   Autor: Buri (Jo. Michaelis)
+   Año: 1592
+   Lugar: ibid
+   Ubicación: Volumen 1, pagina_0096-OCR.json
+
+   BNE: De Hispaniae laudibus
+   Similitud: 85.7%
+
+--------------------------------------------------------------------------------
+
+59. CATÁLOGO: La Austriada 8.º
+   Autor: Rufo (Juan)
+   Año: 1584
+   Lugar: Madrid
+   Número catálogo: 12
+   Ubicación: Volumen 2, pagina_0223-OCR.json
+
+   BNE: La Austriada
+   Similitud: 85.7%
+
+--------------------------------------------------------------------------------
+
+60. CATÁLOGO: Genealogia de los Contreras San Juan en la Ciudad de Segovia 4.º
+   Autor: Colmenares (Diego de)
+   Año: 1647
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0145-OCR.json
+
+   BNE: Genealogia historiada de los Contreras de San Iuan en la ciudad de Segovia.
+   Similitud: 85.5%
+
+--------------------------------------------------------------------------------
+
+61. CATÁLOGO: Epitome de la Ortographia latina y Castellana. 8.º Baeza
+   Autor: Paton (Bartholome Ximeñez)
+   Año: 1614
+   Ubicación: Volumen 2, pagina_0138-OCR.json
+
+   BNE: Epitome de la ortografia latina, y castellana
+   Similitud: 85.1%
+
+--------------------------------------------------------------------------------
+
+62. CATÁLOGO: Regole ó osservazione di vari Autore intorno à la Lingua toscana: 8° Firenze
+   Autor: Acciojoli (Anton Francisco)
+   Año: 1715
+   Lugar: Firenze
+   Número catálogo: 118
+   Ubicación: Volumen 1, pagina_0012-OCR.json
+
+   BNE: Regole e osservazioni di varj autori intorno alla lingua toscana ...
+   Similitud: 85.1%
+
+--------------------------------------------------------------------------------
+
+63. CATÁLOGO: Amistades a Principes 4.º
+   Autor: Moles (Dn. Fadrique)
+   Año: 1637
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0059-OCR.json
+
+   BNE: Amistades de Principes
+   Similitud: 85.1%
+
+--------------------------------------------------------------------------------
+
+64. CATÁLOGO: id tablas Poeticae
+   Autor: [Anónimo]
+   Año: 1617
+   Ubicación: Volumen 1, pagina_0119-OCR.json
+
+   BNE: Tablas poeticas
+   Similitud: 84.8%
+
+--------------------------------------------------------------------------------
+
+65. CATÁLOGO: Rationale divinorum officiorum: fol. Patt.
+   Autor: Durandi (Guillermi)
+   Año: 1506
+   Lugar: Granada
+   Número catálogo: 37
+   Ubicación: Volumen 1, pagina_0183-OCR.json
+
+   BNE: Rationale divinorum officiorum
+   Similitud: 84.5%
+
+--------------------------------------------------------------------------------
+
+66. CATÁLOGO: Eiusd. Meditationes Graecanicae in artem Grammaticam 8° Lugduni
+   Autor: Clenardi (Nicolai)
+   Año: 1558
+   Lugar: Lugduni
+   Ubicación: Volumen 1, pagina_0139-OCR.json
+
+   BNE: Meditationes graecanicae in artem grammaticam ...
+   Similitud: 84.4%
+
+--------------------------------------------------------------------------------
+
+67. CATÁLOGO: Alabanza de las lenguas Hebreas, Griegas, Latinas, Castellanas, y Valencianas 4.° Val
+   Autor: Giciano (Martin)
+   Año: 1576
+   Ubicación: Volumen 2, pagina_0332-OCR.json
+
+   BNE: Libro de alabanças d[e] las lenguas hebrea, griega, latina, castellana y valenciana
+   Similitud: 84.3%
+
+--------------------------------------------------------------------------------
+
+68. CATÁLOGO: Theatro del hombre: vida del Conde de Martinio
+   Autor: Zabaleta (D. Juan)
+   Año: 1661
+   Ubicación: Volumen 2, pagina_0366-OCR.json
+
+   BNE: Teatro del hombre, el hombre : vida del conde de Matisio
+   Similitud: 84.3%
+
+--------------------------------------------------------------------------------
+
+69. CATÁLOGO: Acijforum Originum a temporum Antiquissimorum in Serigatio
+   Autor: Perizonii (Jacob)
+   Año: 1736
+   Ubicación: Volumen 2, pagina_0149-OCR.json
+
+   BNE: Algyptiarum originum et temporum antiquissimorum investigatio...
+   Similitud: 84.0%
+
+--------------------------------------------------------------------------------
+
+70. CATÁLOGO: Historia General de España f.º 2 tom.
+   Autor: Mariana (Jo)
+   Año: 1678
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0016-OCR.json
+
+   BNE: Historia general de España
+   Similitud: 83.9%
+
+--------------------------------------------------------------------------------
+
+71. CATÁLOGO: Historia de la Grandeza de la Ciudad de Ávila folio Alcalá
+   Autor: Axiz (P. Fr. Luis)
+   Año: 1607
+   Lugar: Alcalá
+   Número catálogo: 143
+   Ubicación: Volumen 1, pagina_0043-OCR.json
+
+   BNE: Historia de las grandezas de la ciudad de Auila
+   Similitud: 83.8%
+
+--------------------------------------------------------------------------------
+
+72. CATÁLOGO: Effigies Nomina et Cognomina D. N. Alexandri Papae VII. et RR. DD. S.R.E. Cardinalium: fol. Romae
+   Autor: [Anónimo]
+   Año: 1658
+   Lugar: Roma
+   Ubicación: Volumen 1, pagina_0185-OCR.json
+
+   BNE: Effigies nomina et cognomina s.d.n. Alexandri Papae VII et rr.dd. s.r.e. cardd. nunc viuentium
+   Similitud: 83.8%
+
+--------------------------------------------------------------------------------
+
+73. CATÁLOGO: Estilo de servir a Príncipes con exemplos morales
+   Autor: Bazquez (Dn Miguel  Yelgo)
+   Año: 1614
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0066-OCR.json
+
+   BNE: Estilo de servir a Príncipes con exemplos morales para servir a Dios
+   Similitud: 83.8%
+
+--------------------------------------------------------------------------------
+
+74. CATÁLOGO: Opuscula varia S. Antiquitate Juris consultorum veterum: 8° Lugd
+   Autor: Dukeri (Carol. Andreae)
+   Año: 1711
+   Ubicación: Volumen 1, pagina_0182-OCR.json
+
+   BNE: Opuscula varia de latinitate jurisconsultorum veterum
+   Similitud: 83.8%
+
+--------------------------------------------------------------------------------
+
+75. CATÁLOGO: Les Artifices des Heretiques 12.º Pasta
+   Autor: [Anónimo]
+   Año: 1681
+   Lugar: Paris
+   Ubicación: Volumen 1, pagina_0321-OCR.json
+
+   BNE: Les artifices des heretiques
+   Similitud: 83.6%
+
+--------------------------------------------------------------------------------
+
+76. CATÁLOGO: Historia de la Ciudad de Cuenca fol.
+   Autor: Martirrigo (Juan Pablo)
+   Año: 1629
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0024-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 83.6%
+
+--------------------------------------------------------------------------------
+
+77. CATÁLOGO: Historia Sacra del S. Sacramento contra los Herejes & estos tiempos fol
+   Autor: Ribera (Alonso)
+   Año: 1626
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0207-OCR.json
+
+   BNE: Historia sacra del santissimo sacramento contra las heregias destos tiempos
+   Similitud: 83.6%
+
+--------------------------------------------------------------------------------
+
+78. CATÁLOGO: Marino La Strage de gl. innocenti Poema
+   Autor: [Anónimo]
+   Año: 1633
+   Lugar: Roma
+   Ubicación: Volumen 2, pagina_0019-OCR.json
+
+   BNE: La strage de gl'innocenti : poema
+   Similitud: 83.3%
+
+--------------------------------------------------------------------------------
+
+79. CATÁLOGO: Medulla theologica ac xalis
+   Autor: Buserbaum (Hermani)
+   Año: 1734
+   Ubicación: Volumen 1, pagina_0100-OCR.json
+
+   BNE: Medulla Theologiae moralis
+   Similitud: 83.0%
+
+--------------------------------------------------------------------------------
+
+80. CATÁLOGO: Tractatio Juridico-Historica de Coexpectativis et Invertituris Eventualibus 4° Helmstadii
+   Autor: Koch (Henrici Andreae)
+   Año: 1735
+   Número catálogo: 176
+   Ubicación: Volumen 1, pagina_0307-OCR.json
+
+   BNE: Tractatio iuridico-historica De exspectativis et investitura eventuali
+   Similitud: 83.0%
+
+--------------------------------------------------------------------------------
+
+81. CATÁLOGO: Euvd. Essai de theodicée sur la Bonté de Dieu, la liberté de l'Homme, et l'origine du mal 8.° Pasta 2 tom. Amsterdam
+   Autor: [Anónimo]
+   Año: 1714
+   Lugar: Amsterdam
+   Ubicación: Volumen 1, pagina_0319-OCR.json
+
+   BNE: Essais de Theodicée sur la Bonté de Dieu, la Liberté de l'homme, et l'origine du Mal
+   Similitud: 83.0%
+
+--------------------------------------------------------------------------------
+
+82. CATÁLOGO: Obras poéticas
+   Autor: Aldana (Cosme de)
+   Año: 1593
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0021-OCR.json
+
+   BNE: Tablas poeticas
+   Similitud: 82.8%
+
+--------------------------------------------------------------------------------
+
+83. CATÁLOGO: Obras poeticas
+   Autor: Cancer y Velasco (D. Jeronimo)
+   Año: 1761
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0108-OCR.json
+
+   BNE: Tablas poeticas
+   Similitud: 82.8%
+
+--------------------------------------------------------------------------------
+
+84. CATÁLOGO: Obras Poeticas.
+   Autor: Mendoza (D. Diego)
+   Año: 1610
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0046-OCR.json
+
+   BNE: Tablas poeticas
+   Similitud: 82.8%
+
+--------------------------------------------------------------------------------
+
+85. CATÁLOGO: Diversis Pieces por la defense de la Royne mere du Roy Louis XIII fol
+   Autor: Morguès (Mesire Matthieu de)
+   Año: 1637
+   Ubicación: Volumen 2, pagina_0072-OCR.json
+
+   BNE: Diuerses pieces pour la defense de la royne mere du Roy tres chrestien Louys XIII
+   Similitud: 82.7%
+
+--------------------------------------------------------------------------------
+
+86. CATÁLOGO: Proodia &
+   Autor: Oliveri.. (Joan.)
+   Año: 1564
+   Lugar: Valencia
+   Ubicación: Volumen 2, pagina_0108-OCR.json
+
+   BNE: Prosodia
+   Similitud: 82.4%
+
+--------------------------------------------------------------------------------
+
+87. CATÁLOGO: Constitutiones Synodales del Arzobispado de Valencia: fol. Valencia
+   Autor: Urbina (Exmo. Senor D. F. Pedro de)
+   Año: 1647
+   Lugar: Valencia
+   Número catálogo: 278
+   Ubicación: Volumen 2, pagina_0350-OCR.json
+
+   BNE: Constituciones sinodales del Arçobispado de Valencia
+   Similitud: 82.4%
+
+--------------------------------------------------------------------------------
+
+88. CATÁLOGO: Opera sacra, juridica, historica, miscellanea 4°
+   Autor: Pithoei (Petri)
+   Año: 1609
+   Lugar: Paris
+   Ubicación: Volumen 2, pagina_0158-OCR.json
+
+   BNE: Petri Pithoei Opera sacra, iuridica, historica, miscellanea
+   Similitud: 82.2%
+
+--------------------------------------------------------------------------------
+
+89. CATÁLOGO: Antiquarum Statuarum Urbis Romanae primus et secundus liber 4.º fig. 2 tom. Romae
+   Autor: Cavalieri (Jo)
+   Año: 1593
+   Lugar: Roma
+   Ubicación: Volumen 1, pagina_0125-OCR.json
+
+   BNE: Antiquarum statuarum vrbis Romae primus et secundus liber ...
+   Similitud: 82.0%
+
+--------------------------------------------------------------------------------
+
+90. CATÁLOGO: Solemnis lectura repetitio de iure vigesimae secundae tituli I. Septimae partitae: fol. Valladolid
+   Autor: Villalpando (Jacobi)
+   Año: 1574
+   Ubicación: Volumen 2, pagina_0337-OCR.json
+
+   BNE: Solemnis lectura et repetitio legis vigesimae secundae tituli primi septimae Partitae
+   Similitud: 82.0%
+
+--------------------------------------------------------------------------------
+
+91. CATÁLOGO: D. Primeras ideas a Francia Politica del Duque Carlos de Lorena
+   Autor: [Anónimo]
+   Año: 1684
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0164-OCR.json
+
+   BNE: Primeras ideas de Francia politica, dichos y pareceres del duque Carlos de Lorena
+   Similitud: 81.9%
+
+--------------------------------------------------------------------------------
+
+92. CATÁLOGO: Exercicio q. se deve practicar en la Cavalleria y Caravineros. 8.° Mad. N. 1114 3
+   Autor: [Anónimo]
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0065-OCR.json
+
+   BNE: Exercicio que se debe prácticar en la cavalleria, y caravineros
+   Similitud: 81.9%
+
+--------------------------------------------------------------------------------
+
+93. CATÁLOGO: Relaciones de la vida del Gran Pero Urraco de Obregon 8.º
+   Autor: Espinel (Vicente)
+   Año: 1641
+   Lugar: Sevilla
+   Ubicación: Volumen 1, pagina_0194-OCR.json
+
+   BNE: Relaciones de la vida del escudero Marcos de Obregon ...
+   Similitud: 81.8%
+
+--------------------------------------------------------------------------------
+
+94. CATÁLOGO: Gramática de la Lengua Castellana 8.º
+   Autor: Martínez Gómez Gayoso (D. Benito)
+   Año: 1718
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0022-OCR.json
+
+   BNE: Gramatica de la lengua latina
+   Similitud: 81.8%
+
+--------------------------------------------------------------------------------
+
+95. CATÁLOGO: Tesoro de misericordia Divina y humana: 4.° Salamanca
+   Autor: Toro (Fr. Gabriel)
+   Año: 1548
+   Lugar: Salamanca
+   Ubicación: Volumen 2, pagina_0301-OCR.json
+
+   BNE: Thesoro de misericordia diuina y humana ...
+   Similitud: 81.7%
+
+--------------------------------------------------------------------------------
+
+96. CATÁLOGO: Poeme Sur des sujets tirés de l’Histoire de notre temps: 8.° Hiege
+   Autor: [Anónimo]
+   Año: 1758
+   Ubicación: Volumen 2, pagina_0168-OCR.json
+
+   BNE: Poëmes sur des sujets pris de L'histoire de notre tems
+   Similitud: 81.7%
+
+--------------------------------------------------------------------------------
+
+97. CATÁLOGO: Historia literaria de España
+   Autor: Mohodano (Fr. Pedro Rodriguez)
+   Año: 1766
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0058-OCR.json
+
+   BNE: Historia general de España
+   Similitud: 81.5%
+
+--------------------------------------------------------------------------------
+
+98. CATÁLOGO: Euid. Sphaera Mundi
+   Autor: [Anónimo]
+   Año: 1588
+   Lugar: ibid
+   Ubicación: Volumen 1, pagina_0095-OCR.json
+
+   BNE: Sphaera mundi
+   Similitud: 81.2%
+
+--------------------------------------------------------------------------------
+
+99. CATÁLOGO: Responsorium Theologicum super quaestione an Par qualem deudexan Protestntes queque nunc monasteriis & Osmabrusi tractatur 1.° ano
+   Autor: [Anónimo]
+   Año: 1648
+   Ubicación: Volumen 2, pagina_0197-OCR.json
+
+   BNE: Responsun theologicum super quaestione : an Pax, qualem desiderant protestantes, quaeque nunc Monasterij & Osnabrugi tractatur, sit secumdum se illicita?
+   Similitud: 80.9%
+
+--------------------------------------------------------------------------------
+
+100. CATÁLOGO: Rhetoricae Exercitationes 8. Compluti
+   Autor: Turritani (M. Alfoni)
+   Año: 1569
+   Lugar: Alcalá de Henares
+   Ubicación: Volumen 2, pagina_0310-OCR.json
+
+   BNE: Rhetoricae exercitationes
+   Similitud: 80.6%
+
+--------------------------------------------------------------------------------
+
+101. CATÁLOGO: Humanae Calamitatum considerationes 4.º Neapoli
+   Autor: Clari (D. Francisco)
+   Año: 1632
+   Ubicación: Volumen 1, pagina_0138-OCR.json
+
+   BNE: Humanae calamitatis considerationes
+   Similitud: 80.5%
+
+--------------------------------------------------------------------------------
+
+102. CATÁLOGO: Constituciones Synodales del Obispado de Salamanca fol. ibid
+   Autor: Carrillo de Acuña (H. D. Petri)
+   Año: 1656
+   Lugar: Salamanca
+   Ubicación: Volumen 1, pagina_0115-OCR.json
+
+   BNE: Constituciones sinodales del Arçobispado de Valencia
+   Similitud: 80.4%
+
+--------------------------------------------------------------------------------
+
+103. CATÁLOGO: Bibliotheca Dominicana fol. Rom
+   Autor: Altamuxa (F. Ambrosii)
+   Año: 1677
+   Ubicación: Volumen 1, pagina_0023-OCR.json
+
+   BNE: Bibliothecae Dominicanae
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+104. CATÁLOGO: De tota arte militari
+   Autor: Bosquieus (F. Filipus)
+   Año: 1615
+   Lugar: Coloniae
+   Ubicación: Volumen 1, pagina_0088-OCR.json
+
+   BNE: De re militari
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+105. CATÁLOGO: De Philologia Parisiis
+   Autor: Budaei (Guillielmi)
+   Año: 1536
+   Lugar: Paris
+   Ubicación: Volumen 1, pagina_0097-OCR.json
+
+   BNE: De philologia libri. II
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+106. CATÁLOGO: Aviso de Principes
+   Autor: Figueroa (F. Pedro)
+   Año: 1647
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0213-OCR.json
+
+   BNE: Amistades de Principes
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+107. CATÁLOGO: Historia Ecclesiastica
+   Autor: Frantii (Jo. Joachimi)
+   Año: 1644
+   Lugar: Estrasburgo
+   Ubicación: Volumen 1, pagina_0223-OCR.json
+
+   BNE: Histoire ecclesiastique
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+108. CATÁLOGO: Compendio de Doctrina Christiana
+   Autor: Granada (Fr. Luis)
+   Año: 1595
+   Lugar: Granada
+   Número catálogo: 230
+   Ubicación: Volumen 1, pagina_0251-OCR.json
+
+   BNE: De sacramentis; De doctrina christiana
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+109. CATÁLOGO: Constituciones Sinodales Del Arzobispado de Granada 4.º Granada
+   Autor: Guerrero (Hmo. P. Pedro)
+   Año: 1573
+   Lugar: Granada
+   Ubicación: Volumen 1, pagina_0259-OCR.json
+
+   BNE: Constituciones sinodales del Arçobispado de Valencia
+   Similitud: 80.0%
+
+--------------------------------------------------------------------------------
+
+110. CATÁLOGO: Historias Antiguedades y Grandezas de la ciudad de
+   Autor: Espinosa (D. Pablo)
+   Año: 1627
+   Lugar: Sevilla
+   Ubicación: Volumen 1, pagina_0195-OCR.json
+
+   BNE: Historia sexitana de la antiguedad i grandezas de la ciudad de Belez
+   Similitud: 79.7%
+
+--------------------------------------------------------------------------------
+
+111. CATÁLOGO: Tractatus de Cognitione per viam violentiae in causis Ecclesiasticis: fol. toleti
+   Autor: Cevallos (Hyeronimi)
+   Año: 1618
+   Ubicación: Volumen 1, pagina_0129-OCR.json
+
+   BNE: Tractatus de cognitione per viam violentiae in causis ecclesiasticis & inter personas ecclesiasticas duplex ...
+   Similitud: 79.4%
+
+--------------------------------------------------------------------------------
+
+112. CATÁLOGO: Decengano de Amor en Rimas 8.° Ciudad
+   Autor: Soto de Roxas (Lic. Pedro)
+   Año: 1623
+   Ubicación: Volumen 2, pagina_0277-OCR.json
+
+   BNE: Desengaño de amor en rimas
+   Similitud: 79.4%
+
+--------------------------------------------------------------------------------
+
+113. CATÁLOGO: Campi Eloquentiae in Canis
+   Autor: Cerda (Melchior)
+   Año: 1616
+   Ubicación: Volumen 1, pagina_0127-OCR.json
+
+   BNE: Campi eloquentiae
+   Similitud: 79.1%
+
+--------------------------------------------------------------------------------
+
+114. CATÁLOGO: Orlando furioso Venecia
+   Autor: Ariosto (Ludovico)
+   Año: 1567
+   Lugar: Venecia
+   Número catálogo: 6
+   Ubicación: Volumen 1, pagina_0041-OCR.json
+
+   BNE: Orlando furioso
+   Similitud: 78.9%
+
+--------------------------------------------------------------------------------
+
+115. CATÁLOGO: La Numandina 4.º
+   Autor: Mosquera (D.º Fran.º)
+   Año: 1613
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0074-OCR.json
+
+   BNE: La Numantina
+   Similitud: 78.6%
+
+--------------------------------------------------------------------------------
+
+116. CATÁLOGO: Compendio de la Esfera y Arte de Navegar: fol
+   Autor: Cortés (Martin)
+   Año: 1556
+   Lugar: Sevilla
+   Número catálogo: 66
+   Ubicación: Volumen 1, pagina_0155-OCR.json
+
+   BNE: Compendio de la arte de navegacion
+   Similitud: 78.5%
+
+--------------------------------------------------------------------------------
+
+117. CATÁLOGO: Explanatio Psalmorum Nº 251. 4"
+   Autor: Flaminii (M. Antonii)
+   Número catálogo: 251
+   Ubicación: Volumen 1, pagina_0216-OCR.json
+
+   BNE: Explanatio Psalmorum
+   Similitud: 78.4%
+
+--------------------------------------------------------------------------------
+
+118. CATÁLOGO: Recueil de Divers Pieces Pour servir a l'Histoire fol. Past. Num. 305. 30
+   Autor: [Anónimo]
+   Ubicación: Volumen 2, pagina_0191-OCR.json
+
+   BNE: Recueil des diverses pieces pour servir a l'Histoire
+   Similitud: 78.4%
+
+--------------------------------------------------------------------------------
+
+119. CATÁLOGO: De antiqua inter Gallos et Hispanos in Divinis et humanis rebus Communione 4° Lugduni
+   Autor: Rosello (Pedro)
+   Año: 1660
+   Lugar: Lugduni
+   Ubicación: Volumen 2, pagina_0219-OCR.json
+
+   BNE: De antiqua Gallias inter, atque Hispanias in diuinis, et humanis rebus communione
+   Similitud: 78.3%
+
+--------------------------------------------------------------------------------
+
+120. CATÁLOGO: Philosophia antiqua
+   Autor: Pinciano (P. Alonso López)
+   Año: 1596
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0155-OCR.json
+
+   BNE: Philosophia antigua poetica
+   Similitud: 78.3%
+
+--------------------------------------------------------------------------------
+
+121. CATÁLOGO: Positionis juris civilis juxta institutiones justinianas Wratislaviae ann
+   Autor: Zech. (C. C. de)
+   Año: 1755
+   Ubicación: Volumen 2, pagina_0368-OCR.json
+
+   BNE: Positiones juris civilis juxta Institutiones Justinianeas et Corpus Juris Fridericiani
+   Similitud: 78.0%
+
+--------------------------------------------------------------------------------
+
+122. CATÁLOGO: Grammatica Linguae Etruscae SC
+   Autor: Seaman (Gulielmo)
+   Ubicación: Volumen 2, pagina_0259-OCR.json
+
+   BNE: Grammatistica linguae Graecae
+   Similitud: 78.0%
+
+--------------------------------------------------------------------------------
+
+123. CATÁLOGO: Disertación sobre la utilidad de una ley que precise a los Testadores instituir Herederos a los Parientes mas cercanos
+   Autor: Navarro (Dº Fernando de)
+   Año: 1767
+   Lugar: Valencia
+   Ubicación: Volumen 2, pagina_0082-OCR.json
+
+   BNE: Disertacion sobre la justicia y utilidad de una ley que precise á los testadores á instituir por herederos á sus parientes mas cercanos, en defecto de descendientes, y ascendientes
+   Similitud: 77.9%
+
+--------------------------------------------------------------------------------
+
+124. CATÁLOGO: Sus Poesias
+   Autor: Melendez Valdes (D. Juan)
+   Año: 1785
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0039-OCR.json
+
+   BNE: Poesias
+   Similitud: 77.8%
+
+--------------------------------------------------------------------------------
+
+125. CATÁLOGO: Tratado de Barricas, y Chavales Valencia
+   Autor: Orellano (D. Francisco Vicente)
+   Año: 1755
+   Lugar: Valencia
+   Ubicación: Volumen 2, pagina_0116-OCR.json
+
+   BNE: Tratado de barnices, y charoles ...
+   Similitud: 77.8%
+
+--------------------------------------------------------------------------------
+
+126. CATÁLOGO: Los Claros Varones de España 4.º Valladolid
+   Autor: Pulgar (Hernando de)
+   Año: 1545
+   Ubicación: Volumen 2, pagina_0177-OCR.json
+
+   BNE: Los claros varones de Espanna
+   Similitud: 77.8%
+
+--------------------------------------------------------------------------------
+
+127. CATÁLOGO: Poesias 4.°
+   Autor: Quevedo y Villegas (D. Fran.)
+   Año: 1753
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0181-OCR.json
+
+   BNE: Poesias
+   Similitud: 77.8%
+
+--------------------------------------------------------------------------------
+
+128. CATÁLOGO: Tratato della Rigola prossima de Othcasironi Umane, nella Silva delle opinioni: 1.° 2 tom. Venetia
+   Autor: Patuzzi (P.F. Giovan Vincenzo)
+   Año: 1758
+   Ubicación: Volumen 2, pagina_0139-OCR.json
+
+   BNE: Trattato della regola prossima delle azioni umane nella scelta delle opinioni
+   Similitud: 77.7%
+
+--------------------------------------------------------------------------------
+
+129. CATÁLOGO: Catálogo de los Obispos de Sigüenza
+   Autor: Portocarrero (D. Diego Sánchez)
+   Año: 1646
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0171-OCR.json
+
+   BNE: Catalogo de los santos de España
+   Similitud: 77.6%
+
+--------------------------------------------------------------------------------
+
+130. CATÁLOGO: Sobre la falidad del Principado de Cataluña, inclinacion de sus Habitaciones, y su Gobierno 4.° Lérida
+   Autor: Gilabert (D. Fran.)
+   Año: 1616
+   Número catálogo: 24
+   Ubicación: Volumen 1, pagina_0241-OCR.json
+
+   BNE: Discursos sobre la calidad del Principado de Cataluña, inclinación de sus habitadores y su govierno : dirigidos a diversos Mecenas
+   Similitud: 77.6%
+
+--------------------------------------------------------------------------------
+
+131. CATÁLOGO: El Patron de España edo N. 8 6
+   Autor: Mera (Christoval de)
+   Ubicación: Volumen 2, pagina_0050-OCR.json
+
+   BNE: El patron de España
+   Similitud: 77.6%
+
+--------------------------------------------------------------------------------
+
+132. CATÁLOGO: Historia de las Guerras de Flandes
+   Autor: Trillo (Antonio)
+   Año: 1592
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0308-OCR.json
+
+   BNE: Historia de las guerras ciuiles de los romanos
+   Similitud: 77.5%
+
+--------------------------------------------------------------------------------
+
+133. CATÁLOGO: Academica in unum Volumen collecta, Dissertationes, orationes programmatæ 4° Argentorati
+   Autor: Obrechtii (Vlrici)
+   Año: 1706
+   Lugar: Estrasburgo
+   Ubicación: Volumen 2, pagina_0103-OCR.json
+
+   BNE: Ulrici Obrechti Academica in unum volumen collecta dissertationes, orationes, programmata &c. complexum
+   Similitud: 77.5%
+
+--------------------------------------------------------------------------------
+
+134. CATÁLOGO: Defensa de la Historia General de España del P. Mariana
+   Autor: Vargas (D. Thomas Tamayo de)
+   Año: 1616
+   Ubicación: Volumen 2, pagina_0319-OCR.json
+
+   BNE: Historia general de España del P.D. Iuan de Mariana
+   Similitud: 77.4%
+
+--------------------------------------------------------------------------------
+
+135. CATÁLOGO: De jurae naturae et gentium 8.º Lipsiae
+   Autor: Risel (Joannis Jacovi)
+   Año: 1689
+   Ubicación: Volumen 2, pagina_0205-OCR.json
+
+   BNE: De Jure nature et gentium libri octo
+   Similitud: 77.3%
+
+--------------------------------------------------------------------------------
+
+136. CATÁLOGO: Constituciones Synodales del Arzobispado de Toledo fol. Toledo
+   Autor: Moscoso (Ex. Señor D.º Balthasar de)
+   Año: 1682
+   Ubicación: Volumen 2, pagina_0073-OCR.json
+
+   BNE: Constituciones sinodales del Arçobispado de Valencia
+   Similitud: 77.2%
+
+--------------------------------------------------------------------------------
+
+137. CATÁLOGO: De Republica Hebraeorum fol. Parisii
+   Autor: Menochio (R.P. Joannis Stephani)
+   Año: 1648
+   Ubicación: Volumen 2, pagina_0048-OCR.json
+
+   BNE: De Republica Hebraeorum libri octo
+   Similitud: 77.1%
+
+--------------------------------------------------------------------------------
+
+138. CATÁLOGO: De Symbolia Aegyptiorum Sapientia cum Hieroglyphis
+   Autor: Camimy (Nicolaus)
+   Año: 1654
+   Lugar: ibid
+   Ubicación: Volumen 1, pagina_0126-OCR.json
+
+   BNE: De symbolica Aegyptiorum sapienta
+   Similitud: 77.1%
+
+--------------------------------------------------------------------------------
+
+139. CATÁLOGO: Dissertationes academicae 8.° Parisii
+   Autor: Gisbenti (P. F.)
+   Año: 1688
+   Número catálogo: 290
+   Ubicación: Volumen 1, pagina_0243-OCR.json
+
+   BNE: Dissertationes Academicae Io. Henrici Boecleri
+   Similitud: 77.1%
+
+--------------------------------------------------------------------------------
+
+140. CATÁLOGO: Arte Militar
+   Autor: Aueschi (Vaxon de)
+   Año: 1644
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0048-OCR.json
+
+   BNE: De re militari
+   Similitud: 76.9%
+
+--------------------------------------------------------------------------------
+
+141. CATÁLOGO: Poesie
+   Autor: Campeggi (il Conte Ridolfo)
+   Año: 1620
+   Ubicación: Volumen 1, pagina_0107-OCR.json
+
+   BNE: Poesias
+   Similitud: 76.9%
+
+--------------------------------------------------------------------------------
+
+142. CATÁLOGO: Respublica de Statu Imperii Romani Germanici 12.° 2 tom. digd. Satus
+   Autor: [Anónimo]
+   Año: 1634
+   Ubicación: Volumen 2, pagina_0197-OCR.json
+
+   BNE: Respublica et status Imperii Romano-Germanici  : [-Tomus II]
+   Similitud: 76.8%
+
+--------------------------------------------------------------------------------
+
+143. CATÁLOGO: Historia General de las Indias fol
+   Autor: Hernandez Oviedo (Gonzalo)
+   Año: 1535
+   Lugar: Sevilla
+   Número catálogo: 120
+   Ubicación: Volumen 1, pagina_0273-OCR.json
+
+   BNE: Historia general de España
+   Similitud: 76.7%
+
+--------------------------------------------------------------------------------
+
+144. CATÁLOGO: Ritratti della Poesia et Heroi Moncadi nella Sicilia 2 tom. Salenza
+   Autor: Lengueglia (Tiov. Agustino)
+   Año: 1657
+   Número catálogo: 212
+   Ubicación: Volumen 1, pagina_0319-OCR.json
+
+   BNE: Ritratti della prosapia et heroi Moncadi nella Sicilia  : opera historica - encomiastica
+   Similitud: 76.6%
+
+--------------------------------------------------------------------------------
+
+145. CATÁLOGO: Historia natural de Indias 4°
+   Autor: Acosta (P. Joseph)
+   Año: 1589
+   Lugar: Madrid
+   Número catálogo: 6
+   Ubicación: Volumen 1, pagina_0012-OCR.json
+
+   BNE: Historia naturalis
+   Similitud: 76.6%
+
+--------------------------------------------------------------------------------
+
+146. CATÁLOGO: dibuxo de la monte-ria. fol
+   Autor: Argote de Molina (Gonzalo)
+   Año: 1582
+   Lugar: Sevilla
+   Ubicación: Volumen 1, pagina_0038-OCR.json
+
+   BNE: Libro de la monteria
+   Similitud: 76.6%
+
+--------------------------------------------------------------------------------
+
+147. CATÁLOGO: Respublica sive Status Regni Scotiae et hiberniae 12.° Lugduni Satus
+   Autor: [Anónimo]
+   Año: 1627
+   Lugar: Lugduni
+   Ubicación: Volumen 2, pagina_0197-OCR.json
+
+   BNE: Respublica siue Status regni Scotiae et Hiberniae diuersorum autorum
+   Similitud: 76.5%
+
+--------------------------------------------------------------------------------
+
+148. CATÁLOGO: Yd. De jure naturali et gentium juxta disciplinam hebræorum 4 Wittembergæ
+   Autor: [Anónimo]
+   Año: 1712
+   Ubicación: Volumen 2, pagina_0262-OCR.json
+
+   BNE: Joannis Seldeni De jure naturali et gentium juxta disciplinam ebraeorum libri septem
+   Similitud: 76.4%
+
+--------------------------------------------------------------------------------
+
+149. CATÁLOGO: Prosodia del lengua latina
+   Autor: San Juan Bautista (F. Agustín)
+   Año: 1744
+   Lugar: Zaragoza
+   Ubicación: Volumen 2, pagina_0240-OCR.json
+
+   BNE: Gramatica de la lengua latina
+   Similitud: 76.4%
+
+--------------------------------------------------------------------------------
+
+150. CATÁLOGO: Gramatica lacomca ó Epitome de la lengua latina
+   Autor: Campo (Dn Venacio)
+   Año: 1787
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0107-OCR.json
+
+   BNE: Gramatica de la lengua latina
+   Similitud: 76.3%
+
+--------------------------------------------------------------------------------
+
+151. CATÁLOGO: Libro dela Yberiada de los echos de Escipion Africano en estar parte a España, donde se da cuenta de muchos famosos Españoles: escrito en octavas reales: 12.° Valladolid
+   Autor: Savaniego (Garbar)
+   Año: 1603
+   Ubicación: Volumen 2, pagina_0252-OCR.json
+
+   BNE: Libro de la Iberiada de los hechos de Scipion Africano en estas partes de España donde se da cuenta de sus victorias y de muchos famosos españoles
+   Similitud: 76.2%
+
+--------------------------------------------------------------------------------
+
+152. CATÁLOGO: Advertencias para torear con el Rexon 8ª
+   Autor: Trexo (D. Luis de)
+   Año: 1639
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0308-OCR.json
+
+   BNE: Aduertencias y obligaciones para torear con el rejon
+   Similitud: 76.1%
+
+--------------------------------------------------------------------------------
+
+153. CATÁLOGO: De sacro Foedere in Selimum Eumdem - Variae Expeditiones in Africam cum obidione militiae 4. Genuae
+   Autor: Folceta (Bertuy)
+   Año: 1587
+   Número catálogo: 187
+   Ubicación: Volumen 1, pagina_0219-OCR.json
+
+   BNE: Uberti Folietae De Sacro foedere in selimum libri quattuor ;  eiusdem Variae expeditiones in Africam, cum obsidione Melitae
+   Similitud: 76.0%
+
+--------------------------------------------------------------------------------
+
+154. CATÁLOGO: Arte de escribir todas formas de letras fol.
+   Autor: Casanova (M. Joseph)
+   Año: 1680
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0118-OCR.json
+
+   BNE: Primera parte del Arte de escrivir todas formas de letras
+   Similitud: 76.0%
+
+--------------------------------------------------------------------------------
+
+155. CATÁLOGO: Historia de
+   Autor: Quintana (Jerónimo)
+   Año: 1629
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0183-OCR.json
+
+   BNE: Historia de Italia
+   Similitud: 75.9%
+
+--------------------------------------------------------------------------------
+
+156. CATÁLOGO: De Constantinopoleos Topographia 16.° Lugduni
+   Autor: Gilibius (Petrius)
+   Año: 1632
+   Lugar: Lugduni
+   Número catálogo: 228
+   Ubicación: Volumen 1, pagina_0241-OCR.json
+
+   BNE: P. Gyllii De Constantinopoleos topographia lib. IV
+   Similitud: 75.8%
+
+--------------------------------------------------------------------------------
+
+157. CATÁLOGO: De Constantinopoleos Topographia 16.° Lugduni
+   Autor: Gilibius (Petrius)
+   Año: 1562
+   Lugar: Lugduni
+   Número catálogo: 77
+   Ubicación: Volumen 1, pagina_0241-OCR.json
+
+   BNE: P. Gyllii De Constantinopoleos topographia lib. IV
+   Similitud: 75.8%
+
+--------------------------------------------------------------------------------
+
+158. CATÁLOGO: Historia de la Conquista de Mexico
+   Autor: Salazar (D.° Ignacio)
+   Año: 1743
+   Ubicación: Volumen 2, pagina_0233-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 75.8%
+
+--------------------------------------------------------------------------------
+
+159. CATÁLOGO: Cartas familiares
+   Autor: Andres (El Abate D. Juan)
+   Año: 1786
+   Lugar: Madrid
+   Número catálogo: 49
+   Ubicación: Volumen 1, pagina_0029-OCR.json
+
+   BNE: Epistolas familiares
+   Similitud: 75.7%
+
+--------------------------------------------------------------------------------
+
+160. CATÁLOGO: Historia Orientalis
+   Autor: Harmenii (Haitonii)
+   Año: 1671
+   Ubicación: Volumen 1, pagina_0044-OCR.json
+
+   BNE: Historia de Italia
+   Similitud: 75.7%
+
+--------------------------------------------------------------------------------
+
+161. CATÁLOGO: Theologia Naturalis
+   Autor: Secundus (Raymundus)
+   Año: 1609
+   Lugar: Paris
+   Número catálogo: 26
+   Ubicación: Volumen 2, pagina_0260-OCR.json
+
+   BNE: Historia naturalis
+   Similitud: 75.7%
+
+--------------------------------------------------------------------------------
+
+162. CATÁLOGO: Orfeo en lengua Castellana
+   Autor: Montalban (D. Juan Perez de)
+   Año: 1626
+   Lugar: Madrid
+   Número catálogo: 27
+   Ubicación: Volumen 2, pagina_0063-OCR.json
+
+   BNE: Orfeo en lengua castellana a la decima musa
+   Similitud: 75.4%
+
+--------------------------------------------------------------------------------
+
+163. CATÁLOGO: El Ayo y Maestro de Principes
+   Autor: Velasco y Trevexo (D. Juan Banoz)
+   Año: 1674
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0325-OCR.json
+
+   BNE: El ayo y maestro de principes Seneca en su vida ...
+   Similitud: 75.3%
+
+--------------------------------------------------------------------------------
+
+164. CATÁLOGO: Vida de doce Principes dela Medicina y de su origen: 8.º Burgos
+   Autor: Villa (F. Esteban de)
+   Año: 1647
+   Lugar: Burgos
+   Ubicación: Volumen 2, pagina_0335-OCR.json
+
+   BNE: Libro de las vidas de los doze principes de la Medicina y de su origen
+   Similitud: 75.2%
+
+--------------------------------------------------------------------------------
+
+165. CATÁLOGO: Arte de Equadrar
+   Autor: Alcazar (D. Melchor)
+   Año: 1730
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0019-OCR.json
+
+   BNE: Arte de enfrenar
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+166. CATÁLOGO: Orthographia Latina
+   Autor: Cesareo (Christophori)
+   Año: 1732
+   Lugar: Venecia
+   Ubicación: Volumen 1, pagina_0127-OCR.json
+
+   BNE: Orthographia Española
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+167. CATÁLOGO: El Ingeniero de la moderna Arquitectura
+   Autor: Medrano (D. Sebastián)
+   Año: 1687
+   Ubicación: Volumen 2, pagina_0036-OCR.json
+
+   BNE: El ingeniero : primera parte, de la moderna arquitectura militar ...
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+168. CATÁLOGO: Epistola familiaris Zaragoza
+   Autor: Ortiz (F. Francisco)
+   Año: 1552
+   Lugar: Zaragoza
+   Ubicación: Volumen 2, pagina_0119-OCR.json
+
+   BNE: Epistolas familiares
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+169. CATÁLOGO: Ortografia Castellana. 8.º Zaragoza
+   Autor: Palafox (Illmo. Dtor Juan)
+   Año: 1679
+   Lugar: Zaragoza
+   Ubicación: Volumen 2, pagina_0125-OCR.json
+
+   BNE: Ortografia Castellana...
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+170. CATÁLOGO: Candidatus Rhetoricae 12.° Venetiis
+   Autor: Pomey (P. Fran.)
+   Año: 1734
+   Lugar: Venecia
+   Número catálogo: 19
+   Ubicación: Volumen 2, pagina_0169-OCR.json
+
+   BNE: Candidatus rhetoricae
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+171. CATÁLOGO: Christales Policos
+   Autor: Salcedo (D. García)
+   Año: 1649
+   Lugar: Madrid
+   Número catálogo: 20
+   Ubicación: Volumen 2, pagina_0237-OCR.json
+
+   BNE: Christales de Helicona
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+172. CATÁLOGO: Dictionnaire Universel de Commerce folio 3 tomos París
+   Autor: Sabani (Jacques)
+   Año: 1741
+   Ubicación: Volumen 2, pagina_0253-OCR.json
+
+   BNE: Dictionnaire vniversel de Commerce...
+   Similitud: 75.0%
+
+--------------------------------------------------------------------------------
+
+173. CATÁLOGO: Historia de la Ciudad de Toledo fol. Toledo
+   Autor: Alcocer (Pedro)
+   Año: 1554
+   Ubicación: Volumen 1, pagina_0021-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 74.7%
+
+--------------------------------------------------------------------------------
+
+174. CATÁLOGO: M. A. Idea de la Grammatica de la Lengua Latina 3
+   Autor: [Anónimo]
+   Año: 1768
+   Lugar: Valencia
+   Ubicación: Volumen 2, pagina_0033-OCR.json
+
+   BNE: Gramatica de la lengua latina
+   Similitud: 74.4%
+
+--------------------------------------------------------------------------------
+
+175. CATÁLOGO: Corona Gothica Castellana y Austriaca en 4.º 3 tom
+   Autor: Saavedra (D. Diego)
+   Año: 1658
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0227-OCR.json
+
+   BNE: Corona gothica castellana y austriaca politicamente illustrada ...
+   Similitud: 74.3%
+
+--------------------------------------------------------------------------------
+
+176. CATÁLOGO: Apologie pour Herodote de la conformite des Charnaveils anciennes: 12.° Past. Haye
+   Autor: Estienne (Henrre)
+   Año: 1735
+   Ubicación: Volumen 1, pagina_0197-OCR.json
+
+   BNE: Apologie pour Herodote. Ou traité de la conformité des merveilles anciennes avec les modernes...
+   Similitud: 74.3%
+
+--------------------------------------------------------------------------------
+
+177. CATÁLOGO: Historia de la Conquista de México fol
+   Autor: Solís (D. Antonio)
+   Año: 1748
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0275-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 74.3%
+
+--------------------------------------------------------------------------------
+
+178. CATÁLOGO: Tratado de la hermosura
+   Autor: Calsi (Maximiliano)
+   Ubicación: Volumen 1, pagina_0105-OCR.json
+
+   BNE: Del tractado de la hermosura y del amor
+   Similitud: 74.2%
+
+--------------------------------------------------------------------------------
+
+179. CATÁLOGO: Della Ragione di Stato Milano
+   Autor: Settala (Ludovico)
+   Año: 1627
+   Ubicación: Volumen 2, pagina_0267-OCR.json
+
+   BNE: Della ragion di stato libri sette
+   Similitud: 74.2%
+
+--------------------------------------------------------------------------------
+
+180. CATÁLOGO: Constituciones Synodales del Arzobispado de Santiago: 4.° Carta Santiago
+   Autor: Taboada (Ilmo. D. Cayetano Gil)
+   Año: 1747
+   Ubicación: Volumen 2, pagina_0289-OCR.json
+
+   BNE: Constituciones sinodales del Arçobispado de Valencia
+   Similitud: 74.2%
+
+--------------------------------------------------------------------------------
+
+181. CATÁLOGO: Claxorum Valentinorum Yunnesii, Martini Majansii insulae aliorumque orationes selectae 8.º Lusanae
+   Autor: [Anónimo]
+   Año: 1767
+   Ubicación: Volumen 1, pagina_0138-OCR.json
+
+   BNE: Clarorum Valentinorum Petri Joannis Nunnesii, Emanuelis Martini, Gregori Majansii, Joannis Insulae, aliorumque orationes selectae
+   Similitud: 74.0%
+
+--------------------------------------------------------------------------------
+
+182. CATÁLOGO: Epigramatum Ambro Britanni Oxoniensis Amstelodami
+   Autor: Owenti. (Juan)
+   Año: 1647
+   Ubicación: Volumen 2, pagina_0122-OCR.json
+
+   BNE: Epigrammatum Ioan. OwenI Cambro BritannI Oxoniensis
+   Similitud: 74.0%
+
+--------------------------------------------------------------------------------
+
+183. CATÁLOGO: Epistolae duae altera Clementi VII. ad Carolum V, altera Caroli V. Clementi Respondentis Basileae
+   Autor: [Anónimo]
+   Año: 1528
+   Ubicación: Volumen 1, pagina_0189-OCR.json
+
+   BNE: Epistolae duae altera Clementis. VII. Papae, ad Carolum V. Imperatorem Aug. &c. altera Caroli V. Imp. Aug. &c. Clementi respondentis, legisse iuuabit
+   Similitud: 74.0%
+
+--------------------------------------------------------------------------------
+
+184. CATÁLOGO: Histoire des Grands chemins
+   Autor: Bergier (Nicolas)
+   Año: 1736
+   Ubicación: Volumen 1, pagina_0073-OCR.json
+
+   BNE: Histoire des grands chemins de l'Empire Romain
+   Similitud: 74.0%
+
+--------------------------------------------------------------------------------
+
+185. CATÁLOGO: Itt España primitiva: historia de sus Reyes y monarcas 8.° 2 tom
+   Autor: Huerta y Vega (Dr. Francisco Xavier)
+   Año: 1738
+   Lugar: Madrid
+   Número catálogo: 126
+   Ubicación: Volumen 1, pagina_0288-OCR.json
+
+   BNE: España primitiva historia de sus reyes y monarcas desde su poblacion hasta Christo
+   Similitud: 74.0%
+
+--------------------------------------------------------------------------------
+
+186. CATÁLOGO: Bien del honrado trabajo y daño de la ociosidad
+   Autor: Guzmán (El P. Pedro)
+   Año: 1614
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0263-OCR.json
+
+   BNE: Bienes de el honesto trabajo y daños de la ociosidad : en ocho discursos
+   Similitud: 73.9%
+
+--------------------------------------------------------------------------------
+
+187. CATÁLOGO: Statuta Collegii Moirini Sancti Clementis Hispanorum Bononiae fol. Bononiae
+   Autor: [Anónimo]
+   Año: 1648
+   Número catálogo: 35
+   Ubicación: Volumen 2, pagina_0281-OCR.json
+
+   BNE: Statuta almi, et perinsignis Collegij Maioris Sancti Clementis Hispanorum Bononiae conditi
+   Similitud: 73.9%
+
+--------------------------------------------------------------------------------
+
+188. CATÁLOGO: Biblioteca Juris naturae, et Gentium 8° tres tom.
+   Autor: Meisteri (D. Christian. Frid. Georg.)
+   Año: 1749
+   Lugar: Gotinga
+   Ubicación: Volumen 2, pagina_0037-OCR.json
+
+   BNE: Bibliotheca Ivris Natvrae et Gentivm
+   Similitud: 73.8%
+
+--------------------------------------------------------------------------------
+
+189. CATÁLOGO: De Republica Hæbreaorum
+   Autor: Cunalijs (Petri)
+   Año: 1617
+   Ubicación: Volumen 1, pagina_0161-OCR.json
+
+   BNE: De Republica Hebraeorum libri octo
+   Similitud: 73.7%
+
+--------------------------------------------------------------------------------
+
+190. CATÁLOGO: tratado de Orthografia Castellana 8°
+   Autor: Mañer (D. Salvador)
+   Año: 1742
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0010-OCR.json
+
+   BNE: Ortografia Castellana...
+   Similitud: 73.7%
+
+--------------------------------------------------------------------------------
+
+191. CATÁLOGO: Divertationes Academicae 12.º Norimbergae
+   Autor: Eschembach (Andreae Christiani)
+   Año: 1705
+   Número catálogo: 103
+   Ubicación: Volumen 1, pagina_0192-OCR.json
+
+   BNE: Dissertationes Academicae Io. Henrici Boecleri
+   Similitud: 73.6%
+
+--------------------------------------------------------------------------------
+
+192. CATÁLOGO: Response à l’advertissement, adressé par le Serenissime Roy de la Grande Bretagne 12° A Roven
+   Autor: Coeffiteau (F. N.)
+   Año: 1610
+   Ubicación: Volumen 1, pagina_0141-OCR.json
+
+   BNE: Responce à l'aduertissement, addressé par le serenissime roy de la grande Bretagne Iacques I à tous les princes & potentats de la Chrestienté
+   Similitud: 73.5%
+
+--------------------------------------------------------------------------------
+
+193. CATÁLOGO: Respublica Status Regni Galliae Ludg. Satus
+   Autor: [Anónimo]
+   Año: 1636
+   Número catálogo: 50
+   Ubicación: Volumen 2, pagina_0197-OCR.json
+
+   BNE: Respublica, siue status regni Galliæ
+   Similitud: 73.4%
+
+--------------------------------------------------------------------------------
+
+194. CATÁLOGO: Santoral Español
+   Autor: Medina, Conde (D.º Christoval de)
+   Año: 1764
+   Lugar: Granada
+   Ubicación: Volumen 2, pagina_0035-OCR.json
+
+   BNE: Tacito español
+   Similitud: 73.3%
+
+--------------------------------------------------------------------------------
+
+195. CATÁLOGO: Historia General de España fol. 2 tom. Toledo
+   Autor: [Anónimo]
+   Año: 1601
+   Ubicación: Volumen 2, pagina_0016-OCR.json
+
+   BNE: Historia general de España
+   Similitud: 73.2%
+
+--------------------------------------------------------------------------------
+
+196. CATÁLOGO: Historia de la Conquista de el Itza fol
+   Autor: Villagutierre (D. Juan)
+   Año: 1700
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0336-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 73.2%
+
+--------------------------------------------------------------------------------
+
+197. CATÁLOGO: Apologia de Virgilio
+   Autor: Aguirre (P. Joaquin)
+   Año: 1704
+   Lugar: Madrid
+   Número catálogo: 20
+   Ubicación: Volumen 1, pagina_0017-OCR.json
+
+   BNE: La Eneida de Virgilio
+   Similitud: 73.2%
+
+--------------------------------------------------------------------------------
+
+198. CATÁLOGO: Historia de Indias: fol.
+   Autor: Combes (P. Francisco)
+   Año: 1667
+   Lugar: Madrid
+   Número catálogo: 121
+   Ubicación: Volumen 1, pagina_0146-OCR.json
+
+   BNE: Historia de Italia
+   Similitud: 73.2%
+
+--------------------------------------------------------------------------------
+
+199. CATÁLOGO: Academia de Fortificacion: 4°
+   Autor: Villegas (D. Diego Enríquez)
+   Año: 1692
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0339-OCR.json
+
+   BNE: Examen de fortificacion
+   Similitud: 73.1%
+
+--------------------------------------------------------------------------------
+
+200. CATÁLOGO: Diferencias y libros que hay en el Universo
+   Autor: Venegas (Alex.)
+   Año: 1563
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0327-OCR.json
+
+   BNE: Primera parte de las diferencias de libros q[ue] ay en el vniuerso
+   Similitud: 72.9%
+
+--------------------------------------------------------------------------------
+
+201. CATÁLOGO: Historia General de España fol. 4 tom. Barcelona
+   Autor: Ganibay (Estevan C.)
+   Año: 1628
+   Lugar: Barcelona
+   Número catálogo: 122
+   Ubicación: Volumen 1, pagina_0233-OCR.json
+
+   BNE: Historia general de España del P.D. Iuan de Mariana
+   Similitud: 72.7%
+
+--------------------------------------------------------------------------------
+
+202. CATÁLOGO: Audiencia de Principes
+   Autor: Morales (Dn Jadragui)
+   Año: 1637
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0069-OCR.json
+
+   BNE: Amistades de Principes
+   Similitud: 72.7%
+
+--------------------------------------------------------------------------------
+
+203. CATÁLOGO: La Jornada de
+   Autor: Ribero (Antonio Luis)
+   Año: 1672
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0208-OCR.json
+
+   BNE: La iornada de Madrid
+   Similitud: 72.7%
+
+--------------------------------------------------------------------------------
+
+204. CATÁLOGO: de la may aromatica, Arbole y Frutales y otras medicinas que se traen de la India Oriental 8
+   Autor: Tragono (D. Juan)
+   Año: 1572
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0222-OCR.json
+
+   BNE: Discursos de las cosas aromaticas, arboles y frutales, y de otras muchas medicinas simples que se traen de la India Oriental, y siruen al vso de medicina
+   Similitud: 72.7%
+
+--------------------------------------------------------------------------------
+
+205. CATÁLOGO: Alabanza de las lenguas Hebreas, Griega, y otras 8.° Valencia Año
+   Autor: Giciano (Martin)
+   Año: 1765
+   Lugar: Valencia
+   Ubicación: Volumen 2, pagina_0332-OCR.json
+
+   BNE: Libro de alabanças d[e] las lenguas hebrea, griega, latina, castellana y valenciana
+   Similitud: 72.6%
+
+--------------------------------------------------------------------------------
+
+206. CATÁLOGO: Vida de N.ª Theresia de Jesus
+   Autor: Ribera (Francisco)
+   Año: 1590
+   Lugar: Salamanca
+   Ubicación: Volumen 2, pagina_0207-OCR.json
+
+   BNE: Harmonica vida de Santa Teresa de Jesus ...
+   Similitud: 72.5%
+
+--------------------------------------------------------------------------------
+
+207. CATÁLOGO: De re xitate conceptionis Beatissimae Virginis pro facienda dilatione canonis Patribus Concil. Basileae Romae
+   Autor: Torquemada (D. Io.)
+   Año: 1577
+   Lugar: Roma
+   Ubicación: Volumen 2, pagina_0302-OCR.json
+
+   BNE: Tractatus de veritate conceptione beatissime Virginis, pro facienda relatione coram patribus Concilii Basile[a]e, anno D[omi]ni MCCCCXXXVII mense Iulio ...
+   Similitud: 72.4%
+
+--------------------------------------------------------------------------------
+
+208. CATÁLOGO: Historia de la Ciudad de Segovia, y de Castilla fol
+   Autor: Colmenares (Diego de)
+   Año: 1640
+   Lugar: Madrid
+   Número catálogo: 143
+   Ubicación: Volumen 1, pagina_0144-OCR.json
+
+   BNE: Historia de la ciudad de Merida ...
+   Similitud: 72.3%
+
+--------------------------------------------------------------------------------
+
+209. CATÁLOGO: Vocabulario Italiano è Spagnuolo 8.° 2 tom. Venetia
+   Autor: Francimini (Laurenti)
+   Año: 1735
+   Ubicación: Volumen 1, pagina_0222-OCR.json
+
+   BNE: Vocabolario Italiano, e Spagnolo
+   Similitud: 72.3%
+
+--------------------------------------------------------------------------------
+
+210. CATÁLOGO: Historia Vinitiana
+   Autor: Bembo (M. Pietro)
+   Año: 1552
+   Ubicación: Volumen 1, pagina_0070-OCR.json
+
+   BNE: Historia de Italia
+   Similitud: 72.2%
+
+--------------------------------------------------------------------------------
+
+211. CATÁLOGO: Avisos Militares
+   Autor: Montemar (El Conde de)
+   Año: 1735
+   Ubicación: Volumen 2, pagina_0064-OCR.json
+
+   BNE: Epistolas familiares
+   Similitud: 72.2%
+
+--------------------------------------------------------------------------------
+
+212. CATÁLOGO: Constituciones Synodales de Toledo fol. ciuad
+   Autor: Fernando (el Infante D.)
+   Año: 1622
+   Ubicación: Volumen 1, pagina_0210-OCR.json
+
+   BNE: Constituciones sinodales del Arçobispado de Valencia
+   Similitud: 72.2%
+
+--------------------------------------------------------------------------------
+
+213. CATÁLOGO: De Eruditione Historicae 12.° Roterdami
+   Autor: Ridderi (Franc.)
+   Año: 1680
+   Ubicación: Volumen 2, pagina_0203-OCR.json
+
+   BNE: De eruditione historia
+   Similitud: 72.1%
+
+--------------------------------------------------------------------------------
+
+214. CATÁLOGO: Restauracion de la Ciudad del Salvador en la Provincia del Brasil por las armas de Felipe IV
+   Autor: Vargas (D. Thomas Tamayo de)
+   Año: 1628
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0319-OCR.json
+
+   BNE: Restauración de la ciudad del Salvador, i Baia de Todos-Sanctos en la Provincia del Brasil ...
+   Similitud: 72.1%
+
+--------------------------------------------------------------------------------
+
+215. CATÁLOGO: Memoires du Regne de Catherine Imperatrice de la Russie 8° past. Amsterdam
+   Autor: [Anónimo]
+   Año: 1728
+   Lugar: Amsterdam
+   Ubicación: Volumen 2, pagina_0041-OCR.json
+
+   BNE: Memoires du regne de Catherine, imperatrice & souveraine de toute la Russie, &c. &c. &c.
+   Similitud: 72.0%
+
+--------------------------------------------------------------------------------
+
+216. CATÁLOGO: 4 Ejusd. Rhetoricorum libri
+   Autor: [Anónimo]
+   Año: 1569
+   Lugar: ibid
+   Ubicación: Volumen 1, pagina_0040-OCR.json
+
+   BNE: Rhetoricorum libri IIII
+   Similitud: 72.0%
+
+--------------------------------------------------------------------------------
+
+217. CATÁLOGO: Histoire Ecclesiastique 4.º 36 tom. París
+   Autor: Fleury (M. l'Abbé)
+   Año: 1722
+   Número catálogo: 269
+   Ubicación: Volumen 1, pagina_0217-OCR.json
+
+   BNE: Histoire ecclesiastique
+   Similitud: 71.9%
+
+--------------------------------------------------------------------------------
+
+218. CATÁLOGO: Henrici VIII Angliae Regis Assertio Septem Sacramentorum adversus Lutherum
+   Autor: [Anónimo]
+   Año: 1562
+   Ubicación: Volumen 1, pagina_0271-OCR.json
+
+   BNE: Assertio septem sacramentorum aduersus Martin Lutherum
+   Similitud: 71.9%
+
+--------------------------------------------------------------------------------
+
+219. CATÁLOGO: Catherismo Historico, ó Compendio de la Historia Sagrada y de la Doctrina Christiana traducido por Dabeber y adornado de Estampas 4.º París
+   Autor: Fleury (M. l'Abbé)
+   Año: 1737
+   Ubicación: Volumen 1, pagina_0217-OCR.json
+
+   BNE: Catecismo histórico, ó Compendio de la Historia sagrada, y la Doctrina Christiana
+   Similitud: 71.8%
+
+--------------------------------------------------------------------------------
+
+220. CATÁLOGO: Ortographia Latina
+   Autor: Bordazar y Artazú (Antonio)
+   Año: 1730
+   Lugar: Valencia
+   Ubicación: Volumen 1, pagina_0086-OCR.json
+
+   BNE: Orthographia Española
+   Similitud: 71.8%
+
+--------------------------------------------------------------------------------
+
+221. CATÁLOGO: Salomonis Canticum Canticorum verisibus et commentariis illustratum Genebrardum et alios
+   Autor: [Anónimo]
+   Año: 1585
+   Lugar: Paris
+   Ubicación: Volumen 2, pagina_0235-OCR.json
+
+   BNE: Canticum Canticorum Salomonis : versibus et commentariis illustratum
+   Similitud: 71.8%
+
+--------------------------------------------------------------------------------
+
+222. CATÁLOGO: Historia del Sagunto Numancia y Carthago Alcala
+   Autor: Zamora (Lorenzo)
+   Año: 1589
+   Número catálogo: 135
+   Ubicación: Volumen 2, pagina_0366-OCR.json
+
+   BNE: Primera parte de la Historia de Sagunto, Numancia y Cartago
+   Similitud: 71.7%
+
+--------------------------------------------------------------------------------
+
+223. CATÁLOGO: Eiusd. Regionum Indicarum ab Hispanis devastatarum descriptio
+   Autor: [Anónimo]
+   Año: 1664
+   Ubicación: Volumen 1, pagina_0118-OCR.json
+
+   BNE: Regionum Indicarum per Hispanos olim deuastarum accuratissima descriptio ...
+   Similitud: 71.6%
+
+--------------------------------------------------------------------------------
+
+224. CATÁLOGO: Comment. in Virgili Maronis opera: 4°
+   Autor: [Anónimo]
+   Año: 1546
+   Lugar: Granada
+   Ubicación: Volumen 2, pagina_0086-OCR.json
+
+   BNE: P.[ublii] Virgilii Maronis opera...
+   Similitud: 71.6%
+
+--------------------------------------------------------------------------------
+
+225. CATÁLOGO: Corona Gotica Castellana, y Austriaca fol.° Parte 1ª Amberes
+   Autor: Núñez de Castro (Dn Alonso)
+   Año: 1687
+   Lugar: Amberes
+   Ubicación: Volumen 2, pagina_0101-OCR.json
+
+   BNE: Corona gothica castellana y austriaca politicamente illustrada ...
+   Similitud: 71.5%
+
+--------------------------------------------------------------------------------
+
+226. CATÁLOGO: Elogios dos Reis de Portugal con varios Retratos 4° Lisboa
+   Autor: Duto (Fr. Bernardo)
+   Año: 1603
+   Lugar: Lisboa
+   Ubicación: Volumen 1, pagina_0093-OCR.json
+
+   BNE: Elogios dos Reis de Portugal com os mais verdadeiros retratos que se puderaō achar
+   Similitud: 71.4%
+
+--------------------------------------------------------------------------------
+
+227. CATÁLOGO: Exposición del Credo: 12.° Tarragona
+   Autor: Gurrea (Diego)
+   Año: 1624
+   Número catálogo: 239
+   Ubicación: Volumen 1, pagina_0262-OCR.json
+
+   BNE: Exposicion del Credo
+   Similitud: 71.4%
+
+--------------------------------------------------------------------------------
+
+228. CATÁLOGO: Huelva ilustrada
+   Autor: Mora (Lic. D. Juan Agustín de)
+   Año: 1762
+   Lugar: Sevilla
+   Ubicación: Volumen 2, pagina_0068-OCR.json
+
+   BNE: La Austriada
+   Similitud: 71.4%
+
+--------------------------------------------------------------------------------
+
+229. CATÁLOGO: Jurisprudentia Naturalis
+   Autor: Nettelbladt (Danielis)
+   Año: 1767
+   Ubicación: Volumen 2, pagina_0091-OCR.json
+
+   BNE: Historia naturalis
+   Similitud: 71.4%
+
+--------------------------------------------------------------------------------
+
+230. CATÁLOGO: en verso
+   Autor: [Anónimo]
+   Año: 1776
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0323-OCR.json
+
+   BNE: Versos
+   Similitud: 71.4%
+
+--------------------------------------------------------------------------------
+
+231. CATÁLOGO: 7 ejusd. Notae, et observationes in Anastasium De vitis Roman. Pontif. 4° Parisiis
+   Autor: [Anónimo]
+   Año: 1680
+   Lugar: Paris
+   Número catálogo: 289
+   Ubicación: Volumen 1, pagina_0024-OCR.json
+
+   BNE: Antonii Dadini Alteserrae Notae et obseruationes in Anastasium De vitis Romanorum pontificum
+   Similitud: 71.3%
+
+--------------------------------------------------------------------------------
+
+232. CATÁLOGO: Compendio de la Doctrina Cristiana 8.°
+   Autor: Soto (Fr. Dominici)
+   Lugar: Madrid
+   Número catálogo: 237
+   Ubicación: Volumen 2, pagina_0276-OCR.json
+
+   BNE: De sacramentis; De doctrina christiana
+   Similitud: 71.1%
+
+--------------------------------------------------------------------------------
+
+233. CATÁLOGO: De officio Fisci fol
+   Autor: Alfano (D. Franciscus)
+   Año: 1639
+   Lugar: Madrid
+   Ubicación: Volumen 1, pagina_0021-OCR.json
+
+   BNE: De officiis
+   Similitud: 71.0%
+
+--------------------------------------------------------------------------------
+
+234. CATÁLOGO: Dei Difetti della Giurisprudencia fol. mayor Venecia
+   Autor: Muratori (L. Antonio)
+   Año: 1742
+   Lugar: Venecia
+   Ubicación: Volumen 2, pagina_0077-OCR.json
+
+   BNE: Dei difetti della giurisprudenza trattato
+   Similitud: 71.0%
+
+--------------------------------------------------------------------------------
+
+235. CATÁLOGO: Arte de memoria
+   Autor: Nolegar (Conde de)
+   Año: 1735
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0095-OCR.json
+
+   BNE: Arte de enfrenar
+   Similitud: 71.0%
+
+--------------------------------------------------------------------------------
+
+236. CATÁLOGO: Sagno. de Toledo Poema Heroico: 8.ª Barcelona
+   Autor: Valdivieso (Mtro. Josef D.)
+   Año: 1618
+   Lugar: Barcelona
+   Ubicación: Volumen 2, pagina_0313-OCR.json
+
+   BNE: Sagrario de Toledo : poema heroico
+   Similitud: 70.9%
+
+--------------------------------------------------------------------------------
+
+237. CATÁLOGO: 8 itt. Des cinqve propositions de Tansenie: 4.° Liege
+   Autor: [Anónimo]
+   Año: 1699
+   Ubicación: Volumen 1, pagina_0280-OCR.json
+
+   BNE: Histoire des cinq propositions de Jansénius
+   Similitud: 70.8%
+
+--------------------------------------------------------------------------------
+
+238. CATÁLOGO: Discursos de la Nobleza de Espana: 4°
+   Autor: Vargas (D. Bernabe de)
+   Año: 1622
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0318-OCR.json
+
+   BNE: Libro de la Gineta de España
+   Similitud: 70.8%
+
+--------------------------------------------------------------------------------
+
+239. CATÁLOGO: De los Tufos, Copetes y y Calvas. 4.º Baeza
+   Autor: Paton (Bartholome Ximeñez)
+   Año: 1639
+   Ubicación: Volumen 2, pagina_0138-OCR.json
+
+   BNE: Discurso de los tufos, copetes y caluas
+   Similitud: 70.7%
+
+--------------------------------------------------------------------------------
+
+240. CATÁLOGO: El Hombre feliz
+   Autor: Almeida (P. Theodoro)
+   Año: 1784
+   Lugar: Madrid
+   Número catálogo: 101
+   Ubicación: Volumen 1, pagina_0022-OCR.json
+
+   BNE: El hombre de letras
+   Similitud: 70.6%
+
+--------------------------------------------------------------------------------
+
+241. CATÁLOGO: El Hombre feliz
+   Autor: Almeida (P. Theodoro)
+   Ubicación: Volumen 1, pagina_0022-OCR.json
+
+   BNE: El hombre de letras
+   Similitud: 70.6%
+
+--------------------------------------------------------------------------------
+
+242. CATÁLOGO: Historia general del mundo desde el año de
+   Autor: Herrera (Dr. Antonio)
+   Año: 1524
+   Ubicación: Volumen 1, pagina_0274-OCR.json
+
+   BNE: Historia general de España
+   Similitud: 70.6%
+
+--------------------------------------------------------------------------------
+
+243. CATÁLOGO: Eusd. Artis gubernandi compendium 12.° Romae
+   Autor: [Anónimo]
+   Año: 1623
+   Lugar: Roma
+   Número catálogo: 61
+   Ubicación: Volumen 1, pagina_0298-OCR.json
+
+   BNE: Ars gubernandi compendio
+   Similitud: 70.6%
+
+--------------------------------------------------------------------------------
+
+244. CATÁLOGO: Metaphrasis poetica
+   Autor: Montano (P. Ger.)
+   Año: 1670
+   Ubicación: Volumen 2, pagina_0064-OCR.json
+
+   BNE: Tablas poeticas
+   Similitud: 70.6%
+
+--------------------------------------------------------------------------------
+
+245. CATÁLOGO: Discursos Morales
+   Autor: Mora (Juan de)
+   Año: 1589
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0068-OCR.json
+
+   BNE: Triumphos Morales
+   Similitud: 70.6%
+
+--------------------------------------------------------------------------------
+
+246. CATÁLOGO: Yd. de Triolii seu corum Poema ad chutidationem deg. 18 tit. 5 lib. 9. Recop
+   Autor: Avendaño (D. Antonius Cabrera)
+   Año: 1635
+   Ubicación: Volumen 1, pagina_0048-OCR.json
+
+   BNE: Tractatus absolutissimus de triplis, seu eorum poena, ad elucidationem l. I8 tit. 5 lib. 9 Recop ...
+   Similitud: 70.5%
+
+--------------------------------------------------------------------------------
+
+247. CATÁLOGO: Epitome de los Comentarios de Julio César
+   Autor: Bonyexe (D. Carlos)
+   Año: 1647
+   Lugar: Pamplona
+   Ubicación: Volumen 1, pagina_0086-OCR.json
+
+   BNE: Epitome de los Señores de Vizcaya
+   Similitud: 70.3%
+
+--------------------------------------------------------------------------------
+
+248. CATÁLOGO: Ordenanza para el Restablecimiento e instruccion de Intendentes fol.
+   Autor: [Anónimo]
+   Año: 1749
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0113-OCR.json
+
+   BNE: Ordenanza de 13. de octubre de 1749. para el restablecimiento, e instruccion de intendentes de provincias, y exercitos
+   Similitud: 70.3%
+
+--------------------------------------------------------------------------------
+
+249. CATÁLOGO: De Nobilita delle Donne 8.° Venetia
+   Autor: Donnerechi (Aldovico)
+   Año: 1552
+   Ubicación: Volumen 1, pagina_0179-OCR.json
+
+   BNE: La Nobilta delle Donne
+   Similitud: 70.2%
+
+--------------------------------------------------------------------------------
+
+250. CATÁLOGO: Dictionnaire Geographique Pasta
+   Autor: Echard (Lauren)
+   Año: 1747
+   Lugar: Paris
+   Ubicación: Volumen 1, pagina_0184-OCR.json
+
+   BNE: Le grand dictionnaire géographique et critique
+   Similitud: 70.1%
+
+--------------------------------------------------------------------------------
+
+251. CATÁLOGO: Arte de Negociar con los Soberanos, traducido por Bertomado: 12
+   Autor: Pequet (C.V.)
+   Año: 1741
+   Lugar: Madrid
+   Ubicación: Volumen 2, pagina_0140-OCR.json
+
+   BNE: Arte de negociar con los soberanos
+   Similitud: 70.1%
+
+--------------------------------------------------------------------------------
+
+252. CATÁLOGO: Davidis, Aliorumq. sacra xum vatum Psalmi
+   Autor: Arias Montano (Benedicti)
+   Año: 1574
+   Lugar: ibid
+   Número catálogo: 273
+   Ubicación: Volumen 1, pagina_0039-OCR.json
+
+   BNE: Dauidis regis ac prophetae aliorumque sacrorum vatum Psalmi
+   Similitud: 70.0%
+
+--------------------------------------------------------------------------------
+
