@@ -21,7 +21,7 @@ for page in {1..180}; do
     echo "[$page/180] Descargando: $url"
 
     # Descargar la página
-    curl -v "$url" > "$output_file" 2>&1
+    curl -v --insecure "$url" > "$output_file" 2>&1
 
     # Verificar si la descarga fue exitosa
     if [ $? -eq 0 ]; then
