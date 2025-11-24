@@ -17,7 +17,7 @@ TITULOS_BNE_FILE = "titulos_velasco.txt"
 OUTPUT_FILE = "obras_en_BNE.txt"
 
 # Umbral de similitud (0.0 a 1.0)
-SIMILARITY_THRESHOLD = 0.70
+SIMILARITY_THRESHOLD = 0.50  # Bajado a 50% para incluir más coincidencias con errores de OCR
 
 def normalize_text(text):
     """
@@ -257,10 +257,12 @@ def main():
     muy_alta = sum(1 for m in coincidencias if m['similitud'] >= 0.95)
     alta = sum(1 for m in coincidencias if 0.85 <= m['similitud'] < 0.95)
     media = sum(1 for m in coincidencias if 0.70 <= m['similitud'] < 0.85)
+    baja = sum(1 for m in coincidencias if 0.50 <= m['similitud'] < 0.70)
 
     print(f"  Muy alta (≥95%): {muy_alta}")
     print(f"  Alta (85-95%): {alta}")
     print(f"  Media (70-85%): {media}")
+    print(f"  Baja (50-70%): {baja}")
     print()
 
     # Mostrar primeras 10 coincidencias
